@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Scope
 Machine Learning (ML) can described as statistical and numerical methods which underpin modern algorithms for detecting patterns and inference. A common theme to many activities in ML today is that mathematical models based on sample data are used to train algorithms to work on real data. Applications include self-driven cars, fraud detection, and recommendations on online shops like Amazon. ML is an emerging field in mathematics, combining hitherto largely separated branches of mathematics under one roof, such as variational methods, numerical analysis and statistics. The conference will bring together people working in approximation theory, inverse problems, optimal transport, multi-scale analysis and statistics, for example. 
  
@@ -28,6 +32,9 @@ Remarkably, while ML relies on mathematical models and tools, many ML algorithms
 - Matthias J. Ehrhardt, University of Bath, UK
 - Catherine Higham, University of Glasgow, UK
 - Clarice Poon, University of Bath, UK
+
+# Call for contributions
+We will have an open call for poster contributions in spring 2020.
 
 # Contact
 Contact the organisers: [MathML2020@bath.ac.uk](MathML2020@bath.ac.uk)
