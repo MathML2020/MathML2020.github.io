@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+
+  <head>
+    <meta charset="UTF-8">
+
+  {% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <link rel="stylesheet" href="assets/bs/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <!-- <script src="assets/bs/js/bootstrap.js"></script> -->
+
+    <style>
+      #grad3 {
+        height: 475px;
+        background-color: blue; /* For browsers that do not support gradients */
+        background-image: linear-gradient(to bottom right, green, blue); /* Standard syntax (must be last) */
+      }
+    </style>
+  </head>
+
+
+
+  <body>
+    <!-- <header class="page-header" role="banner">
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      {% if site.github.is_project_page %}
+        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+      {% endif %}
+      {% if site.show_downloads %}
+        <a href="{{ site.github.zip_url }}" class="btn">Speakers</a>
+        <a href="{{ site.github.tar_url }}" class="btn">Program</a>
+      {% endif %}
+    </header> -->
+
+    <div class="container">
+      <!-- <h2>Carousel Example</h2>   -->
+      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <div class="carousel-caption">
+            <h3 class="carousel-title"> {{ page.title | default: site.title }} </h3>
+            <p class="carousel-body"> {{ page.description | default: site.description }} </p>
+
+            <a href="index" class="btn">Back</a>
+            <a href="#talks" class="btn">Talks</a>
+            <a href="#posters" class="btn">Posters</a>
+        </div>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+          <div class="item active">
+            <img src="assets/img/img1.jpg" style="width:100%;">
+            <!-- <div id="grad3"></div> -->
+          </div>
+      </div>
+    </div>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+    </main>
+
+    <!-- Java script for table -->
+    <script>
+      function openDate(evt, pmDate) {
+        var i, tabcontent, tablinks;
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+          tabcontent[i].style.display = "none";
+        }
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+          tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+        document.getElementById(pmDate).style.display = "block";
+        evt.currentTarget.className += " active";
+      }
+
+      // Get the element with id="defaultOpen" and click on it
+      document.getElementById("defaultOpen").click();
+    </script>
+
+
+  </body>
+
+
+</html>

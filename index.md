@@ -2,6 +2,8 @@
 layout: default
 ---
 
+
+
 # Scope
 Machine Learning (ML) can described as statistical and numerical methods which underpin modern algorithms for detecting patterns and inference. A common theme to many activities in ML today is that mathematical models based on sample data are used to train algorithms to work on real data. Applications include self-driven cars, fraud detection, and recommendations on online shops like Amazon. ML is an emerging field in mathematics, combining hitherto largely separated branches of mathematics under one roof, such as variational methods, numerical analysis and statistics. The conference will bring together people working in approximation theory, inverse problems, optimal transport, multi-scale analysis and statistics, for example. 
  
@@ -9,29 +11,29 @@ ML is currently undergoing a massive expansion, due to the unprecedented availab
   
 Remarkably, while ML relies on mathematical models and tools, many ML algorithms are not well understood mathematically. One reason for this is that ML has been historically developed as a subfield of computer science and not mathematics. Fundamental questions are open, such as convergence and convergence rates, or the topology and geometry with which data should be studied. It is important for the mathematical community that mathematics claims its share of ML, and provides a solid underpinning of the ML methods that surround us in daily life. This conference will advocate the connection of many mathematical disciplines like numerical analysis, inverse problems, optimisation, statistics, optimal transport, dynamical systems, partial differential equations to ML. By bringing together world-leading mathematicians, statisticians and data scientists to discuss recent developments in the fundamental understanding of ML we aim to shed light into the mysterious pathways of ML.
 
-# Invited Participants
-- Martin Benning, Queen Mary University of London, UK
-- Elena Calledoni, NTNU, Norway
-- Coralia Cartis, University of Oxford, UK
-- Yujie Chi, Carnegie Mellon, USA
-- Stephane Chretien, University of Lyon, France
-- Weinan E, Princeton University, USA
-- Alhussein Fawzi, Google Deepmind, UK
-- Andrew Fitzgibbon, Microsoft Research, UK
-- Kerstin Hammernik, Imperial College London, UK
-- Anders Hansen, University of Cambridge, UK
-- Ben Leimkuhler, University of Edinburgh, UK
-- Brynjulf Owren, NTNU, Norway
-- Marcelo Pereyra, Heriot-Watt University, UK
-- Spencer Thomas, National Physical Laboratory, UK
-- Matt Thorpe, University of Manchester, UK
-- Jong Chul Ye, KAIST, Korea
+# Invited Speakers
+- [Martin Benning](https://www.qmul.ac.uk/maths/profiles/benningmartin.html), Queen Mary University of London, UK
+- [Elena Calledoni](https://www.ntnu.edu/employees/elena.celledoni), Norwegian University of Science and Technology, Norway
+- [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/), University of Oxford, UK
+- [Yujie Chi](https://users.ece.cmu.edu/~yuejiec/), Carnegie Mellon University, USA
+- [Stephane Chretien](https://sites.google.com/site/stephanegchretien/home), University of Lyon, France
+- [Weinan E](https://web.math.princeton.edu/~weinan/), Princeton University, USA
+- [Alhussein Fawzi](http://www.alhusseinfawzi.info/), Google Deepmind, UK
+- [Andrew Fitzgibbon](https://www.microsoft.com/en-us/research/people/awf/), Microsoft Research, UK
+- [Kerstin Hammernik](https://biomedia.doc.ic.ac.uk/person/kerstin-hammernik/), Imperial College London, UK
+- [Anders Hansen](http://www.damtp.cam.ac.uk/research/afha/anders/), University of Cambridge, UK
+- [Benedict Leimkuhler](http://kac.maths.ed.ac.uk/~bl), University of Edinburgh, UK
+- [Brynjulf Owren](https://www.ntnu.edu/employees/brynjulf.owren), Norwegian University of Science and Technology, Norway
+- [Marcelo Pereyra](https://www.macs.hw.ac.uk/~mp71/about.html), Heriot-Watt University, UK
+- [Spencer Thomas](https://www.npl.co.uk/people/spencer-thomas), National Physical Laboratory, UK
+- [Matthew Thorpe](http://www.damtp.cam.ac.uk/people/mt748/), University of Manchester, UK
+- [Jong Chul Ye](https://bispl.weebly.com/professor.html), KAIST, Korea
 
 # Organisers
-- Philip Aston, University of Surrey, UK
-- Matthias J. Ehrhardt, University of Bath, UK
-- Catherine Higham, University of Glasgow, UK
-- Clarice Poon, University of Bath, UK
+- [Philip Aston](https://www.surrey.ac.uk/people/philip-aston), University of Surrey, UK
+- [Matthias J. Ehrhardt](https://mehrhardt.github.io/), University of Bath, UK
+- [Catherine Higham](https://www.gla.ac.uk/schools/computing/staff/catherinehigham/), University of Glasgow, UK
+- [Clarice Poon](http://www.damtp.cam.ac.uk/user/cmhsp2/), University of Bath, UK
 
 # Call for contributions
 We will have an open call for poster contributions in spring 2020.
@@ -46,4 +48,4 @@ Contact the organisers: [MathML2020@bath.ac.uk](MathML2020@bath.ac.uk)
 - [Statistical Applied Mathematics at Bath (SAMBa)](http://www.bath.ac.uk/centres-for-doctoral-training/epsrc-centre-for-doctoral-training-in-statistical-applied-mathematics-samba/)
 {% endcomment %}
  
-![IMI](logo_imi.png){:height="150px"}
+![IMI](assets/logo/logo_imi.png){:height="150px"}
