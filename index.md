@@ -51,3 +51,4 @@ Contact the organisers: [MathML2020@bath.ac.uk](MathML2020@bath.ac.uk)
 {% endcomment %}
  
 ![IMI](assets/logo/logo_imi.png){:height="150px"}
+![LMS](assets/logo/logo_lms.jpg){:height="150px"}
