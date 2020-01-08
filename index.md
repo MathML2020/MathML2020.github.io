@@ -14,21 +14,26 @@ ML is currently undergoing a massive expansion, due to the unprecedented availab
 Remarkably, while ML relies on mathematical models and tools, many ML algorithms are not well understood mathematically. One reason for this is that ML has been historically developed as a subfield of computer science and not mathematics. Fundamental questions are open, such as convergence and convergence rates, or the topology and geometry with which data should be studied. It is important for the mathematical community that mathematics claims its share of ML, and provides a solid underpinning of the ML methods that surround us in daily life. This conference will advocate the connection of many mathematical disciplines like numerical analysis, inverse problems, optimisation, statistics, optimal transport, dynamical systems, partial differential equations to ML. By bringing together world-leading mathematicians, statisticians and data scientists to discuss recent developments in the fundamental understanding of ML we aim to shed light into the mysterious pathways of ML.
 
 # Invited Speakers
+- [Jonas Adler](https://jonasadler.com/), Google DeepMind, UK
 - [Martin Benning](https://www.qmul.ac.uk/maths/profiles/benningmartin.html), Queen Mary University of London, UK
 - [Elena Calledoni](https://www.ntnu.edu/employees/elena.celledoni), Norwegian University of Science and Technology, Norway
 - [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/), University of Oxford, UK
 - [Yujie Chi](https://users.ece.cmu.edu/~yuejiec/), Carnegie Mellon University, USA
 - [Stephane Chretien](https://sites.google.com/site/stephanegchretien/home), University of Lyon, France
 - [Weinan E](https://web.math.princeton.edu/~weinan/), Princeton University, USA
-- [Alhussein Fawzi](http://www.alhusseinfawzi.info/), Google Deepmind, UK
+- [Alhussein Fawzi](http://www.alhusseinfawzi.info/), Google DeepMind, UK
 - [Andrew Fitzgibbon](https://www.microsoft.com/en-us/research/people/awf/), Microsoft Research, UK
 - [Kerstin Hammernik](https://biomedia.doc.ic.ac.uk/person/kerstin-hammernik/), Imperial College London, UK
 - [Anders Hansen](http://www.damtp.cam.ac.uk/research/afha/anders/), University of Cambridge, UK
 - [Benedict Leimkuhler](http://kac.maths.ed.ac.uk/~bl), University of Edinburgh, UK
+- [Sofia Olhede](https://people.epfl.ch/sofia.olhede?lang=en), EPFL, Switzerland
 - [Brynjulf Owren](https://www.ntnu.edu/employees/brynjulf.owren), Norwegian University of Science and Technology, Norway
 - [Marcelo Pereyra](https://www.macs.hw.ac.uk/~mp71/about.html), Heriot-Watt University, UK
+- [Philipp Petersen](http://www.pc-petersen.eu/), University of Vienna, Austria
+- [Aretha Teckentrup](https://www.maths.ed.ac.uk/~ateckent/), University of Edinburgh, UK
 - [Spencer Thomas](https://www.npl.co.uk/people/spencer-thomas), National Physical Laboratory, UK
 - [Matthew Thorpe](http://www.damtp.cam.ac.uk/people/mt748/), University of Manchester, UK
+- [Ivan Tyukin](https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/it37), University of Leicester, UK
 - [Jong Chul Ye](https://bispl.weebly.com/professor.html), KAIST, Korea
 
 # Organisers
