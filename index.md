@@ -45,7 +45,7 @@ Remarkably, while ML relies on mathematical models and tools, many ML algorithms
 # Call for contributions
 We are accepting contributions for posters. Please submit 1 page abstracts [here](https://docs.google.com/forms/d/e/1FAIpQLSdXYTucpfDubVkalV2ZbC7Qln0h__O692iHcsJOyc9R2KpAEw/viewform).
 
-Deadline: 13th March 2020\
+Deadline: 13th March 2020<br/>
 Notification of acceptance: 10th April 2020
 
 # Contact
