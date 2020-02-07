@@ -19,6 +19,7 @@ Remarkably, while ML relies on mathematical models and tools, many ML algorithms
 - [Elena Calledoni](https://www.ntnu.edu/employees/elena.celledoni), Norwegian University of Science and Technology, Norway
 - [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/), University of Oxford, UK
 - [Yujie Chi](https://users.ece.cmu.edu/~yuejiec/), Carnegie Mellon University, USA
+- [Lénaïc Chizat](https://lchizat.github.io/), Laboratoire de Mathématiques d'Orsay, France
 - [Stephane Chretien](https://sites.google.com/site/stephanegchretien/home), University of Lyon, France
 - [Weinan E](https://web.math.princeton.edu/~weinan/), Princeton University, USA
 - [Alhussein Fawzi](http://www.alhusseinfawzi.info/), Google DeepMind, UK
@@ -34,6 +35,7 @@ Remarkably, while ML relies on mathematical models and tools, many ML algorithms
 - [Spencer Thomas](https://www.npl.co.uk/people/spencer-thomas), National Physical Laboratory, UK
 - [Matthew Thorpe](http://www.damtp.cam.ac.uk/people/mt748/), University of Manchester, UK
 - [Ivan Tyukin](https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/it37), University of Leicester, UK
+- [Pierfrancesco Urbani](https://scholar.google.co.uk/citations?user=tV7pohwAAAAJ&hl=en), Université Paris-Saclay, France
 - [Jong Chul Ye](https://bispl.weebly.com/professor.html), KAIST, Korea
 
 # Organisers
