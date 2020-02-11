@@ -45,7 +45,7 @@ Remarkably, while ML relies on mathematical models and tools, many ML algorithms
 - [Clarice Poon](http://www.damtp.cam.ac.uk/user/cmhsp2/), University of Bath, UK
 
 # Call for contributions
-We are accepting contributions for posters. Please submit 1 page abstracts [here](https://docs.google.com/forms/d/e/1FAIpQLSdXYTucpfDubVkalV2ZbC7Qln0h__O692iHcsJOyc9R2KpAEw/viewform).
+We are accepting contributions for posters. Please submit 1 page abstracts [here](https://docs.google.com/forms/d/e/1FAIpQLSdXYTucpfDubVkalV2ZbC7Qln0h__O692iHcsJOyc9R2KpAEw/viewform). If you wish to attend this meeting but do not want to present a poster, then please email us at  [MathML2020@bath.ac.uk](MathML2020@bath.ac.uk). Note, however, that due to space limitations, we will give priority to those who offer to present posters.
 
 Deadline: 13th March 2020<br/>
 Notification of acceptance: 10th April 2020
