@@ -15,6 +15,7 @@ Remarkably, while ML relies on mathematical models and tools, many ML algorithms
 
 # Invited Speakers
 - [Jonas Adler](https://jonasadler.com/), Google DeepMind, UK
+- [Simon Arridge](http://www0.cs.ucl.ac.uk/staff/S.Arridge/), University College London, UK
 - [Martin Benning](https://www.qmul.ac.uk/maths/profiles/benningmartin.html), Queen Mary University of London, UK
 - [Elena Calledoni](https://www.ntnu.edu/employees/elena.celledoni), Norwegian University of Science and Technology, Norway
 - [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/), University of Oxford, UK
@@ -31,6 +32,7 @@ Remarkably, while ML relies on mathematical models and tools, many ML algorithms
 - [Brynjulf Owren](https://www.ntnu.edu/employees/brynjulf.owren), Norwegian University of Science and Technology, Norway
 - [Marcelo Pereyra](https://www.macs.hw.ac.uk/~mp71/about.html), Heriot-Watt University, UK
 - [Philipp Petersen](http://www.pc-petersen.eu/), University of Vienna, Austria
+- [Johannes Schmidt-Hieber](https://wwwhome.ewi.utwente.nl/~schmidtaj/), University of Twente, Netherlands
 - [Aretha Teckentrup](https://www.maths.ed.ac.uk/~ateckent/), University of Edinburgh, UK
 - [Spencer Thomas](https://www.npl.co.uk/people/spencer-thomas), National Physical Laboratory, UK
 - [Matthew Thorpe](http://www.damtp.cam.ac.uk/people/mt748/), University of Manchester, UK
