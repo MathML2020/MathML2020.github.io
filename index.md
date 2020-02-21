@@ -64,6 +64,6 @@ Contact the organisers: [MathML2020@bath.ac.uk](MathML2020@bath.ac.uk)
 - [Statistical Applied Mathematics at Bath (SAMBa)](http://www.bath.ac.uk/centres-for-doctoral-training/epsrc-centre-for-doctoral-training-in-statistical-applied-mathematics-samba/)
 {% endcomment %}
  
-![IMI](assets/logo/logo_imi.png){:height="150px"}
-![LMS](assets/logo/logo_lms.jpg){:height="150px"}
-![Bath](assets/logo/logo_bath.jpg){:height="150px"}
+![IMI](assets/logo/logo_imi.png){:height="130px"}
+![LMS](assets/logo/logo_lms.jpg){:height="130px"}
+![Bath](assets/logo/logo_bath.png){:height="130px"}
