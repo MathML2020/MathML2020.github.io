@@ -33,6 +33,7 @@ Remarkably, while ML relies on mathematical models and tools, many ML algorithms
 - [Marcelo Pereyra](https://www.macs.hw.ac.uk/~mp71/about.html), Heriot-Watt University, UK
 - [Philipp Petersen](http://www.pc-petersen.eu/), University of Vienna, Austria
 - [Johannes Schmidt-Hieber](https://wwwhome.ewi.utwente.nl/~schmidtaj/), University of Twente, Netherlands
+- [Carola-Bibiane Schönlieb](https://www.damtp.cam.ac.uk/user/cbs31/Home.html), University of Cambridge, UK
 - [Aretha Teckentrup](https://www.maths.ed.ac.uk/~ateckent/), University of Edinburgh, UK
 - [Spencer Thomas](https://www.npl.co.uk/people/spencer-thomas), National Physical Laboratory, UK
 - [Matthew Thorpe](http://www.damtp.cam.ac.uk/people/mt748/), University of Manchester, UK
@@ -58,9 +59,11 @@ Contact the organisers: [MathML2020@bath.ac.uk](MathML2020@bath.ac.uk)
 # Sponsors
 - [Institute for Mathematical Innovation (IMI)](https://www.bath.ac.uk/research-institutes/institute-for-mathematical-innovation/)
 - [London Mathematical Society (LMS)](https://www.lms.ac.uk/)
+- [University of Bath](https://www.bath.ac.uk/)
 {% comment %}
 - [Statistical Applied Mathematics at Bath (SAMBa)](http://www.bath.ac.uk/centres-for-doctoral-training/epsrc-centre-for-doctoral-training-in-statistical-applied-mathematics-samba/)
 {% endcomment %}
  
 ![IMI](assets/logo/logo_imi.png){:height="150px"}
 ![LMS](assets/logo/logo_lms.jpg){:height="150px"}
+![Bath](assets/logo/logo_bath.jpg){:height="150px"}
