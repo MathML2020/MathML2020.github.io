@@ -16,7 +16,9 @@ Remarkably, while ML relies on mathematical models and tools, many ML algorithms
 # Invited Speakers
 - [Jonas Adler](https://jonasadler.com/), Google DeepMind, UK
 - [Simon Arridge](http://www0.cs.ucl.ac.uk/staff/S.Arridge/), University College London, UK
+- [Erik Bekkers](https://www.tue.nl/en/research/researchers/erik-bekkers/), Eindhoven University, Netherlands
 - [Martin Benning](https://www.qmul.ac.uk/maths/profiles/benningmartin.html), Queen Mary University of London, UK
+- [Jeff Calder](http://www-users.math.umn.edu/~jwcalder/), University of Minnesota, US
 - [Elena Calledoni](https://www.ntnu.edu/employees/elena.celledoni), Norwegian University of Science and Technology, Norway
 - [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/), University of Oxford, UK
 - [Yujie Chi](https://users.ece.cmu.edu/~yuejiec/), Carnegie Mellon University, USA
@@ -27,6 +29,7 @@ Remarkably, while ML relies on mathematical models and tools, many ML algorithms
 - [Andrew Fitzgibbon](https://www.microsoft.com/en-us/research/people/awf/), Microsoft Research, UK
 - [Kerstin Hammernik](https://biomedia.doc.ic.ac.uk/person/kerstin-hammernik/), Imperial College London, UK
 - [Anders Hansen](http://www.damtp.cam.ac.uk/research/afha/anders/), University of Cambridge, UK
+- [Varun Kanade](http://www.cs.ox.ac.uk/people/varun.kanade/myindex.html), University of Oxford, UK
 - [Benedict Leimkuhler](http://kac.maths.ed.ac.uk/~bl), University of Edinburgh, UK
 - [Sofia Olhede](https://people.epfl.ch/sofia.olhede?lang=en), EPFL, Switzerland
 - [Brynjulf Owren](https://www.ntnu.edu/employees/brynjulf.owren), Norwegian University of Science and Technology, Norway
@@ -50,7 +53,7 @@ Remarkably, while ML relies on mathematical models and tools, many ML algorithms
 # Call for contributions
 We are accepting contributions for posters. Please submit 1 page abstracts [here](https://docs.google.com/forms/d/e/1FAIpQLSdXYTucpfDubVkalV2ZbC7Qln0h__O692iHcsJOyc9R2KpAEw/viewform). If you wish to attend this meeting but do not want to present a poster, then please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdUnm5s_QROWRn5PQVYOFzD1XtNf8kBFwtCD3d6qyhFjcPnoA/viewform). Note, however, that due to space limitations, we will give priority to those who offer to present posters.
 
-Deadline: 13th March 2020<br/>
+Deadline: <s>13th March 2020</s> <font color="red">(extended to 27th March 2020)</font><br/>
 Notification of acceptance: 10th April 2020
 
 # Contact
