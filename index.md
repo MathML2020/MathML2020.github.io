@@ -62,11 +62,11 @@ Contact the organisers: [MathML2020@bath.ac.uk](MathML2020@bath.ac.uk)
 # Sponsors
 - [Institute for Mathematical Innovation (IMI)](https://www.bath.ac.uk/research-institutes/institute-for-mathematical-innovation/)
 - [London Mathematical Society (LMS)](https://www.lms.ac.uk/)
-- [University of Bath](https://www.bath.ac.uk/)
-{% comment %}
 - [Statistical Applied Mathematics at Bath (SAMBa)](http://www.bath.ac.uk/centres-for-doctoral-training/epsrc-centre-for-doctoral-training-in-statistical-applied-mathematics-samba/)
-{% endcomment %}
+- [University of Bath](https://www.bath.ac.uk/)
+
  
 ![IMI](assets/logo/logo_imi.png){:height="90px"}
 ![LMS](assets/logo/logo_lms.jpg){:height="90px"}
+![SAMBa](assets/logo/logo_samba.png){:height="90px"}
 ![Bath](assets/logo/logo_bath.png){:height="90px"}
