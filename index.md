@@ -23,7 +23,7 @@ Remarkably, while ML relies on mathematical models and tools, many ML algorithms
 - [Jeff Calder](http://www-users.math.umn.edu/~jwcalder/), University of Minnesota, US
 - [Elena Calledoni](https://www.ntnu.edu/employees/elena.celledoni), Norwegian University of Science and Technology, Norway
 - [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/), University of Oxford, UK
-- [Yujie Chi](https://users.ece.cmu.edu/~yuejiec/), Carnegie Mellon University, USA
+- [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/), Carnegie Mellon University, USA
 - [Lénaïc Chizat](https://lchizat.github.io/), Laboratoire de Mathématiques d'Orsay, France
 - [Stephane Chretien](https://sites.google.com/site/stephanegchretien/home), University of Lyon, France
 - [Weinan E](https://web.math.princeton.edu/~weinan/), Princeton University, USA
