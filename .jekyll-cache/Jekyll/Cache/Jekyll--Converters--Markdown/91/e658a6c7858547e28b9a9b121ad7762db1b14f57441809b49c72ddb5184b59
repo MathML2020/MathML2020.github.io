@@ -1,14 +1,6 @@
----
-layout: program
----
+I"Š<h1 id="talks">Talks</h1>
 
-
-
-
-
-# Talks
-
-**NB:** Click speaker and title to toggle abstract. 
+<p><strong>NB:</strong> Click speaker and title to toggle abstract.</p>
 
 <!-- Tab links -->
 <div class="tab">
@@ -98,30 +90,97 @@ layout: program
     </table>
 </div>
 
+<h1 id="posters">Posters</h1>
 
-# Posters
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">ID</th>
+      <th style="text-align: left">Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">001</td>
+      <td style="text-align: left">Author 1A, Author 1B: Title 1</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">002</td>
+      <td style="text-align: left">Author 2A, Author 2B: Title 2</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">003</td>
+      <td style="text-align: left">Author 3A, Author 3B: Title 3</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">004</td>
+      <td style="text-align: left">Author 4A, Author 4B: Title 4</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">005</td>
+      <td style="text-align: left">Author 5A, Author 5B: Title 5</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">006</td>
+      <td style="text-align: left">Author 6A, Author 6B: Title 6</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">007</td>
+      <td style="text-align: left">Author 7A, Author 7B: Title 7</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">008</td>
+      <td style="text-align: left">Author 8A, Author 8B: Title 8</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">009</td>
+      <td style="text-align: left">Author 9A, Author 9B: Title 9</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">010</td>
+      <td style="text-align: left">Author 10A, Author 10B: Title 10</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">011</td>
+      <td style="text-align: left">Author 11A, Author 11B: Title 11</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">012</td>
+      <td style="text-align: left">Author 12A, Author 12B: Title 12</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">013</td>
+      <td style="text-align: left">Author 13A, Author 13B: Title 13</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">014</td>
+      <td style="text-align: left">Author 15A, Author 14B: Title 14</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">015</td>
+      <td style="text-align: left">Author 15A, Author 15B: Title 15</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">016</td>
+      <td style="text-align: left">Author 16A, Author 16B: Title 16</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">017</td>
+      <td style="text-align: left">Author 17A, Author 17B: Title 17</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">018</td>
+      <td style="text-align: left">Author 18A, Author 18B: Title 18</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">019</td>
+      <td style="text-align: left">Author 19A, Author 19B: Title 19</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">020</td>
+      <td style="text-align: left">Author 20A, Author 20B: Title 20</td>
+    </tr>
+  </tbody>
+</table>
 
-**NB:** Two styles for poster, one is the same as the above which is not putted here. The other one is simply a summarization of all posters.
-
-| ID | Title |
-|:---:|:---|
-| 001 | Author 1A, Author 1B: Title 1  |
-| 002 | Author 2A, Author 2B: Title 2  |
-| 003 | Author 3A, Author 3B: Title 3  |
-| 004 | Author 4A, Author 4B: Title 4  |
-| 005 | Author 5A, Author 5B: Title 5  |
-| 006 | Author 6A, Author 6B: Title 6  |
-| 007 | Author 7A, Author 7B: Title 7  |
-| 008 | Author 8A, Author 8B: Title 8  |
-| 009 | Author 9A, Author 9B: Title 9  |
-| 010 | Author 10A, Author 10B: Title 10  |
-| 011 | Author 11A, Author 11B: Title 11  |
-| 012 | Author 12A, Author 12B: Title 12  |
-| 013 | Author 13A, Author 13B: Title 13  |
-| 014 | Author 15A, Author 14B: Title 14  |
-| 015 | Author 15A, Author 15B: Title 15  |
-| 016 | Author 16A, Author 16B: Title 16  |
-| 017 | Author 17A, Author 17B: Title 17  |
-| 018 | Author 18A, Author 18B: Title 18  |
-| 019 | Author 19A, Author 19B: Title 19  |
-| 020 | Author 20A, Author 20B: Title 20  |
+:ET

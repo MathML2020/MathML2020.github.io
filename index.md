@@ -5,6 +5,8 @@ layout: default
 
 <span style="color:white"> </span>
 
+<span style="color:red"> Update (8 June 2020):</span> Due to the Covid-19 situation, this symposium will now run online. We are working out the details and will update this webpage in due course.
+
 
 # Scope
 Machine Learning (ML) can described as statistical and numerical methods which underpin modern algorithms for detecting patterns and inference. A common theme to many activities in ML today is that mathematical models based on sample data are used to train algorithms to work on real data. Applications include self-driven cars, fraud detection, and recommendations on online shops like Amazon. ML is an emerging field in mathematics, combining hitherto largely separated branches of mathematics under one roof, such as variational methods, numerical analysis and statistics. The conference will bring together people working in approximation theory, inverse problems, optimal transport, multi-scale analysis and statistics, for example. 

@@ -1,4 +1,6 @@
-I"û<p><span style="color:white"> </span></p>
+I"Ÿ <p><span style="color:white"> </span></p>
+
+<p><span style="color:red"> Update (8 June 2020):</span> Due to the Covid-19 situation, this symposium will now run online. We are working out the details and will update this webpage in due course.</p>
 
 <h1 id="scope">Scope</h1>
 <p>Machine Learning (ML) can described as statistical and numerical methods which underpin modern algorithms for detecting patterns and inference. A common theme to many activities in ML today is that mathematical models based on sample data are used to train algorithms to work on real data. Applications include self-driven cars, fraud detection, and recommendations on online shops like Amazon. ML is an emerging field in mathematics, combining hitherto largely separated branches of mathematics under one roof, such as variational methods, numerical analysis and statistics. The conference will bring together people working in approximation theory, inverse problems, optimal transport, multi-scale analysis and statistics, for example.</p>
@@ -10,7 +12,10 @@
 <h1 id="invited-speakers">Invited Speakers</h1>
 <ul>
   <li><a href="https://jonasadler.com/">Jonas Adler</a>, Google DeepMind, UK</li>
+  <li><a href="http://www0.cs.ucl.ac.uk/staff/S.Arridge/">Simon Arridge</a>, University College London, UK</li>
+  <li><a href="https://www.tue.nl/en/research/researchers/erik-bekkers/">Erik Bekkers</a>, Eindhoven University, Netherlands</li>
   <li><a href="https://www.qmul.ac.uk/maths/profiles/benningmartin.html">Martin Benning</a>, Queen Mary University of London, UK</li>
+  <li><a href="http://www-users.math.umn.edu/~jwcalder/">Jeff Calder</a>, University of Minnesota, US</li>
   <li><a href="https://www.ntnu.edu/employees/elena.celledoni">Elena Calledoni</a>, Norwegian University of Science and Technology, Norway</li>
   <li><a href="http://people.maths.ox.ac.uk/cartis/">Coralia Cartis</a>, University of Oxford, UK</li>
   <li><a href="https://users.ece.cmu.edu/~yuejiec/">Yujie Chi</a>, Carnegie Mellon University, USA</li>
@@ -21,11 +26,14 @@
   <li><a href="https://www.microsoft.com/en-us/research/people/awf/">Andrew Fitzgibbon</a>, Microsoft Research, UK</li>
   <li><a href="https://biomedia.doc.ic.ac.uk/person/kerstin-hammernik/">Kerstin Hammernik</a>, Imperial College London, UK</li>
   <li><a href="http://www.damtp.cam.ac.uk/research/afha/anders/">Anders Hansen</a>, University of Cambridge, UK</li>
+  <li><a href="http://www.cs.ox.ac.uk/people/varun.kanade/myindex.html">Varun Kanade</a>, University of Oxford, UK</li>
   <li><a href="http://kac.maths.ed.ac.uk/~bl">Benedict Leimkuhler</a>, University of Edinburgh, UK</li>
   <li><a href="https://people.epfl.ch/sofia.olhede?lang=en">Sofia Olhede</a>, EPFL, Switzerland</li>
   <li><a href="https://www.ntnu.edu/employees/brynjulf.owren">Brynjulf Owren</a>, Norwegian University of Science and Technology, Norway</li>
   <li><a href="https://www.macs.hw.ac.uk/~mp71/about.html">Marcelo Pereyra</a>, Heriot-Watt University, UK</li>
   <li><a href="http://www.pc-petersen.eu/">Philipp Petersen</a>, University of Vienna, Austria</li>
+  <li><a href="https://wwwhome.ewi.utwente.nl/~schmidtaj/">Johannes Schmidt-Hieber</a>, University of Twente, Netherlands</li>
+  <li><a href="https://www.damtp.cam.ac.uk/user/cbs31/Home.html">Carola-Bibiane SchÃ¶nlieb</a>, University of Cambridge, UK</li>
   <li><a href="https://www.maths.ed.ac.uk/~ateckent/">Aretha Teckentrup</a>, University of Edinburgh, UK</li>
   <li><a href="https://www.npl.co.uk/people/spencer-thomas">Spencer Thomas</a>, National Physical Laboratory, UK</li>
   <li><a href="http://www.damtp.cam.ac.uk/people/mt748/">Matthew Thorpe</a>, University of Manchester, UK</li>
@@ -43,9 +51,9 @@
 </ul>
 
 <h1 id="call-for-contributions">Call for contributions</h1>
-<p>We are accepting contributions for posters. Please submit 1 page abstracts <a href="https://docs.google.com/forms/d/e/1FAIpQLSdXYTucpfDubVkalV2ZbC7Qln0h__O692iHcsJOyc9R2KpAEw/viewform">here</a>. If you wish to attend this meeting but do not want to present a poster, then please email us at  <a href="MathML2020@bath.ac.uk">MathML2020@bath.ac.uk</a>. Not however that due to limitations in capacity, we will give priority to those who offer to present posters.</p>
+<p>We are accepting contributions for posters. Please submit 1 page abstracts <a href="https://docs.google.com/forms/d/e/1FAIpQLSdXYTucpfDubVkalV2ZbC7Qln0h__O692iHcsJOyc9R2KpAEw/viewform">here</a>. If you wish to attend this meeting but do not want to present a poster, then please sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUnm5s_QROWRn5PQVYOFzD1XtNf8kBFwtCD3d6qyhFjcPnoA/viewform">here</a>. Note, however, that due to space limitations, we will give priority to those who offer to present posters.</p>
 
-<p>Deadline: 13th March 2020<br />
+<p>Deadline: <s>13th March 2020</s> <font color="red">(extended to 27th March 2020)</font><br />
 Notification of acceptance: 10th April 2020</p>
 
 <h1 id="contact">Contact</h1>
@@ -55,8 +63,12 @@ Notification of acceptance: 10th April 2020</p>
 <ul>
   <li><a href="https://www.bath.ac.uk/research-institutes/institute-for-mathematical-innovation/">Institute for Mathematical Innovation (IMI)</a></li>
   <li><a href="https://www.lms.ac.uk/">London Mathematical Society (LMS)</a></li>
+  <li><a href="http://www.bath.ac.uk/centres-for-doctoral-training/epsrc-centre-for-doctoral-training-in-statistical-applied-mathematics-samba/">Statistical Applied Mathematics at Bath (SAMBa)</a></li>
+  <li><a href="https://www.bath.ac.uk/">University of Bath</a></li>
 </ul>
 
-<p><img src="assets/logo/logo_imi.png" alt="IMI" height="150px" />
-<img src="assets/logo/logo_lms.jpg" alt="LMS" height="150px" /></p>
+<p><img src="assets/logo/logo_imi.png" alt="IMI" height="90px" />
+<img src="assets/logo/logo_lms.jpg" alt="LMS" height="90px" />
+<img src="assets/logo/logo_samba.png" alt="SAMBa" height="90px" />
+<img src="assets/logo/logo_bath.png" alt="Bath" height="90px" /></p>
 :ET
