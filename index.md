@@ -52,6 +52,11 @@ Remarkably, while ML relies on mathematical models and tools, many ML algorithms
 - [Catherine Higham](https://www.gla.ac.uk/schools/computing/staff/catherinehigham/), University of Glasgow, UK
 - [Clarice Poon](http://www.damtp.cam.ac.uk/user/cmhsp2/), University of Bath, UK
 
+# Registration
+Registration is now open, see [link](https://docs.google.com/forms/d/e/1FAIpQLSfvQP_d8oeHupDHOPmtSHPBoyJvBPVf24iirZBC6Cu-7QZakg/viewform).
+
+Deadline: 20 July 2020
+
 # Call for contributions
 We are accepting contributions for posters. Please submit 1 page abstracts [here](https://docs.google.com/forms/d/e/1FAIpQLSdXYTucpfDubVkalV2ZbC7Qln0h__O692iHcsJOyc9R2KpAEw/viewform). If you wish to attend this meeting but do not want to present a poster, then please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdUnm5s_QROWRn5PQVYOFzD1XtNf8kBFwtCD3d6qyhFjcPnoA/viewform). Note, however, that due to space limitations, we will give priority to those who offer to present posters.
 
