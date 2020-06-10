@@ -20,12 +20,12 @@ Remarkably, while ML relies on mathematical models and tools, many ML algorithms
 - [Simon Arridge](http://www0.cs.ucl.ac.uk/staff/S.Arridge/), University College London, UK
 - [Erik Bekkers](https://www.tue.nl/en/research/researchers/erik-bekkers/), Eindhoven University, Netherlands
 - [Martin Benning](https://www.qmul.ac.uk/maths/profiles/benningmartin.html), Queen Mary University of London, UK
-- [Jeff Calder](http://www-users.math.umn.edu/~jwcalder/), University of Minnesota, US
 - [Elena Calledoni](https://www.ntnu.edu/employees/elena.celledoni), Norwegian University of Science and Technology, Norway
 - [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/), University of Oxford, UK
 - [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/), Carnegie Mellon University, USA
 - [Lénaïc Chizat](https://lchizat.github.io/), Laboratoire de Mathématiques d'Orsay, France
 - [Stephane Chretien](https://sites.google.com/site/stephanegchretien/home), University of Lyon, France
+- [Nadia Drenska](https://ndrenska.wixsite.com/ver0), University of Minnesota, US
 - [Weinan E](https://web.math.princeton.edu/~weinan/), Princeton University, USA
 - [Alhussein Fawzi](http://www.alhusseinfawzi.info/), Google DeepMind, UK
 - [Andrew Fitzgibbon](https://www.microsoft.com/en-us/research/people/awf/), Microsoft Research, UK
