@@ -29,7 +29,6 @@ Remarkably, while ML relies on mathematical models and tools, many ML algorithms
 - [Weinan E](https://web.math.princeton.edu/~weinan/), Princeton University, USA
 - [Alhussein Fawzi](http://www.alhusseinfawzi.info/), Google DeepMind, UK
 - [Andrew Fitzgibbon](https://www.microsoft.com/en-us/research/people/awf/), Microsoft Research, UK
-- [Kerstin Hammernik](https://biomedia.doc.ic.ac.uk/person/kerstin-hammernik/), Imperial College London, UK
 - [Anders Hansen](http://www.damtp.cam.ac.uk/research/afha/anders/), University of Cambridge, UK
 - [Varun Kanade](http://www.cs.ox.ac.uk/people/varun.kanade/myindex.html), University of Oxford, UK
 - [Benedict Leimkuhler](http://kac.maths.ed.ac.uk/~bl), University of Edinburgh, UK
