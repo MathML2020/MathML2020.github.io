@@ -56,11 +56,11 @@ Registration is now open, see [link](https://docs.google.com/forms/d/e/1FAIpQLSf
 
 Deadline: 20 July 2020
 
-# Call for contributions
-We are accepting contributions for posters. Please submit 1 page abstracts [here](https://docs.google.com/forms/d/e/1FAIpQLSdXYTucpfDubVkalV2ZbC7Qln0h__O692iHcsJOyc9R2KpAEw/viewform). If you wish to attend this meeting but do not want to present a poster, then please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdUnm5s_QROWRn5PQVYOFzD1XtNf8kBFwtCD3d6qyhFjcPnoA/viewform). Note, however, that due to space limitations, we will give priority to those who offer to present posters.
+<!--# Call for contributions
+We are accepting contributions for posters. Please submit 1 page abstracts [here](https://docs.google.com/forms/d/e/1FAIpQLSdXYTucpfDubVkalV2ZbC7Qln0h__O692iHcsJOyc9R2KpAEw/viewform). If you wish to attend this meeting but do not want to present a poster, then please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdUnm5s_QROWRn5PQVYOFzD1XtNf8kBFwtCD3d6qyhFjcPnoA/viewform). Note, however, that due to space limitations, we will give priority to those who offer to present posters.-->
 
-Deadline: 13 March 2020 <font color="red">(extended to 27th March 2020)</font><br/>
-Notification of acceptance: 10 April 2020
+<!--Deadline: 13 March 2020 <font color="red">(extended to 27th March 2020)</font><br/>
+Notification of acceptance: 10 April 2020-->
 
 # Contact
 Contact the organisers: [MathML2020@bath.ac.uk](MathML2020@bath.ac.uk)
