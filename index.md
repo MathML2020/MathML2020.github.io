@@ -62,6 +62,9 @@ We are accepting contributions for posters. Please submit 1 page abstracts [here
 <!--Deadline: 13 March 2020 <font color="red">(extended to 27th March 2020)</font><br/>
 Notification of acceptance: 10 April 2020-->
 
+# Schedule
+The event will run Monday, 3 August to Friday, 7 August with sessions starting at 9 am London/BST (4 am New York/EDT, 5 pm Seoul/KST) and finishing about 6 pm London/BST (1 pm New York/EDT, 2 am Seoul/KST). A precise schedule will be published shortly.
+
 # Contact
 Contact the organisers: [MathML2020@bath.ac.uk](MathML2020@bath.ac.uk)
 
