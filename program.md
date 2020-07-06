@@ -36,19 +36,18 @@ layout: program
 | 015 | Peter Mathé	(Weierstrass Institute) |	Inverse learning in Hilbert scales |
 | 016 | Janith Petangoda	(Imperial College London) |	Transfer Learning: An application of Foliations |
 | 017 |  Benedek Plosz	(University of Bath) |	Learning with unexplored priors systemises error propagation in Bayesian hierarchical modelling |
-| 018 | Anush Poghosyan  (University of Bath) |	Integrating reinforcement learning with agent-based simulations to coordinate inter-building electricity demand |
-| 019 | Ilan Price (University of Oxford) | Trajectory growth through deep random ReLU networks |
-| 021| Abhishake Rastogi	(University of Potsdam) |	Regularization schemes for statistical inverse problems |
-| 022 | Salvatore Danilo Riccio	(Queen Mary University of London) |	Robustness of Runge-Kutta networks against adversarial attacks |
-| 023 | Paul Russell	(University of Bath) |	Learning to solve Rubik’s cube |
-| 024 | Malena Sabaté	(University of Bath) |	Iteratively Reweighted Flexible Krylov methods for Sparse Reconstruction |
-| 025 | Silvester Sabathiel	(NTNU Trondheim) |	A computational model of learning to count in a multimodal, interactive environment |
-| 026 | Ferdia Sherry	(University of Cambridge) |	Equivariant neural networks for inverse problems in imaging |
-| 027 | Giuseppe Ughi	(University of Oxford) |	A Model-Based Derivative-Free Approach to Black-Box Adversarial Examples |
-| 028 | Tiffany Vlaar	(University of Edinburgh) |	Partitioned Integrators for Thermodynamic Parameterization of NNs |
-| 029 | Xiaoyu Wang	(University of Cambridge) |	Gradient-based training of non-smooth neural networks |
-| 030 | Stefan Wild	(Argonne National Laboratory) |	 Zero-order optimization for learning: How long can you wait? |
-| 031 | Kelvin Shuangjian Zhang (ENS Paris) | Wasserstein control of mirror Langevin Monte Carlo  |
+| 018 | Ilan Price (University of Oxford) | Trajectory growth through deep random ReLU networks |
+| 019| Abhishake Rastogi	(University of Potsdam) |	Regularization schemes for statistical inverse problems |
+| 020 | Salvatore Danilo Riccio	(Queen Mary University of London) |	Robustness of Runge-Kutta networks against adversarial attacks |
+| 021 | Paul Russell	(University of Bath) |	Learning to solve Rubik’s cube |
+| 022 | Malena Sabaté	(University of Bath) |	Iteratively Reweighted Flexible Krylov methods for Sparse Reconstruction [`Poster`](Posters/MalenaSabate.png){:target="_blank"} [`Video`](https://drive.google.com/file/d/1FXWYpcRW9axsPoBZtzzxEMPcqp9_YS6d/view?usp=sharing){:target="_blank"}|
+| 023 | Silvester Sabathiel	(NTNU Trondheim) |	A computational model of learning to count in a multimodal, interactive environment |
+| 024 | Ferdia Sherry	(University of Cambridge) |	Equivariant neural networks for inverse problems in imaging |
+| 025 | Giuseppe Ughi	(University of Oxford) |	A Model-Based Derivative-Free Approach to Black-Box Adversarial Examples |
+| 026 | Tiffany Vlaar	(University of Edinburgh) |	Partitioned Integrators for Thermodynamic Parameterization of NNs |
+| 027 | Xiaoyu Wang	(University of Cambridge) |	Gradient-based training of non-smooth neural networks |
+| 028 | Stefan Wild	(Argonne National Laboratory) |	 Zero-order optimization for learning: How long can you wait? |
+| 029 | Kelvin Shuangjian Zhang (ENS Paris) | Wasserstein control of mirror Langevin Monte Carlo  |
 		
 		
 		
