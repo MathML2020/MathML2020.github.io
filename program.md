@@ -48,6 +48,11 @@ layout: program
 | 027 | Xiaoyu Wang	(University of Cambridge) |	Gradient-based training of non-smooth neural networks |
 | 028 | Stefan Wild	(Argonne National Laboratory) |	 Zero-order optimization for learning: How long can you wait? |
 | 029 | Kelvin Shuangjian Zhang (ENS Paris) | Wasserstein control of mirror Langevin Monte Carlo  |
+
+
+# Public Lecture
+Details to be confirmed
+
 		
 		
 		
