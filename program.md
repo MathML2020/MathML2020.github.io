@@ -1,4 +1,5 @@
 ---
+pagetitle: Programme
 layout: program
 ---
 
@@ -51,7 +52,7 @@ layout: program
 
 
 # Public Lecture
-Details to be confirmed
+**Details to be confirmed**
 		
 		
 		
