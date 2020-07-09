@@ -1,5 +1,5 @@
 ---
-pagetitle: Programme
+title: Program
 layout: program
 ---
 
