@@ -50,9 +50,8 @@ layout: program
 | 029 | Kelvin Shuangjian Zhang (ENS Paris) | Wasserstein control of mirror Langevin Monte Carlo  |
 
 
-# Public Lecture
+# [Public Lecture](#publiclecture)
 Details to be confirmed
-
 		
 		
 		
