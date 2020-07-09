@@ -1,5 +1,5 @@
 ---
-title: Program
+title: "Program"
 layout: program
 ---
 
