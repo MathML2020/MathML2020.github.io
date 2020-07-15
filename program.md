@@ -105,7 +105,7 @@ We discuss Hamiltonian descent methods. For manifold value data, we present rece
       </tr>
       <tr>
         <td class="tg-lboi">16:15 - 17:45</td>
-        <td class="tg-talk"> <details> <summary><a>Poster session</a>:   Posters 1-15  </summary><b>Link:</b> TBC  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Poster session</a>:   Posters 16-29  </summary><b>Link:</b> TBC  </details> </td>
       </tr>
       </table>
 </div>
@@ -160,7 +160,7 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
       </tr>
       <tr>
         <td class="tg-lboi">9:00 - 10:30</td>
-        <td class="tg-talk"> <details> <summary><a>Poster session</a>:   Posters 16-29  </summary><b>Link:</b> TBC	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Poster session</a>:   Posters 1-15  </summary><b>Link:</b> TBC	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">10:30 - 11:45</td>
