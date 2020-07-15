@@ -18,7 +18,7 @@ Remarkably, while ML relies on mathematical models and tools, many ML algorithms
 # Invited Speakers
 - [Jonas Adler](https://jonasadler.com/), Google DeepMind, UK
 - [Simon Arridge](http://www0.cs.ucl.ac.uk/staff/S.Arridge/), University College London, UK
-- [Erik Bekkers](https://www.tue.nl/en/research/researchers/erik-bekkers/), Eindhoven University, Netherlands
+- [Erik Bekkers](https://www.tue.nl/en/research/researchers/erik-bekkers/), University of Amsterdam, Netherlands
 - [Martin Benning](https://www.qmul.ac.uk/maths/profiles/benningmartin.html), Queen Mary University of London, UK
 - [Elena Calledoni](https://www.ntnu.edu/employees/elena.celledoni), Norwegian University of Science and Technology, Norway
 - [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/), University of Oxford, UK
