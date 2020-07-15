@@ -263,7 +263,7 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
 | 010 | Allard Hendriksen	(Centrum Wiskunde & Informatica (CWI), Amsterdam) |	Noise2Inverse: Self-supervised deep convolutional denoising for linear inverse problems in imaging |
 | 011 | Johannes Hertrich	(TU Berlin) |	Parseval Proximal Neural Networks |
 | 012 | Gabriele Incorvaia	(University of Manchester)	 |  A deep learning application for Through-the-Wall Radar Imaging |
-| 013 | Nicolas Keriven	(CNRS, GIPSA-lab) |	coordinate inter-building electricity demand |
+| 013 | Nicolas Keriven	(CNRS, GIPSA-lab) |	Universal Invariant and Equivariant Graph Neural Networks |
 | 014 | Youngkyu Lee	 (KAIST) |	A parareal neural network emulating parallel-in-time algorithm [`Poster`](Posters/YoungkyuLee.png){:target="_blank"}  |
 | 015 | Peter Mathé	(Weierstrass Institute) |	Inverse learning in Hilbert scales |
 | 016 | Janith Petangoda	(Imperial College London) |	Transfer Learning: An application of Foliations |
