@@ -5,7 +5,7 @@ layout: default
 
 <span style="color:white"> </span>
 
-<span style="color:red"> Update (8 June 2020):</span> Due to the Covid-19 situation, this symposium will now run online. We are working out the details and will update this webpage in due course.
+<span style="color:red"> Update (8 June 2020):</span> Due to the Covid-19 situation, this symposium will now run online. 
 
 
 # Scope
@@ -63,7 +63,7 @@ We are accepting contributions for posters. Please submit 1 page abstracts [here
 Notification of acceptance: 10 April 2020-->
 
 # Schedule
-The event will run Monday, 3 August to Friday, 7 August with sessions starting at 9 am London/BST (4 am New York/EDT, 5 pm Seoul/KST) and finishing about 6 pm London/BST (1 pm New York/EDT, 2 am Seoul/KST). A precise schedule will be published shortly.
+The event will run Monday, 3 August to Friday, 7 August with sessions starting at 9 am London/BST (4 am New York/EDT, 5 pm Seoul/KST) and finishing about 6 pm London/BST (1 pm New York/EDT, 2 am Seoul/KST).  The schedule is now available [here](program).
 
 # Contact
 Contact the organisers: [MathML2020@bath.ac.uk](MathML2020@bath.ac.uk)

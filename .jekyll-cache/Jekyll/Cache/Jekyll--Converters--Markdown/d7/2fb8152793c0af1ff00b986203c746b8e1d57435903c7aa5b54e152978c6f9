@@ -1,14 +1,6 @@
----
-title: "Program"
-layout: program
----
+I"��<h1 id="talks">Talks</h1>
 
-
-
-
-# Talks
-
-**NB:** Click speaker and title to toggle abstract. 
+<p><strong>NB:</strong> Click speaker and title to toggle abstract.</p>
 
 <!-- Tab links -->
 <div class="tab">
@@ -242,1024 +234,176 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
       </tr>
     </table>
 </div>
- 
 
+<h1 id="posters">Posters</h1>
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">ID</th>
+      <th style="text-align: left">Presenter</th>
+      <th style="text-align: left">Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">001</td>
+      <td style="text-align: left">Eliot Ayache (University of Bath)</td>
+      <td style="text-align: left">Machine learning applications in High-Energy Time-Domain Astrophysics</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">002</td>
+      <td style="text-align: left">Pasquale Cascarano (Università di Bologna)</td>
+      <td style="text-align: left">Deep Plug-and-Play Gradient Method for Super-Resolution</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">003</td>
+      <td style="text-align: left">Eric Baruch Gutierrez Castillo	(University of Bath)</td>
+      <td style="text-align: left">On Primal-Dual Algorithms for Nonsmooth Large-Scale Machine Learning</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">004</td>
+      <td style="text-align: left">Dongdong Chen	(University of Edinburgh)</td>
+      <td style="text-align: left">Deep Plug-and-Play Network for Compressive MRF reconstruction</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">005</td>
+      <td style="text-align: left">Maria Colomba Comes	(University of Rome Tor Vergata)</td>
+      <td style="text-align: left">Deep Prior for Cells Video Restoration</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">006</td>
+      <td style="text-align: left">Jacob Deasy	(University of Cambridge)</td>
+      <td style="text-align: left">Closed-form differential entropy of a multi-layer perceptron variant</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">007</td>
+      <td style="text-align: left">Margaret Duff	(University of Bath)</td>
+      <td style="text-align: left">Solving Inverse Imaging Problems with Generative</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">008</td>
+      <td style="text-align: left">David Fernandes	(University of Bath)</td>
+      <td style="text-align: left">Unsupervised Learning with GPs and SDEs</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">009</td>
+      <td style="text-align: left">Allen Hart	(University of Bath)</td>
+      <td style="text-align: left">Machine Learning Models</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">010</td>
+      <td style="text-align: left">Allard Hendriksen	(Centrum Wiskunde &amp; Informatica (CWI), Amsterdam)</td>
+      <td style="text-align: left">Noise2Inverse: Self-supervised deep convolutional denoising for linear inverse problems in imaging</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">011</td>
+      <td style="text-align: left">Johannes Hertrich	(TU Berlin)</td>
+      <td style="text-align: left">Parseval Proximal Neural Networks</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">012</td>
+      <td style="text-align: left">Gabriele Incorvaia	(University of Manchester)</td>
+      <td style="text-align: left">A deep learning application for Through-the-Wall Radar Imaging</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">013</td>
+      <td style="text-align: left">Nicolas Keriven	(CNRS, GIPSA-lab)</td>
+      <td style="text-align: left">coordinate inter-building electricity demand</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">014</td>
+      <td style="text-align: left">Youngkyu Lee	 (KAIST)</td>
+      <td style="text-align: left">A parareal neural network emulating parallel-in-time algorithm <a href="Posters/YoungkyuLee.png" target="_blank"><code class="highlighter-rouge">Poster</code></a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">015</td>
+      <td style="text-align: left">Peter Mathé	(Weierstrass Institute)</td>
+      <td style="text-align: left">Inverse learning in Hilbert scales</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">016</td>
+      <td style="text-align: left">Janith Petangoda	(Imperial College London)</td>
+      <td style="text-align: left">Transfer Learning: An application of Foliations</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">017</td>
+      <td style="text-align: left">Benedek Plosz	(University of Bath)</td>
+      <td style="text-align: left">Learning with unexplored priors systemises error propagation in Bayesian hierarchical modelling</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">018</td>
+      <td style="text-align: left">Ilan Price (University of Oxford)</td>
+      <td style="text-align: left">Trajectory growth through deep random ReLU networks</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">019</td>
+      <td style="text-align: left">Abhishake Rastogi	(University of Potsdam)</td>
+      <td style="text-align: left">Regularization schemes for statistical inverse problems</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">020</td>
+      <td style="text-align: left">Salvatore Danilo Riccio	(Queen Mary University of London)</td>
+      <td style="text-align: left">Robustness of Runge-Kutta networks against adversarial attacks</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">021</td>
+      <td style="text-align: left">Paul Russell	(University of Bath)</td>
+      <td style="text-align: left">Learning to solve Rubik’s cube</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">022</td>
+      <td style="text-align: left">Malena Sabaté	(University of Bath)</td>
+      <td style="text-align: left">Iteratively Reweighted Flexible Krylov methods for Sparse Reconstruction <a href="Posters/MalenaSabate.png" target="_blank"><code class="highlighter-rouge">Poster</code></a> <a href="https://drive.google.com/file/d/1FXWYpcRW9axsPoBZtzzxEMPcqp9_YS6d/view?usp=sharing" target="_blank"><code class="highlighter-rouge">Video</code></a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">023</td>
+      <td style="text-align: left">Silvester Sabathiel	(NTNU Trondheim)</td>
+      <td style="text-align: left">A computational model of learning to count in a multimodal, interactive environment</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">024</td>
+      <td style="text-align: left">Ferdia Sherry	(University of Cambridge)</td>
+      <td style="text-align: left">Equivariant neural networks for inverse problems in imaging</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">025</td>
+      <td style="text-align: left">Giuseppe Ughi	(University of Oxford)</td>
+      <td style="text-align: left">A Model-Based Derivative-Free Approach to Black-Box Adversarial Examples</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">026</td>
+      <td style="text-align: left">Tiffany Vlaar	(University of Edinburgh)</td>
+      <td style="text-align: left">Partitioned Integrators for Thermodynamic Parameterization of NNs</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">027</td>
+      <td style="text-align: left">Xiaoyu Wang	(University of Cambridge)</td>
+      <td style="text-align: left">Gradient-based training of non-smooth neural networks</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">028</td>
+      <td style="text-align: left">Stefan Wild	(Argonne National Laboratory)</td>
+      <td style="text-align: left">Zero-order optimization for learning: How long can you wait?</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">029</td>
+      <td style="text-align: left">Kelvin Shuangjian Zhang (ENS Paris)</td>
+      <td style="text-align: left">Wasserstein control of mirror Langevin Monte Carlo</td>
+    </tr>
+  </tbody>
+</table>
 
-# Posters
+<h1 id="public-lecture">Public Lecture</h1>
 
+<p><a href="https://www.damtp.cam.ac.uk/user/cbs31/Home.html">Carola-Bibiane Schönlieb</a>, Professor at the University of Cambridge, will give a public lecture.</p>
 
-| ID | Presenter | Title |
-|:---:|:---|:---|
-| 001 |  Eliot Ayache (University of Bath) |	Machine learning applications in High-Energy Time-Domain Astrophysics |
-| 002 | Pasquale Cascarano (Università di Bologna) |	Deep Plug-and-Play Gradient Method for Super-Resolution |
-| 003| Eric Baruch Gutierrez Castillo	(University of Bath) | On Primal-Dual Algorithms for Nonsmooth Large-Scale Machine Learning |
-| 004 | Dongdong Chen	(University of Edinburgh) |	Deep Plug-and-Play Network for Compressive MRF reconstruction |
-| 005 | Maria Colomba Comes	(University of Rome Tor Vergata) |	Deep Prior for Cells Video Restoration |
-| 006 | Jacob Deasy	(University of Cambridge) | 	Closed-form differential entropy of a multi-layer perceptron variant |
-| 007 | Margaret Duff	(University of Bath) |	Solving Inverse Imaging Problems with Generative |
-| 008 | David Fernandes	(University of Bath) |	Unsupervised Learning with GPs and SDEs |
-| 009 | Allen Hart	(University of Bath) |	Machine Learning Models |
-| 010 | Allard Hendriksen	(Centrum Wiskunde & Informatica (CWI), Amsterdam) |	Noise2Inverse: Self-supervised deep convolutional denoising for linear inverse problems in imaging |
-| 011 | Johannes Hertrich	(TU Berlin) |	Parseval Proximal Neural Networks |
-| 012 | Gabriele Incorvaia	(University of Manchester)	 |  A deep learning application for Through-the-Wall Radar Imaging |
-| 013 | Nicolas Keriven	(CNRS, GIPSA-lab) |	coordinate inter-building electricity demand |
-| 014 | Youngkyu Lee	 (KAIST) |	A parareal neural network emulating parallel-in-time algorithm [`Poster`](Posters/YoungkyuLee.png){:target="_blank"}  |
-| 015 | Peter Mathé	(Weierstrass Institute) |	Inverse learning in Hilbert scales |
-| 016 | Janith Petangoda	(Imperial College London) |	Transfer Learning: An application of Foliations |
-| 017 |  Benedek Plosz	(University of Bath) |	Learning with unexplored priors systemises error propagation in Bayesian hierarchical modelling |
-| 018 | Ilan Price (University of Oxford) | Trajectory growth through deep random ReLU networks |
-| 019| Abhishake Rastogi	(University of Potsdam) |	Regularization schemes for statistical inverse problems |
-| 020 | Salvatore Danilo Riccio	(Queen Mary University of London) |	Robustness of Runge-Kutta networks against adversarial attacks |
-| 021 | Paul Russell	(University of Bath) |	Learning to solve Rubik’s cube |
-| 022 | Malena Sabaté	(University of Bath) |	Iteratively Reweighted Flexible Krylov methods for Sparse Reconstruction [`Poster`](Posters/MalenaSabate.png){:target="_blank"} [`Video`](https://drive.google.com/file/d/1FXWYpcRW9axsPoBZtzzxEMPcqp9_YS6d/view?usp=sharing){:target="_blank"}|
-| 023 | Silvester Sabathiel	(NTNU Trondheim) |	A computational model of learning to count in a multimodal, interactive environment |
-| 024 | Ferdia Sherry	(University of Cambridge) |	Equivariant neural networks for inverse problems in imaging |
-| 025 | Giuseppe Ughi	(University of Oxford) |	A Model-Based Derivative-Free Approach to Black-Box Adversarial Examples |
-| 026 | Tiffany Vlaar	(University of Edinburgh) |	Partitioned Integrators for Thermodynamic Parameterization of NNs |
-| 027 | Xiaoyu Wang	(University of Cambridge) |	Gradient-based training of non-smooth neural networks |
-| 028 | Stefan Wild	(Argonne National Laboratory) |	 Zero-order optimization for learning: How long can you wait? |
-| 029 | Kelvin Shuangjian Zhang (ENS Paris) | Wasserstein control of mirror Langevin Monte Carlo  |
+<p>Title: Looking into the black box: how mathematics can help to turn deep learning inside out</p>
 
+<p>Abstract: Deep learning has had a transformative impact on a wide range of tasks related to Artificial Intelligence, ranging from computer vision and speech recognition to playing games. Still, the inner workings of deep neural networks are far from clear, and designing and training them is seen as almost a black art. In this talk we will try to open this black box a little bit by using mathematical structure of neural networks described by so-called differential equations and mathematical optimisation. The talk is furnished with several examples in image analysis and computer vision, ranging from biomedical imaging to remote sensing.</p>
 
-# Public Lecture
+<p>Time: 18.00 BST, Thursday 6th August 2020.</p>
 
-[Carola-Bibiane Schönlieb](https://www.damtp.cam.ac.uk/user/cbs31/Home.html), Professor at the University of Cambridge, will give a public lecture.
+<p>Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLScuiUa6xDKhjHA1pJcXj-FcC8VihqnHJIYm2UqorWlQ0MC88g/viewform">here</a></p>
 
-Title: Looking into the black box: how mathematics can help to turn deep learning inside out
-
-Abstract: Deep learning has had a transformative impact on a wide range of tasks related to Artificial Intelligence, ranging from computer vision and speech recognition to playing games. Still, the inner workings of deep neural networks are far from clear, and designing and training them is seen as almost a black art. In this talk we will try to open this black box a little bit by using mathematical structure of neural networks described by so-called differential equations and mathematical optimisation. The talk is furnished with several examples in image analysis and computer vision, ranging from biomedical imaging to remote sensing.
-
-Time: 18.00 BST, Thursday 6th August 2020.
-
-Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScuiUa6xDKhjHA1pJcXj-FcC8VihqnHJIYm2UqorWlQ0MC88g/viewform)
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+:ET
