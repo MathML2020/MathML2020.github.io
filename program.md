@@ -105,7 +105,7 @@ We discuss Hamiltonian descent methods. For manifold value data, we present rece
       </tr>
       <tr>
         <td class="tg-lboi">16:15 - 17:45</td>
-        <td class="tg-talk"> <details> <summary><a>Poster session</a>:   Posters 16-29  </summary><b>Link:</b> TBC  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Poster session</a>:   Posters 16-28  </summary><b>Link:</b> TBC  </details> </td>
       </tr>
       </table>
 </div>
@@ -278,8 +278,7 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
 | 025 | Giuseppe Ughi	(University of Oxford) |	A Model-Based Derivative-Free Approach to Black-Box Adversarial Examples |
 | 026 | Tiffany Vlaar	(University of Edinburgh) |	Partitioned Integrators for Thermodynamic Parameterization of NNs |
 | 027 | Xiaoyu Wang	(University of Cambridge) |	Gradient-based training of non-smooth neural networks |
-| 028 | Stefan Wild	(Argonne National Laboratory) |	 Zero-order optimization for learning: How long can you wait? |
-| 029 | Kelvin Shuangjian Zhang (ENS Paris) | Wasserstein control of mirror Langevin Monte Carlo  |
+| 028 | Kelvin Shuangjian Zhang (ENS Paris) | Wasserstein control of mirror Langevin Monte Carlo  |
 
 
 # Public Lecture
