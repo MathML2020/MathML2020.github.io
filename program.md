@@ -24,7 +24,7 @@ layout: program
 <div id="Aug3" class="tabcontent">
     <table class="tg">
       <tr>
-        <th class="tg-lboi" style="min-width:130px">Time</th>
+        <th class="tg-lboi" style="min-width:130px">Time (BST)</th>
         <th class="tg-lboi">Event</th>
       </tr>
       <tr>
@@ -62,7 +62,7 @@ layout: program
 <div id="Aug4" class="tabcontent">
     <table class="tg">
     <tr>
-        <th class="tg-lboi" style="min-width:130px">Time</th>
+        <th class="tg-lboi" style="min-width:130px">Time (BST)</th>
         <th class="tg-lboi">Event</th>
       </tr>
          <tr>
@@ -97,7 +97,7 @@ We discuss Hamiltonian descent methods. For manifold value data, we present rece
 <div id="Aug5" class="tabcontent">
     <table class="tg">
     <tr>
-        <th class="tg-lboi" style="min-width:130px">Time</th>
+        <th class="tg-lboi" style="min-width:130px">Time (BST)</th>
         <th class="tg-lboi">Event</th>
       </tr>
       <tr>
@@ -131,7 +131,7 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
 <div id="Aug6" class="tabcontent">
     <table class="tg">
     <tr>
-        <th class="tg-lboi" style="min-width:130px">Time</th>
+        <th class="tg-lboi" style="min-width:130px">Time (BST)</th>
         <th class="tg-lboi">Event</th>
       </tr>
       <tr>
@@ -165,7 +165,7 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
 <div id="Aug7" class="tabcontent">
     <table class="tg">
     <tr>
-        <th class="tg-lboi" style="min-width:130px">Time</th>
+        <th class="tg-lboi" style="min-width:130px">Time (BST)</th>
         <th class="tg-lboi">Event</th>
       </tr>
       <tr>
