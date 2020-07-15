@@ -257,7 +257,7 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
 | 004 | Dongdong Chen	(University of Edinburgh) |	Deep Plug-and-Play Network for Compressive MRF reconstruction |
 | 005 | Maria Colomba Comes	(University of Rome Tor Vergata) |	Deep Prior for Cells Video Restoration |
 | 006 | Jacob Deasy	(University of Cambridge) | 	Closed-form differential entropy of a multi-layer perceptron variant |
-| 007 | Margaret Duff	(University of Bath) |	Solving Inverse Imaging Problems with Generative |
+| 007 | Margaret Duff	(University of Bath) |	Solving Inverse Imaging Problems with Generative Machine Learning Models |
 | 008 | David Fernandes	(University of Bath) |	Unsupervised Learning with GPs and SDEs |
 | 009 | Allen Hart	(University of Bath) |	Machine Learning Models |
 | 010 | Allard Hendriksen	(Centrum Wiskunde & Informatica (CWI), Amsterdam) |	Noise2Inverse: Self-supervised deep convolutional denoising for linear inverse problems in imaging |
