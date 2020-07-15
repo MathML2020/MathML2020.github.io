@@ -147,7 +147,8 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
       </tr>
       <tr>
         <td class="tg-lboi">16:15 - 17:00</td>
-        <td class="tg-talk"> <details> <summary><a>Carola-Bibiane Schönlieb</a>:   TITLE  </summary><b>Abstract:</b> ABSTRACT	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Carola-Bibiane Schönlieb</a>: Hybrid mathematical and machine learning methods for solving inverse imaging problems - getting the best from both worlds
+  </summary><b>Abstract:</b> In this talk I will discuss image analysis methods which have both a mathematical modelling and a machine learning (data-driven) component. Mathematical modelling is useful in the presence of prior information about the imaging data and relevant biomarkers, for narrowing down the search space, for highly generalizable image analysis methods, and for guaranteeing desirable properties of image analysis solutions. Machine learning on the other hand is a powerful tool for customising image analysis methods to individual data sets. Their combination is the topic of this talk, furnished with examples for image classification under minimal supervision with an application to chest x-rays and task adapted tomographic reconstruction.	  </details> </td>
       </tr>
     </table>
 </div>
