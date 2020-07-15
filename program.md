@@ -216,7 +216,7 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
 | 011 | Johannes Hertrich	(TU Berlin) |	Parseval Proximal Neural Networks |
 | 012 | Gabriele Incorvaia	(University of Manchester)	 |  A deep learning application for Through-the-Wall Radar Imaging |
 | 013 | Nicolas Keriven	(CNRS, GIPSA-lab) |	coordinate inter-building electricity demand |
-| 014 | Youngkyu Lee	 (KAIST) |	A parareal neural network emulating parallel-in-time algorithm |
+| 014 | Youngkyu Lee	 (KAIST) |	A parareal neural network emulating parallel-in-time algorithm [`Poster`](Posters/YoungkyuLee.png){:target="_blank"}  |
 | 015 | Peter Mathé	(Weierstrass Institute) |	Inverse learning in Hilbert scales |
 | 016 | Janith Petangoda	(Imperial College London) |	Transfer Learning: An application of Foliations |
 | 017 |  Benedek Plosz	(University of Bath) |	Learning with unexplored priors systemises error propagation in Bayesian hierarchical modelling |
