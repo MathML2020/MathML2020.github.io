@@ -1,77 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-
-
-  <head>
-    <meta charset="UTF-8">
-
-  <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Program | Mathematics of Machine Learning</title>
-<meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="Program" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="LMS-Bath Symposium, 3-7 August 2020, University of Bath" />
-<meta property="og:description" content="LMS-Bath Symposium, 3-7 August 2020, University of Bath" />
-<link rel="canonical" href="http://localhost:4000/program.html" />
-<meta property="og:url" content="http://localhost:4000/program.html" />
-<meta property="og:site_name" content="Mathematics of Machine Learning" />
-<script type="application/ld+json">
-{"headline":"Program","url":"http://localhost:4000/program.html","description":"LMS-Bath Symposium, 3-7 August 2020, University of Bath","@type":"WebPage","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-
-    <link rel="stylesheet" href="assets/bs/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/assets/css/style.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <!-- <script src="assets/bs/js/bootstrap.js"></script> -->
-
-    <style>
-      #grad3 {
-        height: 475px;
-        background-color: blue; /* For browsers that do not support gradients */
-        background-image: linear-gradient(to bottom right, green, blue); /* Standard syntax (must be last) */
-      }
-    </style>
-  </head>
-
-
-
-  <body>
-    <!-- <header class="page-header" role="banner">
-      <h1 class="project-name">Program</h1>
-      <h2 class="project-tagline">LMS-Bath Symposium, 3-7 August 2020, University of Bath</h2>
-      
-      
-    </header> -->
-
-    <div class="container">
-      <!-- <h2>Carousel Example</h2>   -->
-      <div id="myCarousel" class="carousel slide" data-ride="carousel">
-        <div class="carousel-caption">
-            <h3 class="carousel-title"> Program </h3>
-            <p class="carousel-body"> LMS-Bath Symposium, 3-7 August 2020, University of Bath </p>
-
-            <a href="index" class="btn">Back</a>
-            <a href="#talks" class="btn">Talks</a>
-            <a href="#posters" class="btn">Posters</a>
-            <a href="#public-lecture" class="btn">Public Lecture</a>
-        </div>
-
-        <!-- Wrapper for slides -->
-        <div class="carousel-inner">
-          <div class="item active">
-            <img src="assets/img/img1.jpg" style="width:100%;">
-            <!-- <div id="grad3"></div> -->
-          </div>
-      </div>
-    </div>
-
-    <main id="content" class="main-content" role="main">
-      <h1 id="talks">Talks</h1>
+I"�~<h1 id="talks">Talks</h1>
 
 <p><strong>NB:</strong> Click speaker and title to toggle abstract.</p>
 
@@ -126,10 +53,6 @@
 
 <div id="Aug4" class="tabcontent">
     <table class="tg">
-    <tr>
-        <th class="tg-lboi" style="min-width:130px">Time</th>
-        <th class="tg-lboi">Event</th>
-      </tr>
          <tr>
         <td class="tg-lboi">9:00 - 9:45</td>
         <td class="tg-talk"> <details> <summary><a>Coralia Cartis</a>:   Dimensionality reduction techniques for large-scale optimization problems	  </summary><b>Abstract:</b> Known by many names, sketching techniques allow random projections of data from high to low dimensions while preserving pairwise distances. This talks explores ways to use sketching so as to improve the scalability of algorithms for diverse classes of optimization problems and applications, from linear to nonlinear, local to global, derivative-based to derivative-free. Regression problems and Gauss-Newton techniques will receive particular attention. Numerical illustrations on standard optimization test problems as well as on some machine learning set-ups will be presented. This work is joint with Jan Fiala (NAG Ltd), Jaroslav Fowkes (Oxford), Estelle Massart (Oxford and NPL), Adilet Otemissov (Oxford and Turing), Alex Puiu (Oxford), Lindon Roberts (Australian National University, Canberra), Zhen Shao (Oxford).	  </details> </td>
@@ -140,38 +63,33 @@
       </tr>
       <tr>
         <td class="tg-lboi">13:00 - 13:45</td>
-        <td class="tg-talk"> <details> <summary><a>Elena Celledoni</a>:   Deep learning as optimal control and structure preserving deep learning  </summary><b>Abstract:</b> There are multiple challenging mathematical problems involved in applying deep learning. We consider recent work by Haber and Ruthotto 2017 and Chang et al. 2018, where deep learning neural networks have been interpreted as discretisations of an optimal control problem subject to an ordinary differential equation constraint. We review the first order conditions for optimality, and the conditions ensuring optimality after discretisation.  There is a growing effort to mathematically understand the structure in existing deep learning methods and to systematically design new deep learning methods to preserve certain types of structure in deep learning. 
-We discuss Hamiltonian descent methods. For manifold value data, we present recent work on Riemaniann discrete gradient descent methods on manifolds.
-  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Elena Celledoni</a>:   TITLE  </summary><b>Abstract:</b> ABSTRACT	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">13:45 - 14:30</td>
-        <td class="tg-talk"> <details> <summary><a>Pierfrancesco Urbani</a>:   Tracking the dynamics of gradient based algorithms in high dimensional optimization.  </summary><b>Abstract:</b> I will discuss how dynamical mean field theory can be employed to track the high dimensional dynamics	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Pierfrancesco Urbani</a>:   TITLE  </summary><b>Abstract:</b> ABSTRACT	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">15:30 - 16:15</td>
-        <td class="tg-talk"> <details> <summary><a>Andrew Fitzgibbon</a>:   Counting linear regions in ReLU networks	</summary><b>Abstract:</b> I will talk about recent results in understanding the complexity of deep neural networks.   In particular, it is well known that ReLU networks give rise to piecewise linear functions.  However, a naïve counting of the number of linear regions suggests that the number of regions in a typical deep network will vastly exceed any plausible number of training examples.  Better bounds are emerging, both theoretical and empirical, and I will try to give a summary of results in a way that stimulates further discussion and research.  	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Andrew Fitzgibbon</a>:   TITLE  </summary><b>Abstract:</b> ABSTRACT	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">16:15 - 17:45</td>
-        <td class="tg-talk"> <details> <summary><a>Poster session</a>:   Posters 1-15  </summary><b>Link:</b> TBC  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Poster session</a>:   Posters 1-15  </summary><b>Abstract:</b> Link to follow.	  </details> </td>
       </tr>
       </table>
 </div>
 
 <div id="Aug5" class="tabcontent">
     <table class="tg">
-    <tr>
-        <th class="tg-lboi" style="min-width:130px">Time</th>
-        <th class="tg-lboi">Event</th>
-      </tr>
       <tr>
         <td class="tg-lboi">9:00 - 9:45</td>
         <td class="tg-talk"> <details> <summary><a>Jong Chul Ye</a>:   Optimal Transport, CycleGAN, Penalized LS: Intertwining Theme for Unsupervised Learning for Inverse Problems	</summary><b>Abstract:</b> The penalized least squares (PLS) is a classic method for inverse problems, where a regularization term is added to stabilize the solution. Optimal transport (OT) is another mathematical framework that has recently received significant attention from the computer vision community, for it provides means to transport one measure to another in an unsupervised manner. The cycle-consistent generative adversarial network (cycleGAN) is a recent extension of GAN to learn target distributions with less mode collapsing behavior. Although similar in that no supervised training is required, the algorithms look different, so the mathematical relationship between these approaches is not clear. In this talk, we provide an important advance to unveil the missing link. Specifically, we propose a novel PLS cost by imposing a deep learning-based inverse path as a regularization term. When used as a transportation cost for optimal transport formulation, this new PLS formulation leads to a novel cycleGAN architecture as a Kantorovich dual OT formulation. One of the most important advantages of this formulation is that depending on the knowledge of the forward problem, distinct variations of cycleGAN architecture can be derived: for example, one with two pairs of generators and discriminators, and the other with only a single pair of generator and discriminator. Experimental results using various inverse problems confirm the efficacy of the proposed method.  	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">9:45 - 10:30</td>
-        <td class="tg-talk"> <details> <summary><a>Jonas Adler</a>:   A case for provable properties in neural networks </summary><b>Abstract:</b> Modern deep learning is highly heuristic and theory has either been limited to highly simplified cases or as mere motivations for methods. Provable results that make useful predictions about a trained neural network, a Nyquist theorem for deep learning, seems very far off. In this talk, I'll instead focus on another use of mathematical theory in deep learning which has given several useful tools to engineers: expanding the toolbox of provably correct components in deep learning systems. By far the most useful such component has been backpropagation, but others have been discovered in recent years. I'll try to give an overview, discussing recent discoveries such as invertible networks and spectral normalization, before focusing on some of my recent work in provably correct deep learning accelerated convex optimization.
+        <td class="tg-talk"> <details> <summary><a>Jonas Adler</a>:   A case for provable properties in neural networks </summary><b>Abstract:</b> Modern deep learning is highly heuristic and theory has either been limited to highly simplified cases or as mere motivations for methods. Provable results that make useful predictions about a trained neural network, a Nyquist theorem for deep learning, seems very far off. In this talk I'll instead focus on another use of mathematical theory in deep learning which has given several useful tools to engineers: expanding the toolbox of provably correct components in deep learning systems. By far the most useful such component has been backpropagation, but others have been discovered in recent years. I'll try to give an overview, discussing recent discoveries such as invertible networks and spectral normalization, before focusing on some of my recent work in provably correct deep learning accelerated convex optimization.
+
 This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> </td>
       </tr>
       <tr>
@@ -184,7 +102,7 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
       </tr>
       <tr>
         <td class="tg-lboi">15:30 - 16:15</td>
-        <td class="tg-talk"> <details> <summary><a>Alhussein Fawzi</a>:   Proving inequalities with deep learning  </summary><b>Abstract:</b> I will consider in this talk the fundamental problem of searching for proofs of polynomial inequalities, which has applications in control theory, robotics, geometry, combinatorics, and program verification to name a few. While existing proof systems manipulating polynomial inequalities via elementary inference rules are known to be very powerful, searching for proofs remains a major difficulty. I will introduce a deep reinforcement learning framework to search for a dynamic proof within these proof systems, paying particular attention to incorporating inherent symmetries of the problem as an inductive bias. By comparing our approach with powerful and widely-studied linear programming hierarchies based on static proof systems, I will show that the proposed method reduces the size of the linear program by several orders of magnitude while also improving performance. I will finally conclude with general remarks on the emerging field of using machine learning to solve mathematical problems.	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Alhussein Fawzi</a>:   TITLE  </summary><b>Abstract:</b> ABSTRACT	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">16:15 - 17:00</td>
@@ -195,26 +113,21 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
 
 <div id="Aug6" class="tabcontent">
     <table class="tg">
-    <tr>
-        <th class="tg-lboi" style="min-width:130px">Time</th>
-        <th class="tg-lboi">Event</th>
-      </tr>
       <tr>
         <td class="tg-lboi">9:00 - 10:30</td>
-        <td class="tg-talk"> <details> <summary><a>Poster session</a>:   Posters 16-29  </summary><b>Link:</b> TBC	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Poster session</a>:   TITLE  </summary><b>Abstract:</b> ABSTRACT	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">10:30 - 11:45</td>
-        <td class="tg-talk"> <details> <summary><a>Ivan Tyukin</a>:   The Riddle of Robustness, Flexibility, and Trustworthiness of Data-driven AI	 </summary><b>Abstract:</b> Modern data-driven AI systems show great promise in a host of key areas – from trading and credit scoring to discovery-led science. These systems now outperform humans in Chess and Go and show near-human performance in medical diagnosis, surpassing capabilities of previous-generation algorithms. Decision-making in these new systems is high-dimensional and data- or experience-driven, relying on thousands of variables with mutual dependencies and uncertainties. However, mounting evidence points to that the super-human ability of these AI to learn from huge volumes of data without prior knowledge of data models and distributions make their deductions vulnerable to data inconsistencies, poor data quality, fundamental data uncertainty, and human developers’ bias, leading to poor output integrity and error. In this talk we will discuss a framework enabling high-dimensional data-driven AI to learn on-the-job and correct spurious errors without suffering from the so-called catastrophic forgetting.  We will show that the same framework can be used to develop a formal understanding of fundamental limitations of high-dimensional data-driven AI, including AI brittleness, lack of robustness, and vulnerabilities to adversarial attacks. The new framework enables to produce explainable high-level specifications for the development of new-generation data-driven AI which are robust and resilient “by design”. This, together with the guaranteed capability to learn on-the-job contributes to the concept of provably beneficial AI and ultimately AI trustworthiness. 	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Ivan Tyukin</a>:   TITLE  </summary><b>Abstract:</b> ABSTRACT	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">13:00 - 13:45</td>
-        <td class="tg-talk"> <details> <summary><a>Anders Hansen</a>:   "On the foundations of computational mathematics, Smale’s 18th problem and the potential limits of AI </summary><b>Abstract:</b> There is a profound optimism on the impact of deep learning (DL) and AI in the sciences with Geoffrey Hinton concluding that 'They should stop educating radiologists now'. However, DL has an Achilles heel: it is universaly unstable so that small changes in the initial data can lead to large errors in the final result. This has been documented in a wide variety of applications. Paradoxically, the existence of stable neural networks for these applications is guaranteed by the celebrated Universal Approximation Theorem, however, the stable neural networks are not computed by the current training approaches. We will address this problem and the potential limitations of AI from a foundations point of view. Indeed, the current situation in AI is comparable to the situation in mathematics in the early 20th century, when David Hilbert’s optimism (typically reflected in his 10th problem) suggested no limitations to what mathematics could prove and no restrictions on what computers could compute. Hilbert’s optimism was turned upside down by Goedel and Turing, who established limitations on what mathematics can prove and which problems computers can solve (however, without limiting the impact of mathematics and computer science).
-   We predict a similar outcome for modern AI and DL, where the limitations of AI (the main topic of Smale’s 18th problem) will be established through the foundations of computational mathematics. We sketch the beginning of such a program by demonstrating how there exist neural networks approximating classical mappings in scientific computing, however, no algorithm (even randomised) can compute such a network to even 1-digit accuracy with probability better than 1/2. We will also show how instability is inherit in the methodology of DL demonstrating that there is no easy remedy, given the current methodology. Finally, we will demonstrate basic examples in inverse problems where there exists (untrained) neural networks that can easily compute a solution to the problem, however, the current DL techniques will need 10^80 data points in the training set to get even 1 percent success rate. 	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Anders Hansen</a>:   TITLE  </summary><b>Abstract:</b> ABSTRACT	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">13:45 - 14:30</td>
-        <td class="tg-talk"> <details> <summary><a>Spencer Thomas</a>:   Metrology and uncertainty in machine learning.	 </summary><b>Abstract:</b> The use and application of machine learning has become common place in many research and industrial domains. The availability of powerful algorithms in a wide range of programming language and implementations has facilitated this, enabling almost anyone to use these tools. However, without sufficient understanding of the models, data, mathematics or statistics, interpretation of outputs from machine learning can be difficult or misleading. The explainability of machine learning is a growing area of research and becoming increasingly important in application areas such as healthcare. Similarly, the challenges of trustworthiness, robustness and uncertainty in machine learning, as well as the data they are tried on, are significant issues in many applications. These align well with metrological concepts of traceability, calibration, uncertainty propagation and standardisation, which can help address these challenges in machine learning. Several areas will be discussed including fundamentals of machine learning and data, and applications to imaging and non-imaging data such as in healthcare domains. 	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Spencer Thomas</a>:   TITLE  </summary><b>Abstract:</b> ABSTRACT	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">15:30 - 16:15</td>
@@ -222,24 +135,20 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
       </tr>
       <tr>
         <td class="tg-lboi">16:15 - 17:00</td>
-        <td class="tg-talk"> <details> <summary><a>Nadia Drenska</a>:    A PDE Interpretation of Prediction with Expert Advice	 </summary><b>Abstract:</b> Prediction with expert advice is an area of online machine learning, where a player (investor) synthesizes advice from different experts to form predictions. We consider the setting where the environment (market) is adversarial, which results in a repeated two-person game. We are interested in the optimal strategies of the market and the player when the game is played over a long time. We identify PDE continuum limits for this game in the limit of infinite turns; we compute asymptotically optimal strategies for the player and for the environment by using the unique solution to the corresponding nonlinear PDE. We also developed numerical methods to solve this PDE numerically and we test the conjectured optimality of the COMB strategy. This is joint work with Jeff Calder, Robert Kohn, and Drisana Mosaphir. 	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Nadia Drenska</a>:   TITLE  </summary><b>Abstract:</b> ABSTRACT	  </details> </td>
       </tr>
     </table>
 </div>
 
 <div id="Aug7" class="tabcontent">
     <table class="tg">
-    <tr>
-        <th class="tg-lboi" style="min-width:130px">Time</th>
-        <th class="tg-lboi">Event</th>
-      </tr>
       <tr>
         <td class="tg-lboi">9:00 - 9:45</td>
-        <td class="tg-talk"> <details> <summary><a>Ben Leimkuhler</a>:   Regularizing neural networks using constrained thermodynamic algorithms  </summary><b>Abstract:</b> 	Large scale neural networks can be trained to 100 percent accuracy on their training set, even for random labels, but such models do not necessarily generalize well to unseen test data. To combat the problem of overfitting, it is common to employ some type of regularization scheme, either explicit penalty terms to control the weights, or implicit approaches such as early stopping or dropout. In this talk I will describe a method for efficiently incorporating algebraic constraints into a stochastic gradient Langevin framework for the training of deep neural networks. Constraints allow direct control of the parameter space of the model and can be used to replace both explicit and implicit regularization strategies. Appropriately designed, they can curb the vanishing/exploding gradient problem and control weight magnitudes and thus stabilize deep neural networks improving the robustness of training algorithms and the consequent generalization capabilities of the trained neural network. I will present examples, discussing both overdamped and underdamped Langevin schemes, distributional convergence issues and numerical discretization methods. The methods are explored in standard test examples from image classification and natural language processing.	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Ben Leimkuhler</a>:   TITLE  </summary><b>Abstract:</b> ABSTRACT	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">9:45 - 10:30</td>
-        <td class="tg-talk"> <details> <summary><a>Martin Benning</a>:   A novel empirical risk minimisation formulation for feed-forward neural networks with non-smooth activations.	  </summary><b>Abstract:</b> In this talk we introduce a novel mathematical formulation for the training of deep neural networks with (potentially non-smooth) proximal maps as activation functions. The advantage of this new formulation is that its partial derivatives with respect to the network’s individual weight- and bias-terms do not require the computation of derivates of the individual activation functions. Instead of estimating the parameters with a subgradient-based optimisation algorithm (as is the state of the art), we therefore use a coordinate descent- or a tailored Bregman alternating direction method of multipliers (BADMM)-approach to train the network parameters; both approaches do not require the computation of subdifferentials of the activation functions. We conclude with preliminary numerical results and discuss potential applications.	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Martin Benning</a>:   TITLE  </summary><b>Abstract:</b> ABSTRACT	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">13:00 - 13:45</td>
@@ -251,11 +160,11 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
       </tr>
       <tr>
         <td class="tg-lboi">15:30 - 16:15</td>
-        <td class="tg-talk"> <details> <summary><a>Aretha Teckentrup</a>:   Convergence of Gaussian process emulators with estimated hyper-parameters	 </summary><b>Abstract:</b> We are interested in the task of estimating an unknown function from data given as a set of point evaluations. In this context, Gaussian process regression is often used as a Bayesian inference procedure, and we are interested in the convergence as the number of data points goes to infinity. Hyper-parameters appearing in the mean and covariance structure of the Gaussian process prior, such as smoothness of the function and typical lenght scales, are often unknown and learnt from the data, along with the posterior mean and covariance. We work in the framework of empirical Bayes, where a point estimate of the hyper-parameters is computed, using the data, and then used within the standard Gaussian process prior to posterior update. Using results from scattered data approximation, we provide a convergence analysis of the method applied to a fixed, unknown function of interest. 	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Aretha Teckentrup</a>:   TITLE  </summary><b>Abstract:</b> ABSTRACT	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">16:15 - 17:00</td>
-        <td class="tg-talk"> <details> <summary><a>Matthew Thorpe</a>:   Rates of Convergence for Cheeger Cuts on Point Clouds	 </summary><b>Abstract:</b> We consider the problem of partitioning an unlabelled data that is represented via a proximity graph. Given a subset of nodes the graph cut is the sum of all edges from the set to its complement. A balanced cut, of which the Cheeger cut is a special case, minimises the ratio of graph cut to a term that penalises small clusters. In this work we make connections between the Cheeger cut on the graph and recent results on the stability of isoperimetric inequalities on manifolds in order to show high probability rates of convergence of the discrete Cheeger cut to its continuum analogue. This work is joint with Nicolas Garcia Trillos (Wisconsin Madison) and Ryan Murray (North Carolina State University). 	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Matthew Thorpe</a>:   TITLE  </summary><b>Abstract:</b> ABSTRACT	  </details> </td>
       </tr>
     </table>
 </div>
@@ -431,31 +340,4 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
 
 <p>Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLScuiUa6xDKhjHA1pJcXj-FcC8VihqnHJIYm2UqorWlQ0MC88g/viewform">here</a></p>
 
-
-    </main>
-
-    <!-- Java script for table -->
-    <script>
-      function openDate(evt, pmDate) {
-        var i, tabcontent, tablinks;
-        tabcontent = document.getElementsByClassName("tabcontent");
-        for (i = 0; i < tabcontent.length; i++) {
-          tabcontent[i].style.display = "none";
-        }
-        tablinks = document.getElementsByClassName("tablinks");
-        for (i = 0; i < tablinks.length; i++) {
-          tablinks[i].className = tablinks[i].className.replace(" active", "");
-        }
-        document.getElementById(pmDate).style.display = "block";
-        evt.currentTarget.className += " active";
-      }
-
-      // Get the element with id="defaultOpen" and click on it
-      document.getElementById("defaultOpen").click();
-    </script>
-
-
-  </body>
-
-
-</html>
+:ET

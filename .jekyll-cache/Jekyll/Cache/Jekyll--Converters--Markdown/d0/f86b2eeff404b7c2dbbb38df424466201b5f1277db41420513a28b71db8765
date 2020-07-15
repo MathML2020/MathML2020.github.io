@@ -1,6 +1,111 @@
-I"K"<h1 id="talks">Talks</h1>
+I"ÏB<h1 id="talks">Talks</h1>
 
-<p><strong>To be confirmed</strong></p>
+<p><strong>NB:</strong> Click speaker and title to toggle abstract.</p>
+
+<!-- Tab links -->
+<div class="tab">
+  <!-- <button> </button> -->
+  <button class="tablinks" onclick="openDate(event, 'Aug3')" id="defaultOpen">August 3</button>
+  <button class="tablinks" onclick="openDate(event, 'Aug4')">August 4</button>
+  <button class="tablinks" onclick="openDate(event, 'Aug5')">August 5</button>
+  <button class="tablinks" onclick="openDate(event, 'Aug6')">August 6</button>
+  <button class="tablinks" onclick="openDate(event, 'Aug7')">August 7</button>
+</div>
+
+<!-- Tab content -->
+<div id="Aug3" class="tabcontent">
+    <table class="tg">
+      <tr>
+        <th class="tg-lboi" style="min-width:128px">Time</th>
+        <th class="tg-lboi">Event</th>
+      </tr>
+      <tr>
+        <td class="tg-lboi">8:50 - 9:00</td>
+        <td class="tg-talk">Opening remarks</td>
+      </tr>
+      <tr>
+        <td class="tg-lboi">9:00 - 9:45</td>
+        <td class="tg-talk"> <details> <summary><a href="#talks-and-abstracts">Stephane Chretien</a>: Understanding interpolation in machine learning</summary><b>Abstract:</b>Recent progress in machine learning practice has lead to the conclusion that over-parametrisation was an essential ingredient in the success of deep neural networks. In this talk, I will survey the recent achievements by many authors from the applied mathematics community for unveiling the reasons why, contrarily to standard belief, overfitting is not the rule when the number of parameters largely exceeds the size of the training set. In particular we will explain the importance of the recently discovered "double descent phenomenon" by Belkin, Hsu, Ma and Mandal. We will end the presentation with a new proposal for studying this intriguing phenomenon and present novel results in this direction obtained jointly with E. Caron in the finite sample and subGaussian setting. </details> </td>
+      </tr>
+      <tr>
+        <td class="tg-lboi">9:45 - 10:30</td>
+        <td class="tg-talk"> <details> <summary><a href="#talks-and-abstracts">Johannes Schmidt-Hieber</a>: Overparametrization and the bias-variance dilemma</summary><b>Abstract:</b> 	For several machine learning methods such as neural networks, good generalisation performance has been reported in the overparametrized regime. In view of the classical bias-variance trade-off, this behaviour is highly counterintuitive. The talk summarizes recent theoretical results on overparametrization and the bias-variance trade-off. This is joint work with Alexis Derumigny. </details> </td>
+      </tr>
+      <tr>
+        <td class="tg-lboi">13:00 - 13:45</td>
+        <td class="tg-talk"> <details> <summary><a href="#talks-and-abstracts">Lenaic Chizat</a>: Overparametrization and the bias-variance dilemma</summary><b>Abstract:</b> 	For several machine learning methods such as neural networks, good generalisation performance has been reported in the overparametrized regime. In view of the classical bias-variance trade-off, this behaviour is highly counterintuitive. The talk summarizes recent theoretical results on overparametrization and the bias-variance trade-off. This is joint work with Alexis Derumigny. </details> </td>
+      </tr>
+      <tr>
+        <td class="tg-lboi">13:45 - 14:30</td>
+        <td class="tg-talk"> <details> <summary><a href="#talks-and-abstracts">Varun Kanade</a>: Overparametrization and the bias-variance dilemma</summary><b>Abstract:</b> 	For several machine learning methods such as neural networks, good generalisation performance has been reported in the overparametrized regime. In view of the classical bias-variance trade-off, this behaviour is highly counterintuitive. The talk summarizes recent theoretical results on overparametrization and the bias-variance trade-off. This is joint work with Alexis Derumigny. </details> </td>
+      </tr>
+      <tr>
+        <td class="tg-lboi">15:30- 16:15</td>
+        <td class="tg-talk"> <details> <summary><a href="#talks-and-abstracts">Weinan E</a>: Overparametrization and the bias-variance dilemma</summary><b>Abstract:</b> 	For several machine learning methods such as neural networks, good generalisation performance has been reported in the overparametrized regime. In view of the classical bias-variance trade-off, this behaviour is highly counterintuitive. The talk summarizes recent theoretical results on overparametrization and the bias-variance trade-off. This is joint work with Alexis Derumigny. </details> </td>
+      </tr>
+      <tr>
+        <td class="tg-lboi">16:15 - 17:00</td>
+        <td class="tg-talk"> <details> <summary><a href="#talks-and-abstracts">Brynjulf Owren</a>: Structure preservation in (some) deep learning architecture </summary><b>Abstract:</b> 	A deep neural network model consists a large number of layers, each with a number of parameters associated to them. In supervised learning, these parameters are optimised to match training data in the best possible way. The data are propagated through the layers by nonlinear transformations, and in an important subclass of models (ResNet) the transformation can be seen as the numerical flow of a certain type of continuous vector field. Ruthotto and Haber (2017) as well as Cheng et al. have experimented in using different type of vector fields to improve the deep learning model. In particular it is of interest that the trained model has good long time behaviour and are stable in the deep limit, when the number of layers tends to infinity. The models presented in the literature have certain builtin structural properties, they can for instance be gradient flows or Hamiltonian vector fields. A difficulty is however that the models are not autonomous and therefore it is less clear what their flows actually preserve. Starting from such ResNet vector fields, we shall discuss their properties and derive some new nonlinear stability bounds. The long time behaviour of these neural ODE flows is important in the generalisation mode, i.e. after the model has been trained. But also in the training algorithm itself,  structure preserving numerical schemes are important. In deep learning models, the use of gradient flows for optimisation is prevalent, and there exists a number of different algorithms that can be used, some of them can be interpreted as approximations of the flow of certain vector fields with dissipations, such as conformal Hamiltonian systems. If time permits, we will briefly discuss also these algorithms and in particular the need for and efficiency of regularisation. Joint work with: Martin Benning, Elena Celledoni, Matthias Ehrhardt, Christian Etmann, Robert McLachlan, Carola-Bibiane SchÃ¶nlieb and Ferdia Sherry. </details> </td>
+      </tr>
+      
+    </table>
+</div>
+
+<div id="Aug4" class="tabcontent">
+    <table class="tg">
+        <tr>
+          <th class="tg-lboi" style="min-width:128px">Time</th>
+          <th class="tg-lboi">Event</th>
+        </tr>
+        <tr>
+          <td class="tg-lboi">9:00 - 9:45</td>
+          <td class="tg-talk"><a href="#talks-and-abstracts">Speaker A</a>: Title A</td>
+        </tr>
+        <tr>
+          <td class="tg-lboi">9:45 - 10:30</td>
+          <td class="tg-talk"><a href="#talks-and-abstracts">Speaker B</a>: Title B</td>
+        </tr>
+      </table>
+</div>
+
+<div id="Aug5" class="tabcontent">
+    <table class="tg">
+      <tr>
+        <th class="tg-lboi" style="min-width:128px">Time</th>
+        <th class="tg-lboi">Event</th>
+      </tr>
+      <tr>
+        <td class="tg-lboi">9:00 - 9:45</td>
+        <td class="tg-talk"><a href="#talks-and-abstracts">Speaker A</a>: Title A</td>
+      </tr>
+    </table>
+</div>
+
+<div id="Aug6" class="tabcontent">
+    <table class="tg">
+      <tr>
+        <th class="tg-lboi" style="min-width:128px">Time</th>
+        <th class="tg-lboi">Event</th>
+      </tr>
+      <tr>
+        <td class="tg-lboi">9:00 - 9:45</td>
+        <td class="tg-talk"><a href="#talks-and-abstracts">Speaker A</a>: Title A</td>
+      </tr>
+    </table>
+</div>
+
+<div id="Aug7" class="tabcontent">
+    <table class="tg">
+      <tr>
+        <th class="tg-lboi" style="min-width:128px">Time</th>
+        <th class="tg-lboi">Event</th>
+      </tr>
+      <tr>
+        <td class="tg-lboi">9:00 - 9:45</td>
+        <td class="tg-talk"><a href="#talks-and-abstracts">Speaker A</a>: Title A</td>
+      </tr>
+    </table>
+</div>
 
 <h1 id="posters">Posters</h1>
 
