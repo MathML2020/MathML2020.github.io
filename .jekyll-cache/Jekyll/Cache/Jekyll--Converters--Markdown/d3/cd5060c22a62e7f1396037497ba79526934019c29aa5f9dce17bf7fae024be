@@ -1,79 +1,6 @@
-<!DOCTYPE html>
-<html lang="en-US">
+I"�<h1 id="talks">Talks</h1>
 
-
-  <head>
-    <meta charset="UTF-8">
-
-  <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Program | Mathematics of Machine Learning</title>
-<meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="Program" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="LMS-Bath Symposium, 3-7 August 2020, University of Bath" />
-<meta property="og:description" content="LMS-Bath Symposium, 3-7 August 2020, University of Bath" />
-<link rel="canonical" href="http://localhost:4000/program.html" />
-<meta property="og:url" content="http://localhost:4000/program.html" />
-<meta property="og:site_name" content="Mathematics of Machine Learning" />
-<script type="application/ld+json">
-{"url":"http://localhost:4000/program.html","description":"LMS-Bath Symposium, 3-7 August 2020, University of Bath","headline":"Program","@type":"WebPage","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-
-    <link rel="stylesheet" href="assets/bs/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/assets/css/style.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <!-- <script src="assets/bs/js/bootstrap.js"></script> -->
-
-    <style>
-      #grad3 {
-        height: 475px;
-        background-color: blue; /* For browsers that do not support gradients */
-        background-image: linear-gradient(to bottom right, green, blue); /* Standard syntax (must be last) */
-      }
-    </style>
-  </head>
-
-
-
-  <body>
-    <!-- <header class="page-header" role="banner">
-      <h1 class="project-name">Program</h1>
-      <h2 class="project-tagline">LMS-Bath Symposium, 3-7 August 2020, University of Bath</h2>
-      
-      
-    </header> -->
-
-    <div class="container">
-      <!-- <h2>Carousel Example</h2>   -->
-      <div id="myCarousel" class="carousel slide" data-ride="carousel">
-        <div class="carousel-caption">
-            <h3 class="carousel-title"> Program </h3>
-            <p class="carousel-body"> LMS-Bath Symposium, 3-7 August 2020, University of Bath </p>
-
-            <a href="index" class="btn">Back</a>
-            <a href="#talks" class="btn">Talks</a>
-            <a href="#posters" class="btn">Posters</a>
-            <a href="#public-lecture" class="btn">Public Lecture</a>
-        </div>
-
-        <!-- Wrapper for slides -->
-        <div class="carousel-inner">
-          <div class="item active">
-            <img src="assets/img/img1.jpg" style="width:100%;">
-            <!-- <div id="grad3"></div> -->
-          </div>
-      </div>
-    </div>
-
-    <main id="content" class="main-content" role="main">
-      <h1 id="talks">Talks</h1>
-
-<p><strong>NB:</strong> Click title to toggle abstract.</p>
+<p><strong>NB:</strong> Click speaker and title to toggle abstract.</p>
 
 <!-- Tab links -->
 <div class="tab">
@@ -263,7 +190,7 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
       </tr>
       <tr>
         <td class="tg-lboi">18:00 - 19:00</td>
-        <td class="tg-talk"> <details> <summary><a href="https://www.damtp.cam.ac.uk/user/cbs31/Home.html" target="_blank">Carola-Bibiane Schönlieb (Public lecture)</a>:  Looking into the black box: how mathematics can help to turn deep learning inside out </summary><b>Abstract:</b> Deep learning has had a transformative impact on a wide range of tasks related to Artificial Intelligence, ranging from computer vision and speech recognition to playing games. Still, the inner workings of deep neural networks are far from clear, and designing and training them is seen as almost a black art. In this talk we will try to open this black box a little bit by using mathematical structure of neural networks described by so-called differential equations and mathematical optimisation. The talk is furnished with several examples in image analysis and computer vision, ranging from biomedical imaging to remote sensing.  </details> </td>
+        <td class="tg-talk"> <details> <summary><a href="" target="_blank">Carola-Bibiane Schönlieb (Public lecture)</a>:  Looking into the black box: how mathematics can help to turn deep learning inside out </summary><b>Abstract:</b> Deep learning has had a transformative impact on a wide range of tasks related to Artificial Intelligence, ranging from computer vision and speech recognition to playing games. Still, the inner workings of deep neural networks are far from clear, and designing and training them is seen as almost a black art. In this talk we will try to open this black box a little bit by using mathematical structure of neural networks described by so-called differential equations and mathematical optimisation. The talk is furnished with several examples in image analysis and computer vision, ranging from biomedical imaging to remote sensing.  </details> </td>
       </tr>
     </table>
 </div>
@@ -300,11 +227,11 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
       </tr>
       <tr>
         <td class="tg-lboi">15:30 - 16:15</td>
-        <td class="tg-talk"> <details> <summary><a href="https://www.maths.ed.ac.uk/~ateckent/" target="_blank">Aretha Teckentrup</a>:   Convergence of Gaussian process emulators with estimated hyper-parameters	 </summary><b>Abstract:</b> We are interested in the task of estimating an unknown function from data given as a set of point evaluations. In this context, Gaussian process regression is often used as a Bayesian inference procedure, and we are interested in the convergence as the number of data points goes to infinity. Hyper-parameters appearing in the mean and covariance structure of the Gaussian process prior, such as smoothness of the function and typical lenght scales, are often unknown and learnt from the data, along with the posterior mean and covariance. We work in the framework of empirical Bayes, where a point estimate of the hyper-parameters is computed, using the data, and then used within the standard Gaussian process prior to posterior update. Using results from scattered data approximation, we provide a convergence analysis of the method applied to a fixed, unknown function of interest. 	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a href="" target="_blank">Aretha Teckentrup</a>:   Convergence of Gaussian process emulators with estimated hyper-parameters	 </summary><b>Abstract:</b> We are interested in the task of estimating an unknown function from data given as a set of point evaluations. In this context, Gaussian process regression is often used as a Bayesian inference procedure, and we are interested in the convergence as the number of data points goes to infinity. Hyper-parameters appearing in the mean and covariance structure of the Gaussian process prior, such as smoothness of the function and typical lenght scales, are often unknown and learnt from the data, along with the posterior mean and covariance. We work in the framework of empirical Bayes, where a point estimate of the hyper-parameters is computed, using the data, and then used within the standard Gaussian process prior to posterior update. Using results from scattered data approximation, we provide a convergence analysis of the method applied to a fixed, unknown function of interest. 	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">16:15 - 17:00</td>
-        <td class="tg-talk"> <details> <summary><a href="https://www.research.manchester.ac.uk/portal/matthew.thorpe-2.html" target="_blank">Matthew Thorpe</a>:   Rates of Convergence for Cheeger Cuts on Point Clouds	 </summary><b>Abstract:</b> We consider the problem of partitioning an unlabelled data that is represented via a proximity graph. Given a subset of nodes the graph cut is the sum of all edges from the set to its complement. A balanced cut, of which the Cheeger cut is a special case, minimises the ratio of graph cut to a term that penalises small clusters. In this work we make connections between the Cheeger cut on the graph and recent results on the stability of isoperimetric inequalities on manifolds in order to show high probability rates of convergence of the discrete Cheeger cut to its continuum analogue. This work is joint with Nicolas Garcia Trillos (Wisconsin Madison) and Ryan Murray (North Carolina State University). 	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a href="" target="_blank">Matthew Thorpe</a>:   Rates of Convergence for Cheeger Cuts on Point Clouds	 </summary><b>Abstract:</b> We consider the problem of partitioning an unlabelled data that is represented via a proximity graph. Given a subset of nodes the graph cut is the sum of all edges from the set to its complement. A balanced cut, of which the Cheeger cut is a special case, minimises the ratio of graph cut to a term that penalises small clusters. In this work we make connections between the Cheeger cut on the graph and recent results on the stability of isoperimetric inequalities on manifolds in order to show high probability rates of convergence of the discrete Cheeger cut to its continuum analogue. This work is joint with Nicolas Garcia Trillos (Wisconsin Madison) and Ryan Murray (North Carolina State University). 	  </details> </td>
       </tr>
     </table>
 </div>
@@ -475,31 +402,4 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
 
 <p>Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLScuiUa6xDKhjHA1pJcXj-FcC8VihqnHJIYm2UqorWlQ0MC88g/viewform">here</a></p>
 
-
-    </main>
-
-    <!-- Java script for table -->
-    <script>
-      function openDate(evt, pmDate) {
-        var i, tabcontent, tablinks;
-        tabcontent = document.getElementsByClassName("tabcontent");
-        for (i = 0; i < tabcontent.length; i++) {
-          tabcontent[i].style.display = "none";
-        }
-        tablinks = document.getElementsByClassName("tablinks");
-        for (i = 0; i < tablinks.length; i++) {
-          tablinks[i].className = tablinks[i].className.replace(" active", "");
-        }
-        document.getElementById(pmDate).style.display = "block";
-        evt.currentTarget.className += " active";
-      }
-
-      // Get the element with id="defaultOpen" and click on it
-      document.getElementById("defaultOpen").click();
-    </script>
-
-
-  </body>
-
-
-</html>
+:ET

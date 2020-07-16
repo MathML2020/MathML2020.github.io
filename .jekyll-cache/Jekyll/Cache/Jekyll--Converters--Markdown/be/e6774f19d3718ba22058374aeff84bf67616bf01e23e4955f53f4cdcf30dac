@@ -1,4 +1,4 @@
-I"êπ<h1 id="talks">Talks</h1>
+I"€ª<h1 id="talks">Talks</h1>
 
 <p><strong>NB:</strong> Click speaker and title to toggle abstract.</p>
 
@@ -25,7 +25,7 @@
       </tr>
       <tr>
         <td class="tg-lboi">9:00 - 9:45</td>
-        <td class="tg-talk"> <details> <summary><a>Stephane Chretien</a>: Understanding interpolation in machine learning</summary><b>Abstract:</b>Recent progress in machine learning practice has lead to the conclusion that over-parametrisation was an essential ingredient in the success of deep neural networks. In this talk, I will survey the recent achievements by many authors from the applied mathematics community for unveiling the reasons why, contrarily to standard belief, overfitting is not the rule when the number of parameters largely exceeds the size of the training set. In particular we will explain the importance of the recently discovered "double descent phenomenon" by Belkin, Hsu, Ma and Mandal. We will end the presentation with a new proposal for studying this intriguing phenomenon and present novel results in this direction obtained jointly with E. Caron in the finite sample and subGaussian setting. </details> </td>
+        <td class="tg-talk"> <details> <summary>[Stephane Chretien]: Understanding interpolation in machine learning</summary><b>Abstract:</b>Recent progress in machine learning practice has lead to the conclusion that over-parametrisation was an essential ingredient in the success of deep neural networks. In this talk, I will survey the recent achievements by many authors from the applied mathematics community for unveiling the reasons why, contrarily to standard belief, overfitting is not the rule when the number of parameters largely exceeds the size of the training set. In particular we will explain the importance of the recently discovered "double descent phenomenon" by Belkin, Hsu, Ma and Mandal. We will end the presentation with a new proposal for studying this intriguing phenomenon and present novel results in this direction obtained jointly with E. Caron in the finite sample and subGaussian setting. </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">9:45 - 10:30</td>
@@ -97,7 +97,7 @@ We discuss Hamiltonian descent methods. For manifold value data, we present rece
       </tr>
       <tr>
         <td class="tg-lboi">16:15 - 17:45</td>
-        <td class="tg-talk"> <details> <summary><a>Poster session</a>:   Posters 16-29  </summary><b>Link:</b> TBC  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Poster session</a>:   Posters 16-28  </summary><b>Link:</b> TBC  </details> </td>
       </tr>
       </table>
 </div>
@@ -139,7 +139,8 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
       </tr>
       <tr>
         <td class="tg-lboi">16:15 - 17:00</td>
-        <td class="tg-talk"> <details> <summary><a>Carola-Bibiane Sch√∂nlieb</a>:   TITLE  </summary><b>Abstract:</b> ABSTRACT	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Carola-Bibiane Sch√∂nlieb</a>: Hybrid mathematical and machine learning methods for solving inverse imaging problems - getting the best from both worlds
+  </summary><b>Abstract:</b> In this talk I will discuss image analysis methods which have both a mathematical modelling and a machine learning (data-driven) component. Mathematical modelling is useful in the presence of prior information about the imaging data and relevant biomarkers, for narrowing down the search space, for highly generalizable image analysis methods, and for guaranteeing desirable properties of image analysis solutions. Machine learning on the other hand is a powerful tool for customising image analysis methods to individual data sets. Their combination is the topic of this talk, furnished with examples for image classification under minimal supervision with an application to chest x-rays and task adapted tomographic reconstruction.	  </details> </td>
       </tr>
     </table>
 </div>
@@ -383,11 +384,6 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
     </tr>
     <tr>
       <td style="text-align: center">028</td>
-      <td style="text-align: left">Stefan Wild	(Argonne National Laboratory)</td>
-      <td style="text-align: left">Zero-order optimization for learning: How long can you wait?</td>
-    </tr>
-    <tr>
-      <td style="text-align: center">029</td>
       <td style="text-align: left">Kelvin Shuangjian Zhang (ENS Paris)</td>
       <td style="text-align: left">Wasserstein control of mirror Langevin Monte Carlo</td>
     </tr>
