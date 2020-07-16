@@ -18,7 +18,7 @@ Remarkably, while ML relies on mathematical models and tools, many ML algorithms
 # Invited Speakers
 - [Jonas Adler](https://jonasadler.com/), Google DeepMind, UK
 - [Simon Arridge](http://www0.cs.ucl.ac.uk/staff/S.Arridge/), University College London, UK
-- [Erik Bekkers](https://www.tue.nl/en/research/researchers/erik-bekkers/), University of Amsterdam, Netherlands
+- [Erik Bekkers](https://erikbekkers.bitbucket.io), University of Amsterdam, Netherlands
 - [Martin Benning](https://www.qmul.ac.uk/maths/profiles/benningmartin.html), Queen Mary University of London, UK
 - [Elena Calledoni](https://www.ntnu.edu/employees/elena.celledoni), Norwegian University of Science and Technology, Norway
 - [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/), University of Oxford, UK
@@ -49,7 +49,7 @@ Remarkably, while ML relies on mathematical models and tools, many ML algorithms
 - [Philip Aston](https://www.surrey.ac.uk/people/philip-aston), University of Surrey, UK
 - [Matthias J. Ehrhardt](https://mehrhardt.github.io/), University of Bath, UK
 - [Catherine Higham](https://www.gla.ac.uk/schools/computing/staff/catherinehigham/), University of Glasgow, UK
-- [Clarice Poon](http://www.damtp.cam.ac.uk/user/cmhsp2/), University of Bath, UK
+- [Clarice Poon](https://cmhsp2.github.io/), University of Bath, UK
 
 # Registration
 Registration is now open, see [link](https://docs.google.com/forms/d/e/1FAIpQLSfvQP_d8oeHupDHOPmtSHPBoyJvBPVf24iirZBC6Cu-7QZakg/viewform).
