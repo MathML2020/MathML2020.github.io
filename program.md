@@ -263,9 +263,9 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
 | 009 | Allen Hart	(University of Bath) |	Machine Learning Models |
 | 010 | Allard Hendriksen	(Centrum Wiskunde & Informatica (CWI), Amsterdam) |	Noise2Inverse: Self-supervised deep convolutional denoising for linear inverse problems in imaging |
 | 011 | Johannes Hertrich	(TU Berlin) |	Parseval Proximal Neural Networks |
-| 012 | Gabriele Incorvaia	(University of Manchester)	 |  A deep learning application for Through-the-Wall Radar Imaging |
+| 012 | Gabriele Incorvaia	(University of Manchester)	 |  A deep learning application for Through-the-Wall Radar Imaging  [**Poster**](Posters/Incorvaia_Gabriele.pdf){:target="_blank"} |
 | 013 | Nicolas Keriven	(CNRS, GIPSA-lab) |	Universal Invariant and Equivariant Graph Neural Networks |
-| 014 | Youngkyu Lee	 (KAIST) |	A parareal neural network emulating parallel-in-time algorithm [**Poster**](Posters/YoungkyuLee.png){:target="_blank"}  |
+| 014 | Youngkyu Lee	 (KAIST) |	A parareal neural network emulating parallel-in-time algorithm [**Poster**](Posters/Lee_Youngkyu.png){:target="_blank"}  |
 | 015 | Peter Mathé	(Weierstrass Institute) |	Inverse learning in Hilbert scales |
 | 016 | Janith Petangoda	(Imperial College London) |	Transfer Learning: An application of Foliations |
 | 017 |  Benedek Plosz	(University of Bath) |	Learning with unexplored priors systemises error propagation in Bayesian hierarchical modelling |
@@ -273,7 +273,7 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
 | 019| Abhishake Rastogi	(University of Potsdam) |	Regularization schemes for statistical inverse problems |
 | 020 | Salvatore Danilo Riccio	(Queen Mary University of London) |	Robustness of Runge-Kutta networks against adversarial attacks |
 | 021 | Paul Russell	(University of Bath) |	Learning to solve Rubik’s cube |
-| 022 | Malena Sabaté	(University of Bath) |	Iteratively Reweighted Flexible Krylov methods for Sparse Reconstruction [**Poster**](Posters/MalenaSabate.png){:target="_blank"} [**Video**](https://drive.google.com/file/d/1FXWYpcRW9axsPoBZtzzxEMPcqp9_YS6d/view?usp=sharing){:target="_blank"}|
+| 022 | Malena Sabaté	(University of Bath) |	Iteratively Reweighted Flexible Krylov methods for Sparse Reconstruction [**Poster**](Posters/Sabate_Malena.png){:target="_blank"} [**Video**](https://drive.google.com/file/d/1FXWYpcRW9axsPoBZtzzxEMPcqp9_YS6d/view?usp=sharing){:target="_blank"}|
 | 023 | Silvester Sabathiel	(NTNU Trondheim) |	A computational model of learning to count in a multimodal, interactive environment |
 | 024 | Ferdia Sherry	(University of Cambridge) |	Equivariant neural networks for inverse problems in imaging |
 | 025 | Giuseppe Ughi	(University of Oxford) |	A Model-Based Derivative-Free Approach to Black-Box Adversarial Examples |
