@@ -1,77 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-
-
-  <head>
-    <meta charset="UTF-8">
-
-  <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Program | Mathematics of Machine Learning</title>
-<meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="Program" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="LMS-Bath Symposium, 3-7 August 2020, University of Bath" />
-<meta property="og:description" content="LMS-Bath Symposium, 3-7 August 2020, University of Bath" />
-<link rel="canonical" href="http://localhost:4000/program.html" />
-<meta property="og:url" content="http://localhost:4000/program.html" />
-<meta property="og:site_name" content="Mathematics of Machine Learning" />
-<script type="application/ld+json">
-{"headline":"Program","url":"http://localhost:4000/program.html","description":"LMS-Bath Symposium, 3-7 August 2020, University of Bath","@type":"WebPage","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-
-    <link rel="stylesheet" href="assets/bs/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/assets/css/style.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <!-- <script src="assets/bs/js/bootstrap.js"></script> -->
-
-    <style>
-      #grad3 {
-        height: 475px;
-        background-color: blue; /* For browsers that do not support gradients */
-        background-image: linear-gradient(to bottom right, green, blue); /* Standard syntax (must be last) */
-      }
-    </style>
-  </head>
-
-
-
-  <body>
-    <!-- <header class="page-header" role="banner">
-      <h1 class="project-name">Program</h1>
-      <h2 class="project-tagline">LMS-Bath Symposium, 3-7 August 2020, University of Bath</h2>
-      
-      
-    </header> -->
-
-    <div class="container">
-      <!-- <h2>Carousel Example</h2>   -->
-      <div id="myCarousel" class="carousel slide" data-ride="carousel">
-        <div class="carousel-caption">
-            <h3 class="carousel-title"> Program </h3>
-            <p class="carousel-body"> LMS-Bath Symposium, 3-7 August 2020, University of Bath </p>
-
-            <a href="index" class="btn">Back</a>
-            <a href="#talks" class="btn">Talks</a>
-            <a href="#posters" class="btn">Posters</a>
-            <a href="#public-lecture" class="btn">Public Lecture</a>
-        </div>
-
-        <!-- Wrapper for slides -->
-        <div class="carousel-inner">
-          <div class="item active">
-            <img src="assets/img/img1.jpg" style="width:100%;">
-            <!-- <div id="grad3"></div> -->
-          </div>
-      </div>
-    </div>
-
-    <main id="content" class="main-content" role="main">
-      <h1 id="talks">Talks</h1>
+I"��<h1 id="talks">Talks</h1>
 
 <p><strong>NB:</strong> Click title to toggle abstract.</p>
 
@@ -122,11 +49,11 @@
       </tr>
       <tr>
         <td class="tg-lboi">15:30 - 16:15</td>
-        <td class="tg-talk"> <details> <summary><a href="https://web.math.princeton.edu/~weinan/" target="_blank">Weinan E</a>: Machine learning from a continuous viewpoint. <br /> <small>Chair: Ehrhardt</small></summary><b>Abstract:</b> Modern machine learning is characterized by two distinctive features: It can be very powerful and it can be quite fragile. The former does not need any elaboration. The latter refers to the fact that the performance of modern machine learning algorithms depends sensitively on the choice of the hyperparameters. This talk centers on continuous formulations of machine learning that are ``well-posed''. We formulate machine learning and the associated optimization process as well-behaved variational and PDE-like problems, and demonstrate that some of the most popular modern machine learning algorithms can be recovered as particular discretizations of these continuous problems. We demonstrate that the performance of the algorithms obtained this way tends to be more robust with the different choices of the hyperparameters. We also discuss how to develop new algorithms under this framework. </details> </td>
+        <td class="tg-talk"> <details> <summary><a href="https://web.math.princeton.edu/~weinan/" target="_blank">Weinan E</a>: Machine learning from a continuous viewpoint. <p> <small>Chair: Ehrhardt</small></p> </summary><b>Abstract:</b> Modern machine learning is characterized by two distinctive features: It can be very powerful and it can be quite fragile. The former does not need any elaboration. The latter refers to the fact that the performance of modern machine learning algorithms depends sensitively on the choice of the hyperparameters. This talk centers on continuous formulations of machine learning that are ``well-posed''. We formulate machine learning and the associated optimization process as well-behaved variational and PDE-like problems, and demonstrate that some of the most popular modern machine learning algorithms can be recovered as particular discretizations of these continuous problems. We demonstrate that the performance of the algorithms obtained this way tends to be more robust with the different choices of the hyperparameters. We also discuss how to develop new algorithms under this framework. </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">16:15 - 17:00</td>
-        <td class="tg-talk"> <details> <summary><a href="https://www.ntnu.edu/employees/brynjulf.owren" target="_blank">Brynjulf Owren</a>: Structure preservation in (some) deep learning architecture. <br /> <small>Chair: Ehrhardt</small> </summary><b>Abstract:</b> 	A deep neural network model consists a large number of layers, each with a number of parameters associated to them. In supervised learning, these parameters are optimised to match training data in the best possible way. The data are propagated through the layers by nonlinear transformations, and in an important subclass of models (ResNet) the transformation can be seen as the numerical flow of a certain type of continuous vector field. Ruthotto and Haber (2017) as well as Cheng et al. have experimented in using different type of vector fields to improve the deep learning model. In particular it is of interest that the trained model has good long time behaviour and are stable in the deep limit, when the number of layers tends to infinity. The models presented in the literature have certain builtin structural properties, they can for instance be gradient flows or Hamiltonian vector fields. A difficulty is however that the models are not autonomous and therefore it is less clear what their flows actually preserve. Starting from such ResNet vector fields, we shall discuss their properties and derive some new nonlinear stability bounds. The long time behaviour of these neural ODE flows is important in the generalisation mode, i.e. after the model has been trained. But also in the training algorithm itself,  structure preserving numerical schemes are important. In deep learning models, the use of gradient flows for optimisation is prevalent, and there exists a number of different algorithms that can be used, some of them can be interpreted as approximations of the flow of certain vector fields with dissipations, such as conformal Hamiltonian systems. If time permits, we will briefly discuss also these algorithms and in particular the need for and efficiency of regularisation. Joint work with: Martin Benning, Elena Celledoni, Matthias Ehrhardt, Christian Etmann, Robert McLachlan, Carola-Bibiane Schönlieb and Ferdia Sherry. </details> </td>
+        <td class="tg-talk"> <details> <summary><a href="https://www.ntnu.edu/employees/brynjulf.owren" target="_blank">Brynjulf Owren</a>: Structure preservation in (some) deep learning architecture. <p> <small>Chair: Ehrhardt</small></p>  </summary><b>Abstract:</b> 	A deep neural network model consists a large number of layers, each with a number of parameters associated to them. In supervised learning, these parameters are optimised to match training data in the best possible way. The data are propagated through the layers by nonlinear transformations, and in an important subclass of models (ResNet) the transformation can be seen as the numerical flow of a certain type of continuous vector field. Ruthotto and Haber (2017) as well as Cheng et al. have experimented in using different type of vector fields to improve the deep learning model. In particular it is of interest that the trained model has good long time behaviour and are stable in the deep limit, when the number of layers tends to infinity. The models presented in the literature have certain builtin structural properties, they can for instance be gradient flows or Hamiltonian vector fields. A difficulty is however that the models are not autonomous and therefore it is less clear what their flows actually preserve. Starting from such ResNet vector fields, we shall discuss their properties and derive some new nonlinear stability bounds. The long time behaviour of these neural ODE flows is important in the generalisation mode, i.e. after the model has been trained. But also in the training algorithm itself,  structure preserving numerical schemes are important. In deep learning models, the use of gradient flows for optimisation is prevalent, and there exists a number of different algorithms that can be used, some of them can be interpreted as approximations of the flow of certain vector fields with dissipations, such as conformal Hamiltonian systems. If time permits, we will briefly discuss also these algorithms and in particular the need for and efficiency of regularisation. Joint work with: Martin Benning, Elena Celledoni, Matthias Ehrhardt, Christian Etmann, Robert McLachlan, Carola-Bibiane Schönlieb and Ferdia Sherry. </details> </td>
       </tr>
       
     </table>
@@ -278,11 +205,11 @@ the topic of this talk, furnished with examples for image classification under m
       </tr>
       <tr>
         <td class="tg-lboi">9:00 - 9:45</td>
-        <td class="tg-talk"> <details> <summary><a href="http://kac.maths.ed.ac.uk/~bl" target="_blank">Ben Leimkuhler</a>:   Regularizing neural networks using constrained thermodynamic algorithms.   <br /> <small>Chair:  Higham</small>  </summary><b>Abstract:</b> 	Large scale neural networks can be trained to 100 percent accuracy on their training set, even for random labels, but such models do not necessarily generalize well to unseen test data. To combat the problem of overfitting, it is common to employ some type of regularization scheme, either explicit penalty terms to control the weights, or implicit approaches such as early stopping or dropout. In this talk I will describe a method for efficiently incorporating algebraic constraints into a stochastic gradient Langevin framework for the training of deep neural networks. Constraints allow direct control of the parameter space of the model and can be used to replace both explicit and implicit regularization strategies. Appropriately designed, they can curb the vanishing/exploding gradient problem and control weight magnitudes and thus stabilize deep neural networks improving the robustness of training algorithms and the consequent generalization capabilities of the trained neural network. I will present examples, discussing both overdamped and underdamped Langevin schemes, distributional convergence issues and numerical discretization methods. The methods are explored in standard test examples from image classification and natural language processing.	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a href="http://kac.maths.ed.ac.uk/~bl" target="_blank">Ben Leimkuhler</a>:   Regularizing neural networks using constrained thermodynamic algorithms  </summary><b>Abstract:</b> 	Large scale neural networks can be trained to 100 percent accuracy on their training set, even for random labels, but such models do not necessarily generalize well to unseen test data. To combat the problem of overfitting, it is common to employ some type of regularization scheme, either explicit penalty terms to control the weights, or implicit approaches such as early stopping or dropout. In this talk I will describe a method for efficiently incorporating algebraic constraints into a stochastic gradient Langevin framework for the training of deep neural networks. Constraints allow direct control of the parameter space of the model and can be used to replace both explicit and implicit regularization strategies. Appropriately designed, they can curb the vanishing/exploding gradient problem and control weight magnitudes and thus stabilize deep neural networks improving the robustness of training algorithms and the consequent generalization capabilities of the trained neural network. I will present examples, discussing both overdamped and underdamped Langevin schemes, distributional convergence issues and numerical discretization methods. The methods are explored in standard test examples from image classification and natural language processing.	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">9:45 - 10:30</td>
-        <td class="tg-talk"> <details> <summary><a href="https://www.qmul.ac.uk/maths/profiles/benningmartin.html" target="_blank">Martin Benning</a>:   A novel empirical risk minimisation formulation for feed-forward neural networks with non-smooth activations.	<br /> <small>Chair:  Higham</small>   </summary><b>Abstract:</b> In this talk we introduce a novel mathematical formulation for the training of deep neural networks with (potentially non-smooth) proximal maps as activation functions. The advantage of this new formulation is that its partial derivatives with respect to the network’s individual weight- and bias-terms do not require the computation of derivates of the individual activation functions. Instead of estimating the parameters with a subgradient-based optimisation algorithm (as is the state of the art), we therefore use a coordinate descent- or a tailored Bregman alternating direction method of multipliers (BADMM)-approach to train the network parameters; both approaches do not require the computation of subdifferentials of the activation functions. We conclude with preliminary numerical results and discuss potential applications.	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a href="https://www.qmul.ac.uk/maths/profiles/benningmartin.html" target="_blank">Martin Benning</a>:   A novel empirical risk minimisation formulation for feed-forward neural networks with non-smooth activations.	  </summary><b>Abstract:</b> In this talk we introduce a novel mathematical formulation for the training of deep neural networks with (potentially non-smooth) proximal maps as activation functions. The advantage of this new formulation is that its partial derivatives with respect to the network’s individual weight- and bias-terms do not require the computation of derivates of the individual activation functions. Instead of estimating the parameters with a subgradient-based optimisation algorithm (as is the state of the art), we therefore use a coordinate descent- or a tailored Bregman alternating direction method of multipliers (BADMM)-approach to train the network parameters; both approaches do not require the computation of subdifferentials of the activation functions. We conclude with preliminary numerical results and discuss potential applications.	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi"></td>
@@ -290,11 +217,11 @@ the topic of this talk, furnished with examples for image classification under m
       </tr>
       <tr>
         <td class="tg-lboi">13:00 - 13:45</td>
-        <td class="tg-talk"> <details> <summary><a href="https://erikbekkers.bitbucket.io" target="_blank">Erik Bekkers</a>:   Group Equivariant CNNs beyond Roto-Translations: B-Spline CNNs on Lie Groups. <br /> <small>Chair:  Benning</small> 	 </summary><b>Abstract:</b> Group convolution neural networks (G-CNNs) can be used to improve classical CNNs by equipping them with the geometric structure of groups. Central in the success of G-CNNs is to lift feature maps to higher dimensional disentangled representations in which data characteristics are effectively learned, geometric data-augmentations are made obsolete, and predictable behavior under geometric transformations (equivariance) is guaranteed via group theory. Currently, however, the practical implementations of G-CNNs are limited to either discrete groups (that leave the grid intact) or continuous compact groups such as rotations (that enable the use of Fourier theory). In this talk I lift these limitations and propose a modular framework for the design and implementation of *G-CNNs for arbitrary Lie groups*. In this approach the differential structure of Lie groups is used to expand convolution kernels in a generic basis of B-splines that is defined on the Lie algebra. This leads to a flexible framework that enables *localized*, *atrous*, and *deformable convolutions* in G-CNNs by means of respectively *localized*, *sparse* and *non-uniform* B-spline expansions. The impact and potential of the approach is studied on two benchmark datasets: cancer detection in histopathology slides (PCAM dataset) in which rotation equivariance plays a key role and facial landmark localization (CelebA dataset) in which scale equivariance is important. In both cases, G-CNN architectures out-perform their classical 2D counterparts and the added value atrous and localized group convolutions is studied in detail. 	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a href="https://erikbekkers.bitbucket.io" target="_blank">Erik Bekkers</a>:   Group Equivariant CNNs beyond Roto-Translations: B-Spline CNNs on Lie Groups	 </summary><b>Abstract:</b> Group convolution neural networks (G-CNNs) can be used to improve classical CNNs by equipping them with the geometric structure of groups. Central in the success of G-CNNs is to lift feature maps to higher dimensional disentangled representations in which data characteristics are effectively learned, geometric data-augmentations are made obsolete, and predictable behavior under geometric transformations (equivariance) is guaranteed via group theory. Currently, however, the practical implementations of G-CNNs are limited to either discrete groups (that leave the grid intact) or continuous compact groups such as rotations (that enable the use of Fourier theory). In this talk I lift these limitations and propose a modular framework for the design and implementation of *G-CNNs for arbitrary Lie groups*. In this approach the differential structure of Lie groups is used to expand convolution kernels in a generic basis of B-splines that is defined on the Lie algebra. This leads to a flexible framework that enables *localized*, *atrous*, and *deformable convolutions* in G-CNNs by means of respectively *localized*, *sparse* and *non-uniform* B-spline expansions. The impact and potential of the approach is studied on two benchmark datasets: cancer detection in histopathology slides (PCAM dataset) in which rotation equivariance plays a key role and facial landmark localization (CelebA dataset) in which scale equivariance is important. In both cases, G-CNN architectures out-perform their classical 2D counterparts and the added value atrous and localized group convolutions is studied in detail. 	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">13:45 - 14:30</td>
-        <td class="tg-talk"> <details> <summary><a href="https://people.epfl.ch/sofia.olhede?lang=en" target="_blank">Sofia Olhede</a>:   Modeling Networks and Network Populations via Graph Distances. <br /> <small>Chair:  Benning</small> 	 </summary><b>Abstract:</b> Networks have become a key form of data. Networks allow us to dependence between nodes or actors. Understanding the difference between two networks is also challenging unless they share nodes and are of the same size. We shall discuss how we may compare networks and also consider the regime where more than one network is observed. We shall also discuss how to parametrize a distribution on labelled graphs in terms of a Frechét mean graph (which depends on a user-specified choice of metric or graph distance) and a parameter that controls the concentration of this distribution about its mean. Entropy is the natural parameter for such control, varying from a point mass concentrated on the Frechét mean itself to a uniform distribution over all graphs on a given vertex set. Networks present many new statistical challenges. We shall discuss how to resolve these challenges respecting the fundamental non-Euclidean nature of network observations. This is joint work with Simon Lunagomez (Lancaster University) and Patrick Wolfe (Purdue University) 	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a href="https://people.epfl.ch/sofia.olhede?lang=en" target="_blank">Sofia Olhede</a>:   Modeling Networks and Network Populations via Graph Distances	 </summary><b>Abstract:</b> Networks have become a key form of data. Networks allow us to dependence between nodes or actors. Understanding the difference between two networks is also challenging unless they share nodes and are of the same size. We shall discuss how we may compare networks and also consider the regime where more than one network is observed. We shall also discuss how to parametrize a distribution on labelled graphs in terms of a Frechét mean graph (which depends on a user-specified choice of metric or graph distance) and a parameter that controls the concentration of this distribution about its mean. Entropy is the natural parameter for such control, varying from a point mass concentrated on the Frechét mean itself to a uniform distribution over all graphs on a given vertex set. Networks present many new statistical challenges. We shall discuss how to resolve these challenges respecting the fundamental non-Euclidean nature of network observations. This is joint work with Simon Lunagomez (Lancaster University) and Patrick Wolfe (Purdue University) 	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi"></td>
@@ -302,11 +229,11 @@ the topic of this talk, furnished with examples for image classification under m
       </tr>
       <tr>
         <td class="tg-lboi">15:30 - 16:15</td>
-        <td class="tg-talk"> <details> <summary><a href="https://www.maths.ed.ac.uk/~ateckent/" target="_blank">Aretha Teckentrup</a>:   Convergence of Gaussian process emulators with estimated hyper-parameters. <br /> <small>Chair:  Leimkuhler</small>  </summary><b>Abstract:</b> We are interested in the task of estimating an unknown function from data given as a set of point evaluations. In this context, Gaussian process regression is often used as a Bayesian inference procedure, and we are interested in the convergence as the number of data points goes to infinity. Hyper-parameters appearing in the mean and covariance structure of the Gaussian process prior, such as smoothness of the function and typical lenght scales, are often unknown and learnt from the data, along with the posterior mean and covariance. We work in the framework of empirical Bayes, where a point estimate of the hyper-parameters is computed, using the data, and then used within the standard Gaussian process prior to posterior update. Using results from scattered data approximation, we provide a convergence analysis of the method applied to a fixed, unknown function of interest. 	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a href="https://www.maths.ed.ac.uk/~ateckent/" target="_blank">Aretha Teckentrup</a>:   Convergence of Gaussian process emulators with estimated hyper-parameters	 </summary><b>Abstract:</b> We are interested in the task of estimating an unknown function from data given as a set of point evaluations. In this context, Gaussian process regression is often used as a Bayesian inference procedure, and we are interested in the convergence as the number of data points goes to infinity. Hyper-parameters appearing in the mean and covariance structure of the Gaussian process prior, such as smoothness of the function and typical lenght scales, are often unknown and learnt from the data, along with the posterior mean and covariance. We work in the framework of empirical Bayes, where a point estimate of the hyper-parameters is computed, using the data, and then used within the standard Gaussian process prior to posterior update. Using results from scattered data approximation, we provide a convergence analysis of the method applied to a fixed, unknown function of interest. 	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">16:15 - 17:00</td>
-        <td class="tg-talk"> <details> <summary><a href="https://www.research.manchester.ac.uk/portal/matthew.thorpe-2.html" target="_blank">Matthew Thorpe</a>:   Rates of Convergence for Cheeger Cuts on Point Clouds. <br /> <small>Chair:  Leimkuhler</small> 	 </summary><b>Abstract:</b> We consider the problem of partitioning an unlabelled data that is represented via a proximity graph. Given a subset of nodes the graph cut is the sum of all edges from the set to its complement. A balanced cut, of which the Cheeger cut is a special case, minimises the ratio of graph cut to a term that penalises small clusters. In this work we make connections between the Cheeger cut on the graph and recent results on the stability of isoperimetric inequalities on manifolds in order to show high probability rates of convergence of the discrete Cheeger cut to its continuum analogue. This work is joint with Nicolas Garcia Trillos (Wisconsin Madison) and Ryan Murray (North Carolina State University). 	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a href="https://www.research.manchester.ac.uk/portal/matthew.thorpe-2.html" target="_blank">Matthew Thorpe</a>:   Rates of Convergence for Cheeger Cuts on Point Clouds	 </summary><b>Abstract:</b> We consider the problem of partitioning an unlabelled data that is represented via a proximity graph. Given a subset of nodes the graph cut is the sum of all edges from the set to its complement. A balanced cut, of which the Cheeger cut is a special case, minimises the ratio of graph cut to a term that penalises small clusters. In this work we make connections between the Cheeger cut on the graph and recent results on the stability of isoperimetric inequalities on manifolds in order to show high probability rates of convergence of the discrete Cheeger cut to its continuum analogue. This work is joint with Nicolas Garcia Trillos (Wisconsin Madison) and Ryan Murray (North Carolina State University). 	  </details> </td>
       </tr>
     </table>
 </div>
@@ -477,31 +404,4 @@ the topic of this talk, furnished with examples for image classification under m
 
 <p>Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLScuiUa6xDKhjHA1pJcXj-FcC8VihqnHJIYm2UqorWlQ0MC88g/viewform">here</a></p>
 
-
-    </main>
-
-    <!-- Java script for table -->
-    <script>
-      function openDate(evt, pmDate) {
-        var i, tabcontent, tablinks;
-        tabcontent = document.getElementsByClassName("tabcontent");
-        for (i = 0; i < tabcontent.length; i++) {
-          tabcontent[i].style.display = "none";
-        }
-        tablinks = document.getElementsByClassName("tablinks");
-        for (i = 0; i < tablinks.length; i++) {
-          tablinks[i].className = tablinks[i].className.replace(" active", "");
-        }
-        document.getElementById(pmDate).style.display = "block";
-        evt.currentTarget.className += " active";
-      }
-
-      // Get the element with id="defaultOpen" and click on it
-      document.getElementById("defaultOpen").click();
-    </script>
-
-
-  </body>
-
-
-</html>
+:ET
