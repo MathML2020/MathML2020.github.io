@@ -260,13 +260,13 @@ the topic of this talk, furnished with examples for image classification under m
 | 004 | Dongdong Chen	(University of Edinburgh) |	Deep Plug-and-Play Network for Compressive MRF reconstruction |
 | 005 | Maria Colomba Comes	(University of Rome Tor Vergata) |	Deep Prior for Cells Video Restoration |
 | 006 | Jacob Deasy	(University of Cambridge) | 	Closed-form differential entropy of a multi-layer perceptron variant |
-| 007 | Margaret Duff	(University of Bath) |	Solving Inverse Imaging Problems with Generative Machine Learning Models |
+| 007 | Margaret Duff	(University of Bath) |	Solving Inverse Imaging Problems with Generative Machine Learning Models   [**Poster**](Posters/Duff_Margaret.png){:target="_blank"}  [**Video**](https://drive.google.com/file/d/1pQAGs5dXxJnMdMSF3ZTcR6zvSAcTjTj3/view?usp=sharing){:target="_blank"} |
 | 008 | David Fernandes	(University of Bath) |	Unsupervised Learning with GPs and SDEs  [**Poster**](Posters/Fernandes_David.pdf){:target="_blank"} |
-| 009 | Allen Hart	(University of Bath) |	Machine Learning Models |
+| 009 | Allen Hart	(University of Bath) |	Using Echo State Networks to solve Stochastic Optimal Control Problems   [**Poster**](Posters/Hart_Allen.png){:target="_blank"}   |
 | 010 | Allard Hendriksen	(Centrum Wiskunde & Informatica (CWI), Amsterdam) |	Noise2Inverse: Self-supervised deep convolutional denoising for linear inverse problems in imaging |
 | 011 | Johannes Hertrich	(TU Berlin) |	Parseval Proximal Neural Networks |
 | 012 | Gabriele Incorvaia	(University of Manchester)	 |  A deep learning application for Through-the-Wall Radar Imaging  [**Poster**](Posters/Incorvaia_Gabriele.pdf){:target="_blank"} |
-| 013 | Nicolas Keriven	(CNRS, GIPSA-lab) |	Universal Invariant and Equivariant Graph Neural Networks |
+| 013 | Nicolas Keriven	(CNRS, GIPSA-lab) |	Universal Invariant and Equivariant Graph Neural Networks  [**Poster**](Posters/Keriven_Nicolas.png){:target="_blank"} |
 | 014 | Youngkyu Lee	 (KAIST) |	A parareal neural network emulating parallel-in-time algorithm [**Poster**](Posters/Lee_Youngkyu.png){:target="_blank"}  |
 | 015 | Peter Mathé	(Weierstrass Institute) |	Inverse learning in Hilbert scales |
 | 016 | Janith Petangoda	(Imperial College London) |	Transfer Learning: An application of Foliations |
