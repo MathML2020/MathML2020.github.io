@@ -263,7 +263,7 @@ the topic of this talk, furnished with examples for image classification under m
 | 007 | Margaret Duff	(University of Bath) |	Solving Inverse Imaging Problems with Generative Machine Learning Models   [**Poster**](Posters/Duff_Margaret.png){:target="_blank"}  [**Video**](https://drive.google.com/file/d/1pQAGs5dXxJnMdMSF3ZTcR6zvSAcTjTj3/view?usp=sharing){:target="_blank"} |
 | 008 | David Fernandes	(University of Bath) |	Unsupervised Learning with GPs and SDEs  [**Poster**](Posters/Fernandes_David.png){:target="_blank"} |
 | 009 | Allen Hart	(University of Bath) |	Using Echo State Networks to solve Stochastic Optimal Control Problems   [**Poster**](Posters/Hart_Allen.png){:target="_blank"}   |
-| 010 | Allard Hendriksen	(Centrum Wiskunde & Informatica (CWI), Amsterdam) |	Noise2Inverse: Self-supervised deep convolutional denoising for linear inverse problems in imaging |
+| 010 | Allard Hendriksen	(Centrum Wiskunde & Informatica (CWI), Amsterdam) |	Noise2Inverse: Deep tomographic denoising without high-quality target data   [**Poster**](Posters/Hendriksen_Allard.png){:target="_blank"}     |
 | 011 | Johannes Hertrich	(TU Berlin) |	Parseval Proximal Neural Networks |
 | 012 | Gabriele Incorvaia	(University of Manchester)	 |  A deep learning application for Through-the-Wall Radar Imaging  [**Poster**](Posters/Incorvaia_Gabriele.png){:target="_blank"} |
 | 013 | Nicolas Keriven	(CNRS, GIPSA-lab) |	Universal Invariant and Equivariant Graph Neural Networks  [**Poster**](Posters/Keriven_Nicolas.png){:target="_blank"} |
@@ -275,7 +275,7 @@ the topic of this talk, furnished with examples for image classification under m
 | 019| Abhishake Rastogi	(University of Potsdam) |	Regularization schemes for statistical inverse problems |
 | 020 | Salvatore Danilo Riccio	(Queen Mary University of London) |	Robustness of Runge-Kutta networks against adversarial attacks |
 | 021 | Paul Russell	(University of Bath) |	Learning to solve Rubik’s cube |
-| 022 | Malena Sabaté	(University of Bath) |	Iteratively Reweighted Flexible Krylov methods for Sparse Reconstruction [**Poster**](Posters/Sabate_Malena.png){:target="_blank"} [**Video**](https://drive.google.com/file/d/1FXWYpcRW9axsPoBZtzzxEMPcqp9_YS6d/view?usp=sharing){:target="_blank"}|
+| 022 | Malena Sabaté Landman	(University of Bath) |	Iteratively Reweighted Flexible Krylov methods for Sparse Reconstruction [**Poster**](Posters/Sabate_Malena.png){:target="_blank"} [**Video**](https://drive.google.com/file/d/1FXWYpcRW9axsPoBZtzzxEMPcqp9_YS6d/view?usp=sharing){:target="_blank"}|
 | 023 | Silvester Sabathiel	(NTNU Trondheim) |	A computational model of learning to count in a multimodal, interactive environment |
 | 024 | Ferdia Sherry	(University of Cambridge) |	Equivariant neural networks for inverse problems in imaging |
 | 025 | Giuseppe Ughi	(University of Oxford) |	A Model-Based Derivative-Free Approach to Black-Box Adversarial Examples |
