@@ -105,7 +105,7 @@ We discuss Hamiltonian descent methods. For manifold value data, we present rece
       </tr>
       <tr>
         <td class="tg-lboi">16:15 - 17:45</td>
-        <td class="tg-talk"> <details> <summary><a>Poster session</a>:   Posters 16-28  </summary><b>Link:</b> TBC  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Poster session</a>:   Posters 15-26  </summary><b>Link:</b> TBC  </details> </td>
       </tr>
       </table>
 </div>
@@ -163,7 +163,7 @@ the topic of this talk, furnished with examples for image classification under m
       </tr>
       <tr>
         <td class="tg-lboi">9:00 - 10:30</td>
-        <td class="tg-talk"> <details> <summary><a>Poster session</a>:   Posters 1-15  </summary><b>Link:</b> TBC	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a>Poster session</a>:   Posters 1-14  </summary><b>Link:</b> TBC	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">10:30 - 11:45</td>
@@ -254,33 +254,32 @@ the topic of this talk, furnished with examples for image classification under m
 
 | ID | Presenter | Title |
 |:---:|:---|:---|
-| 001 |  Eliot Ayache (University of Bath) |	Machine learning applications in High-Energy Time-Domain Astrophysics |
-| 002 | Pasquale Cascarano (Università di Bologna) |	Deep Plug-and-Play Gradient Method for Super-Resolution |
-| 003| Eric Baruch Gutierrez Castillo	(University of Bath) | On Primal-Dual Algorithms for Nonsmooth Large-Scale Machine Learning |
+| 001 |  Eliot Ayache / Tanmoy Laskar (University of Bath) |	Machine learning applications in High-Energy Time-Domain Astrophysics  [**Poster**](Posters/Ayache_Eliot.png){:target="_blank"} 	[**Video**](https://drive.google.com/file/d/1Q32LzsS2ct9SmHPQyks4y9QiZgVD-qrD/view?usp=sharing){:target="_blank"} |
+| 002 | Pasquale Cascarano (Università di Bologna) |	Deep Plug-and-Play Gradient Method for Super-Resolution   [**Poster**](Posters/Cascarano_Pasquale.png){:target="_blank"}  [**Video**](https://drive.google.com/file/d/1hp7XGSJEheExtvehqRNgrzfjU2EEQslV/view?usp=sharing){:target="_blank"}|
+| 003| Eric Baruch Gutierrez Castillo	(University of Bath) | On Primal-Dual Algorithms for Nonsmooth Large-Scale Machine Learning  [**Poster**](Posters/Castillo_Eric.png){:target="_blank"} |
 | 004 | Dongdong Chen	(University of Edinburgh) |	Deep Plug-and-Play Network for Compressive MRF reconstruction [**Poster**](Posters/Chen_Dongdong.png){:target="_blank"}  |
-| 005 | Maria Colomba Comes	(University of Rome Tor Vergata) |	Deep Prior for Cells Video Restoration |
-| 006 | Jacob Deasy	(University of Cambridge) | 	Closed-form differential entropy of a multi-layer perceptron variant |
+| 005 | Maria Colomba Comes	(University of Rome Tor Vergata) |	Deep Prior for Cells Video Restoration  [**Poster**](Posters/Comes_Maria.png){:target="_blank"} |
+| 006 | Jacob Deasy	(University of Cambridge) | 	Closed-form differential entropy of a multi-layer perceptron variant  [**Poster**](Posters/Deasy_Jacob.png){:target="_blank"} |
 | 007 | Margaret Duff	(University of Bath) |	Solving Inverse Imaging Problems with Generative Machine Learning Models   [**Poster**](Posters/Duff_Margaret.png){:target="_blank"}  [**Video**](https://drive.google.com/file/d/1pQAGs5dXxJnMdMSF3ZTcR6zvSAcTjTj3/view?usp=sharing){:target="_blank"} |
 | 008 | David Fernandes	(University of Bath) |	Unsupervised Learning with GPs and SDEs  [**Poster**](Posters/Fernandes_David.png){:target="_blank"} |
 | 009 | Allen Hart	(University of Bath) |	Using Echo State Networks to solve Stochastic Optimal Control Problems   [**Poster**](Posters/Hart_Allen.png){:target="_blank"}   |
 | 010 | Allard Hendriksen	(Centrum Wiskunde & Informatica (CWI), Amsterdam) |	Noise2Inverse: Deep tomographic denoising without high-quality target data   [**Poster**](Posters/Hendriksen_Allard.png){:target="_blank"}     |
 | 011 | Johannes Hertrich	(TU Berlin) |	Parseval Proximal Neural Networks [**Poster**](Posters/Hertrich_Johannes.png){:target="_blank"} |
-| 012 | Gabriele Incorvaia	(University of Manchester)	 |  A deep learning application for Through-the-Wall Radar Imaging  [**Poster**](Posters/Incorvaia_Gabriele.png){:target="_blank"} |
-| 013 | Nicolas Keriven	(CNRS, GIPSA-lab) |	Universal Invariant and Equivariant Graph Neural Networks  [**Poster**](Posters/Keriven_Nicolas.png){:target="_blank"} |
-| 014 | Youngkyu Lee	 (KAIST) |	A parareal neural network emulating parallel-in-time algorithm [**Poster**](Posters/Lee_Youngkyu.png){:target="_blank"}  |
-| 015 | Peter Mathé	(Weierstrass Institute) / Abhishake Rastogi (University of Potsdam) |	Inverse learning in Hilbert scales  [**Poster**](Posters/Mathe_Peter.png){:target="_blank"}  |
-| 016 | Janith Petangoda	(Imperial College London) |	Transfer Learning: An application of Foliations |
-| 017 |  Benedek Plosz	(University of Bath) |	Learning with unexplored priors systemises error propagation in Bayesian hierarchical modelling |
-| 018 | Ilan Price (University of Oxford) | Trajectory growth through deep random ReLU networks.   [**Poster**](Posters/Price_Ilan.png){:target="_blank"}   [**Video**](https://drive.google.com/file/d/1K6J7edNr8zlgOXrnsierZQaMIP-kOIek/view?usp=sharing){:target="_blank"}  |
-| 019| Abhishake Rastogi	(University of Potsdam) |	Regularization schemes for statistical inverse problems  [**Poster**](Posters/Rastogi_Abhishake.png){:target="_blank"}  |
-| 020 | Salvatore Danilo Riccio	(Queen Mary University of London) |	Robustness of Runge-Kutta networks against adversarial attacks |
-| 021 | Paul Russell	(University of Bath) |	Learning to solve Rubik’s cube  [**Poster**](Posters/Russell_Paul.png){:target="_blank"} |
-| 022 | Malena Sabaté Landman	(University of Bath) |	Iteratively Reweighted Flexible Krylov methods for Sparse Reconstruction [**Poster**](Posters/Sabate_Malena.png){:target="_blank"} [**Video**](https://drive.google.com/file/d/1FXWYpcRW9axsPoBZtzzxEMPcqp9_YS6d/view?usp=sharing){:target="_blank"}|
-| 023 | Silvester Sabathiel	(NTNU Trondheim) |	A computational model of learning to count in a multimodal, interactive environment.   [**Poster**](Posters/Sabathiel_Silvester.png){:target="_blank"}     [**Video**](https://drive.google.com/file/d/1Mj2kvrgEnb-Lmg8Ew3zbrilfNlqmIWch/view?usp=sharing){:target="_blank"} |
-| 024 | Ferdia Sherry	(University of Cambridge) |	Equivariant neural networks for inverse problems in imaging |
-| 025 | Giuseppe Ughi	(University of Oxford) |	A Model-Based Derivative-Free Approach to Black-Box Adversarial Examples [**Poster**](Posters/Giuseppe_Ughi.png){:target="_blank"}  |
-| 026 | Xiaoyu Wang	(University of Cambridge) |	Gradient-based training of non-smooth neural networks |
-| 027 | Kelvin Shuangjian Zhang (ENS Paris) | Wasserstein control of mirror Langevin Monte Carlo  |
+| 012 | Nicolas Keriven	(CNRS, GIPSA-lab) |	Universal Invariant and Equivariant Graph Neural Networks  [**Poster**](Posters/Keriven_Nicolas.png){:target="_blank"} |
+| 013 | Youngkyu Lee	 (KAIST) |	A parareal neural network emulating parallel-in-time algorithm [**Poster**](Posters/Lee_Youngkyu.png){:target="_blank"}  |
+| 014 | Peter Mathé	(Weierstrass Institute) / Abhishake Rastogi (University of Potsdam) |	Inverse learning in Hilbert scales  [**Poster**](Posters/Mathe_Peter.png){:target="_blank"}  |
+| 015 | Janith Petangoda	(Imperial College London) |	Transfer Learning: An application of Foliations  [**Poster**](Posters/Petangoda_Janith.png){:target="_blank"} |
+| 016 | Gabriele Incorvaia	(University of Manchester)	 |  A deep learning application for Through-the-Wall Radar Imaging  [**Poster**](Posters/Incorvaia_Gabriele.png){:target="_blank"} |
+| 017 | Ilan Price (University of Oxford) | Trajectory growth through deep random ReLU networks.   [**Poster**](Posters/Price_Ilan.png){:target="_blank"}   [**Video**](https://drive.google.com/file/d/1K6J7edNr8zlgOXrnsierZQaMIP-kOIek/view?usp=sharing){:target="_blank"}  |
+| 018| Abhishake Rastogi	(University of Potsdam) |	Regularization schemes for statistical inverse problems  [**Poster**](Posters/Rastogi_Abhishake.png){:target="_blank"}  |
+| 019 | Salvatore Danilo Riccio	(Queen Mary University of London) |	Robustness of Runge-Kutta networks against adversarial attacks  [**Poster**](Posters/DaniloRiccio_Salvatore.png){:target="_blank"}  [**Video**](https://drive.google.com/file/d/10_BuGwbhNcOSxNtpc4z7MExg-OihK79V/view?usp=sharing){:target="_blank"}  |
+| 020 | Paul Russell	(University of Bath) |	Learning to solve Rubik’s cube  [**Poster**](Posters/Russell_Paul.png){:target="_blank"} |
+| 021| Malena Sabaté Landman	(University of Bath) |	Iteratively Reweighted Flexible Krylov methods for Sparse Reconstruction [**Poster**](Posters/Sabate_Malena.png){:target="_blank"} [**Video**](https://drive.google.com/file/d/1FXWYpcRW9axsPoBZtzzxEMPcqp9_YS6d/view?usp=sharing){:target="_blank"}|
+| 022 | Silvester Sabathiel	(NTNU Trondheim) |	A computational model of learning to count in a multimodal, interactive environment.   [**Poster**](Posters/Sabathiel_Silvester.png){:target="_blank"}     [**Video**](https://drive.google.com/file/d/1Mj2kvrgEnb-Lmg8Ew3zbrilfNlqmIWch/view?usp=sharing){:target="_blank"} |
+| 023 | Ferdia Sherry	(University of Cambridge) |	Equivariant neural networks for inverse problems in imaging [**Poster**](Posters/Sherry_Ferdia.png){:target="_blank"} |
+| 024 | Giuseppe Ughi	(University of Oxford) |	A Model-Based Derivative-Free Approach to Black-Box Adversarial Examples [**Poster**](Posters/Giuseppe_Ughi.png){:target="_blank"}  |
+| 025 | Xiaoyu Wang	(University of Cambridge)  |	Gradient-based training of non-smooth neural networks [**Poster**](Posters/Wang_Xiaoyu.png){:target="_blank"}   [**Video**](https://drive.google.com/file/d/1W_WqwP7a4By4XrYx5qGCHyZjzfWAbanY/view?usp=sharing){:target="_blank"}|
+| 026 | Kelvin Shuangjian Zhang (ENS Paris) | Wasserstein control of mirror Langevin Monte Carlo   [**Poster**](Posters/Zhang_Kelvin.png){:target="_blank"} |
 
 
 # Public Lecture
