@@ -80,7 +80,7 @@ Contact the organisers: [MathML2020@bath.ac.uk](MathML2020@bath.ac.uk)
 ![LMS](assets/logo/logo_lms.jpg){:height="80px"}
 ![SAMBa](assets/logo/logo_samba.png){:height="80px"}
 ![Bath](assets/logo/logo_bath.png){:height="80px"}
-![MS](assets/logo/Microsoft-logo_rgb_c-gray.pdf){:height="80px"}
+![MS](assets/logo/logo_ms.png){:height="80px"}
 
 
 
