@@ -292,7 +292,8 @@ Abstract: Deep learning has had a transformative impact on a wide range of tasks
 
 Time: 18.00 BST, Thursday 6th August 2020.
 
-Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScuiUa6xDKhjHA1pJcXj-FcC8VihqnHJIYm2UqorWlQ0MC88g/viewform)
+Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScuiUa6xDKhjHA1pJcXj-FcC8VihqnHJIYm2UqorWlQ0MC88g/viewform). 
+A Zoom link will be sent to registered participants on the day of the lecture.
 		
 		
 		

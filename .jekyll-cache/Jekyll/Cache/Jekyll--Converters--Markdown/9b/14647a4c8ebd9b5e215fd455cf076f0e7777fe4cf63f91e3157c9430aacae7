@@ -1,4 +1,4 @@
-I"ú“<h1 id="talks">Talks</h1>
+I"j“<h1 id="talks">Talks</h1>
 
 <p><strong>NB:</strong> Click title to toggle abstract.</p>
 
@@ -184,7 +184,7 @@ the topic of this talk, furnished with examples for image classification under m
       </tr>
       <tr>
         <td class="tg-lboi">16:15 - 17:00</td>
-        <td class="tg-talk"> <details> <summary><a href="https://ndrenska.wixsite.com/ver0" target="_blank">Nadia Drenska</a>:    A PDE Interpretation of Prediction with Expert Advice. <br /> <small>Chair:  Hansen</small> 	 </summary><b>Abstract:</b> Prediction with expert advice is an area of online machine learning, where a player (investor) synthesizes advice from different experts to form predictions. We consider the setting where the environment (market) is adversarial, which results in a repeated two-person game. We are interested in the optimal strategies of the market and the player when the game is played over a long time. We identify PDE continuum limits for this game in the limit of infinite turns; we compute asymptotically optimal strategies for the player and for the environment by using the unique solution to the corresponding nonlinear PDE. We also developed numerical methods to solve this PDE numerically and we test the conjectured optimality of the COMB strategy. This is joint work with Jeff Calder, Robert Kohn, and Drisana Mosaphir. 	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a href="https://ndrenska.wixsite.com/ver0" target="_blank">Nadia Drenska</a>:    A PDE Interpretation of Prediction with Expert Advice. <br /> <small>Chair:  Hansen</small> 	 </summary><b>Abstract:</b> Prediction with expert advice is an area of online machine learning, where a player (investor) synthesizes advice from different experts to form predictions. We consider the setting where the environment (market) is adversarial, which results in a repeated two-person game. We are interested in the optimal strategies of the market and the player when the game is played over a long time. We identify PDE continuum limits for this game in the limit of infinite turns; we compute asymptotically optimal strategies for the player and for the environment by using the unique solution to the corresponding nonlinear PDE. This is joint work with Jeff Calder and Robert Kohn.	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi"></td>
@@ -342,7 +342,7 @@ the topic of this talk, furnished with examples for image classification under m
     <tr>
       <td style="text-align: center">019</td>
       <td style="text-align: left">Salvatore Danilo Riccio	(Queen Mary University of London)</td>
-      <td style="text-align: left">Robustness of Runge-Kutta networks against adversarial attacks  <a href="Posters/DaniloRiccio_Salvatore.png" target="_blank"><strong>Poster</strong></a>  <a href="https://drive.google.com/file/d/10_BuGwbhNcOSxNtpc4z7MExg-OihK79V/view?usp=sharing"><strong>Video</strong></a></td>
+      <td style="text-align: left">Robustness of Runge-Kutta networks against adversarial attacks  <a href="Posters/DaniloRiccio_Salvatore.png" target="_blank"><strong>Poster</strong></a>  <a href="https://drive.google.com/file/d/10_BuGwbhNcOSxNtpc4z7MExg-OihK79V/view?usp=sharing" target="_blank"><strong>Video</strong></a></td>
     </tr>
     <tr>
       <td style="text-align: center">020</td>
@@ -392,6 +392,7 @@ the topic of this talk, furnished with examples for image classification under m
 
 <p>Time: 18.00 BST, Thursday 6th August 2020.</p>
 
-<p>Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLScuiUa6xDKhjHA1pJcXj-FcC8VihqnHJIYm2UqorWlQ0MC88g/viewform">here</a></p>
+<p>Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLScuiUa6xDKhjHA1pJcXj-FcC8VihqnHJIYm2UqorWlQ0MC88g/viewform">here</a>. 
+A Zoom link will be sent to registered participants on the day of the lecture.</p>
 
 :ET
