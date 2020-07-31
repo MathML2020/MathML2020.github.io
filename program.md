@@ -251,6 +251,13 @@ the topic of this talk, furnished with examples for image classification under m
 
 # Posters
 
+The poster session will be held on Gather.Town (a link has been sent out to registered participants). Posters 15-26 will be presented on Tuesday and Posters 1-14  on Thursday, but feel free to enter the poster room anytime to browse. 
+
+Tips for the poster session:
+- Please use  Chrome or Firefox.
+- Zooming out on your browser will actually make the poster screen larger
+- Please mute yourself if you are not speaking.
+
 
 | ID | Presenter | Title |
 |:---:|:---|:---|
@@ -258,7 +265,7 @@ the topic of this talk, furnished with examples for image classification under m
 | 002 | Pasquale Cascarano (Università di Bologna) |	Deep Plug-and-Play Gradient Method for Super-Resolution   [**Poster**](Posters/Cascarano_Pasquale.png){:target="_blank"}  [**Video**](https://drive.google.com/file/d/1hp7XGSJEheExtvehqRNgrzfjU2EEQslV/view?usp=sharing){:target="_blank"}|
 | 003| Eric Baruch Gutierrez Castillo	(University of Bath) | On Primal-Dual Algorithms for Nonsmooth Large-Scale Machine Learning  [**Poster**](Posters/Castillo_Eric.png){:target="_blank"} |
 | 004 | Dongdong Chen	(University of Edinburgh) |	Deep Plug-and-Play Network for Compressive MRF reconstruction [**Poster**](Posters/Chen_Dongdong.png){:target="_blank"}  |
-| 005 | Maria Colomba Comes	(University of Rome Tor Vergata) |	Deep Prior for Cells Video Restoration  [**Poster**](Posters/Comes_Maria.png){:target="_blank"} |
+| 005 |  | |
 | 006 | Jacob Deasy	(University of Cambridge) | 	Closed-form differential entropy of a multi-layer perceptron variant  [**Poster**](Posters/Deasy_Jacob.png){:target="_blank"} |
 | 007 | Margaret Duff	(University of Bath) |	Solving Inverse Imaging Problems with Generative Machine Learning Models   [**Poster**](Posters/Duff_Margaret.png){:target="_blank"}  [**Video**](https://drive.google.com/file/d/1pQAGs5dXxJnMdMSF3ZTcR6zvSAcTjTj3/view?usp=sharing){:target="_blank"} |
 | 008 | David Fernandes	(University of Bath) |	Unsupervised Learning with GPs and SDEs  [**Poster**](Posters/Fernandes_David.png){:target="_blank"} |
