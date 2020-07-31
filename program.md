@@ -291,13 +291,13 @@ Tips for the poster session:
 
 # Public Lecture
 
-[Carola-Bibiane Schönlieb](https://www.damtp.cam.ac.uk/user/cbs31/Home.html), Professor at the University of Cambridge, will give a public lecture.
+**Speaker:** [Carola-Bibiane Schönlieb](https://www.damtp.cam.ac.uk/user/cbs31/Home.html), Professor at the University of Cambridge.
 
-Title: Looking into the black box: how mathematics can help to turn deep learning inside out
+**Title:** Looking into the black box: how mathematics can help to turn deep learning inside out
 
-Abstract: Deep learning has had a transformative impact on a wide range of tasks related to Artificial Intelligence, ranging from computer vision and speech recognition to playing games. Still, the inner workings of deep neural networks are far from clear, and designing and training them is seen as almost a black art. In this talk we will try to open this black box a little bit by using mathematical structure of neural networks described by so-called differential equations and mathematical optimisation. The talk is furnished with several examples in image analysis and computer vision, ranging from biomedical imaging to remote sensing.
+**Abstract:** Deep learning has had a transformative impact on a wide range of tasks related to Artificial Intelligence, ranging from computer vision and speech recognition to playing games. Still, the inner workings of deep neural networks are far from clear, and designing and training them is seen as almost a black art. In this talk we will try to open this black box a little bit by using mathematical structure of neural networks described by so-called differential equations and mathematical optimisation. The talk is furnished with several examples in image analysis and computer vision, ranging from biomedical imaging to remote sensing.
 
-Time: 18.00 BST, Thursday 6th August 2020.
+**Time:** 18.00 BST, Thursday 6th August 2020.
 
 Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScuiUa6xDKhjHA1pJcXj-FcC8VihqnHJIYm2UqorWlQ0MC88g/viewform). 
 A Zoom link will be sent to registered participants on the day of the lecture.
