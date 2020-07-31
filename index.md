@@ -68,6 +68,9 @@ The event will run Monday, 3 August to Friday, 7 August with sessions starting a
 # Contact
 Contact the organisers: [MathML2020@bath.ac.uk](MathML2020@bath.ac.uk)
 
+# Code of conduct
+We invite you to this event in a spirit of curiosity, friendliness, open-mindedness and respect. We value your participation and want to ensure a welcoming and safe environment for all. For more information on the code of conduct please refer to [link](assets/pdf/code_of_conduct.pdf).
+
 # Sponsors
 - [Institute for Mathematical Innovation (IMI)](https://www.bath.ac.uk/research-institutes/institute-for-mathematical-innovation/)
 - [London Mathematical Society (LMS)](https://www.lms.ac.uk/)
