@@ -105,7 +105,7 @@ We discuss Hamiltonian descent methods. For manifold value data, we present rece
       </tr>
       <tr>
         <td class="tg-lboi">16:15 - 17:45</td>
-        <td class="tg-talk"> <details> <summary><a>Poster session</a>:   Posters 15-26  </summary><b>Link:</b> TBC  </details> </td>
+        <td class="tg-talk"> <b>Poster session</b>:   Posters 15-26 </td>
       </tr>
       </table>
 </div>
@@ -163,7 +163,7 @@ the topic of this talk, furnished with examples for image classification under m
       </tr>
       <tr>
         <td class="tg-lboi">9:00 - 10:30</td>
-        <td class="tg-talk"> <details> <summary><a>Poster session</a>:   Posters 1-14  </summary><b>Link:</b> TBC	  </details> </td>
+        <td class="tg-talk"> <b>Poster session</b>:   Posters 1-14  </td>
       </tr>
       <tr>
         <td class="tg-lboi">10:30 - 11:45</td>
