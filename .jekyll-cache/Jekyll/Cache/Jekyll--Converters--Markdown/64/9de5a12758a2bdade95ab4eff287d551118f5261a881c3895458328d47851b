@@ -1,77 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-
-
-  <head>
-    <meta charset="UTF-8">
-
-  <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Program | Mathematics of Machine Learning</title>
-<meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="Program" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="LMS-Bath Symposium, 3-7 August 2020, University of Bath" />
-<meta property="og:description" content="LMS-Bath Symposium, 3-7 August 2020, University of Bath" />
-<link rel="canonical" href="http://localhost:4000/program.html" />
-<meta property="og:url" content="http://localhost:4000/program.html" />
-<meta property="og:site_name" content="Mathematics of Machine Learning" />
-<script type="application/ld+json">
-{"headline":"Program","url":"http://localhost:4000/program.html","description":"LMS-Bath Symposium, 3-7 August 2020, University of Bath","@type":"WebPage","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-
-    <link rel="stylesheet" href="assets/bs/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/assets/css/style.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <!-- <script src="assets/bs/js/bootstrap.js"></script> -->
-
-    <style>
-      #grad3 {
-        height: 475px;
-        background-color: blue; /* For browsers that do not support gradients */
-        background-image: linear-gradient(to bottom right, green, blue); /* Standard syntax (must be last) */
-      }
-    </style>
-  </head>
-
-
-
-  <body>
-    <!-- <header class="page-header" role="banner">
-      <h1 class="project-name">Program</h1>
-      <h2 class="project-tagline">LMS-Bath Symposium, 3-7 August 2020, University of Bath</h2>
-      
-      
-    </header> -->
-
-    <div class="container">
-      <!-- <h2>Carousel Example</h2>   -->
-      <div id="myCarousel" class="carousel slide" data-ride="carousel">
-        <div class="carousel-caption">
-            <h3 class="carousel-title"> Program </h3>
-            <p class="carousel-body"> LMS-Bath Symposium, 3-7 August 2020, University of Bath </p>
-
-            <a href="index" class="btn">Back</a>
-            <a href="#talks" class="btn">Talks</a>
-            <a href="#posters" class="btn">Posters</a>
-            <a href="#public-lecture" class="btn">Public Lecture</a>
-        </div>
-
-        <!-- Wrapper for slides -->
-        <div class="carousel-inner">
-          <div class="item active">
-            <img src="assets/img/img1.jpg" style="width:100%;">
-            <!-- <div id="grad3"></div> -->
-          </div>
-      </div>
-    </div>
-
-    <main id="content" class="main-content" role="main">
-      <h1 id="talks">Talks</h1>
+I"d�<h1 id="talks">Talks</h1>
 
 <p><strong>NB:</strong> Click title to toggle abstract.</p>
 
@@ -127,7 +54,7 @@
       </tr>
       <tr>
         <td class="tg-lboi">16:15 - 17:00</td>
-        <td class="tg-talk"> <details> <summary><a href="https://www.ntnu.edu/employees/brynjulf.owren" target="_blank">Brynjulf Owren</a><sup>*</sup>: Structure preservation in (some) deep learning architecture. <a style="color:red" href="slides/Owren.pdf" target="_blank">Slides</a> <br /> <small>Chair: Ehrhardt</small> </summary><b>Abstract:</b> 	A deep neural network model consists a large number of layers, each with a number of parameters associated to them. In supervised learning, these parameters are optimised to match training data in the best possible way. The data are propagated through the layers by nonlinear transformations, and in an important subclass of models (ResNet) the transformation can be seen as the numerical flow of a certain type of continuous vector field. Ruthotto and Haber (2017) as well as Cheng et al. have experimented in using different type of vector fields to improve the deep learning model. In particular it is of interest that the trained model has good long time behaviour and are stable in the deep limit, when the number of layers tends to infinity. The models presented in the literature have certain builtin structural properties, they can for instance be gradient flows or Hamiltonian vector fields. A difficulty is however that the models are not autonomous and therefore it is less clear what their flows actually preserve. Starting from such ResNet vector fields, we shall discuss their properties and derive some new nonlinear stability bounds. The long time behaviour of these neural ODE flows is important in the generalisation mode, i.e. after the model has been trained. But also in the training algorithm itself,  structure preserving numerical schemes are important. In deep learning models, the use of gradient flows for optimisation is prevalent, and there exists a number of different algorithms that can be used, some of them can be interpreted as approximations of the flow of certain vector fields with dissipations, such as conformal Hamiltonian systems. If time permits, we will briefly discuss also these algorithms and in particular the need for and efficiency of regularisation. Joint work with: Martin Benning, Elena Celledoni, Matthias Ehrhardt, Christian Etmann, Robert McLachlan, Carola-Bibiane Schönlieb and Ferdia Sherry. </details> </td>
+        <td class="tg-talk"> <details> <summary><a href="https://www.ntnu.edu/employees/brynjulf.owren" target="_blank">Brynjulf Owren</a><sup>*</sup>: Structure preservation in (some) deep learning architecture. <a style="color:red" href="slides/Kanade.pdf" target="_blank">Slides</a> <br /> <small>Chair: Ehrhardt</small> </summary><b>Abstract:</b> 	A deep neural network model consists a large number of layers, each with a number of parameters associated to them. In supervised learning, these parameters are optimised to match training data in the best possible way. The data are propagated through the layers by nonlinear transformations, and in an important subclass of models (ResNet) the transformation can be seen as the numerical flow of a certain type of continuous vector field. Ruthotto and Haber (2017) as well as Cheng et al. have experimented in using different type of vector fields to improve the deep learning model. In particular it is of interest that the trained model has good long time behaviour and are stable in the deep limit, when the number of layers tends to infinity. The models presented in the literature have certain builtin structural properties, they can for instance be gradient flows or Hamiltonian vector fields. A difficulty is however that the models are not autonomous and therefore it is less clear what their flows actually preserve. Starting from such ResNet vector fields, we shall discuss their properties and derive some new nonlinear stability bounds. The long time behaviour of these neural ODE flows is important in the generalisation mode, i.e. after the model has been trained. But also in the training algorithm itself,  structure preserving numerical schemes are important. In deep learning models, the use of gradient flows for optimisation is prevalent, and there exists a number of different algorithms that can be used, some of them can be interpreted as approximations of the flow of certain vector fields with dissipations, such as conformal Hamiltonian systems. If time permits, we will briefly discuss also these algorithms and in particular the need for and efficiency of regularisation. Joint work with: Martin Benning, Elena Celledoni, Matthias Ehrhardt, Christian Etmann, Robert McLachlan, Carola-Bibiane Schönlieb and Ferdia Sherry. </details> </td>
       </tr>
       
     </table>
@@ -478,31 +405,4 @@ the topic of this talk, furnished with examples for image classification under m
 <p>Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLScuiUa6xDKhjHA1pJcXj-FcC8VihqnHJIYm2UqorWlQ0MC88g/viewform">here</a>. 
 A Zoom link will be sent to registered participants on the day of the lecture.</p>
 
-
-    </main>
-
-    <!-- Java script for table -->
-    <script>
-      function openDate(evt, pmDate) {
-        var i, tabcontent, tablinks;
-        tabcontent = document.getElementsByClassName("tabcontent");
-        for (i = 0; i < tabcontent.length; i++) {
-          tabcontent[i].style.display = "none";
-        }
-        tablinks = document.getElementsByClassName("tablinks");
-        for (i = 0; i < tablinks.length; i++) {
-          tablinks[i].className = tablinks[i].className.replace(" active", "");
-        }
-        document.getElementById(pmDate).style.display = "block";
-        evt.currentTarget.className += " active";
-      }
-
-      // Get the element with id="defaultOpen" and click on it
-      document.getElementById("defaultOpen").click();
-    </script>
-
-
-  </body>
-
-
-</html>
+:ET
