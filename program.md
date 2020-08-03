@@ -30,7 +30,7 @@ layout: program
       </tr>
       <tr>
         <td class="tg-lboi">8:50 - 9:00</td>
-        <td class="tg-talk">Opening remarks</td>
+          <td class="tg-talk"> Opening remarks by <a href="https://people.bath.ac.uk/jz203/" target="_blank">Johannes Zimmer</a> <a style="color:red"  href= "https://people.bath.ac.uk/jz203/ML-opening-JZ.mp4" target="_blank">Video</a> </td>
       </tr>
       <tr>
         <td class="tg-lboi">9:00 - 9:45</td>
