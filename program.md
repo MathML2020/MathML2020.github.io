@@ -10,7 +10,7 @@ layout: program
 
 **NB:** Click title to toggle abstract. 
 
-<sup>*</sup> These sessions will be recorded.
+<sup>*</sup> These sessions will be recorded. We will upload the recorded talks to the LMS youtube channel after the end of this symposium.
 <!-- Tab links -->
 <div class="tab">
   <!-- <button> </button> -->
@@ -181,7 +181,7 @@ the topic of this talk, furnished with examples for image classification under m
       </tr>
       <tr>
         <td class="tg-lboi">13:45 - 14:30</td>
-        <td class="tg-talk"> <details> <summary><a href="https://www.microsoft.com/en-us/research/people/awf/" target="_blank">Andrew Fitzgibbon</a>:   Counting linear regions in ReLU networks.	<br> <small>Chair:  Tyukin</small> </summary><b>Abstract:</b> I will talk about recent results in understanding the complexity of deep neural networks.   In particular, it is well known that ReLU networks give rise to piecewise linear functions.  However, a naïve counting of the number of linear regions suggests that the number of regions in a typical deep network will vastly exceed any plausible number of training examples.  Better bounds are emerging, both theoretical and empirical, and I will try to give a summary of results in a way that stimulates further discussion and research.  	  </details></td>
+        <td class="tg-talk"> <details> <summary><a href="https://www.microsoft.com/en-us/research/people/awf/" target="_blank">Andrew Fitzgibbon</a><sup>*</sup>:   Counting linear regions in ReLU networks.	<br> <small>Chair:  Tyukin</small> </summary><b>Abstract:</b> I will talk about recent results in understanding the complexity of deep neural networks.   In particular, it is well known that ReLU networks give rise to piecewise linear functions.  However, a naïve counting of the number of linear regions suggests that the number of regions in a typical deep network will vastly exceed any plausible number of training examples.  Better bounds are emerging, both theoretical and empirical, and I will try to give a summary of results in a way that stimulates further discussion and research.  	  </details></td>
       </tr>
       <tr>
         <td class="tg-lboi"></td>

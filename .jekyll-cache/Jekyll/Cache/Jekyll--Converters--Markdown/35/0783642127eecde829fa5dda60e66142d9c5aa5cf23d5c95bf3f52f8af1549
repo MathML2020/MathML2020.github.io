@@ -1,81 +1,8 @@
-<!DOCTYPE html>
-<html lang="en-US">
-
-
-  <head>
-    <meta charset="UTF-8">
-
-  <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Program | Mathematics of Machine Learning</title>
-<meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="Program" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="LMS-Bath Symposium, 3-7 August 2020, University of Bath" />
-<meta property="og:description" content="LMS-Bath Symposium, 3-7 August 2020, University of Bath" />
-<link rel="canonical" href="http://localhost:4000/program.html" />
-<meta property="og:url" content="http://localhost:4000/program.html" />
-<meta property="og:site_name" content="Mathematics of Machine Learning" />
-<script type="application/ld+json">
-{"headline":"Program","url":"http://localhost:4000/program.html","description":"LMS-Bath Symposium, 3-7 August 2020, University of Bath","@type":"WebPage","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-
-    <link rel="stylesheet" href="assets/bs/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/assets/css/style.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <!-- <script src="assets/bs/js/bootstrap.js"></script> -->
-
-    <style>
-      #grad3 {
-        height: 475px;
-        background-color: blue; /* For browsers that do not support gradients */
-        background-image: linear-gradient(to bottom right, green, blue); /* Standard syntax (must be last) */
-      }
-    </style>
-  </head>
-
-
-
-  <body>
-    <!-- <header class="page-header" role="banner">
-      <h1 class="project-name">Program</h1>
-      <h2 class="project-tagline">LMS-Bath Symposium, 3-7 August 2020, University of Bath</h2>
-      
-      
-    </header> -->
-
-    <div class="container">
-      <!-- <h2>Carousel Example</h2>   -->
-      <div id="myCarousel" class="carousel slide" data-ride="carousel">
-        <div class="carousel-caption">
-            <h3 class="carousel-title"> Program </h3>
-            <p class="carousel-body"> LMS-Bath Symposium, 3-7 August 2020, University of Bath </p>
-
-            <a href="index" class="btn">Back</a>
-            <a href="#talks" class="btn">Talks</a>
-            <a href="#posters" class="btn">Posters</a>
-            <a href="#public-lecture" class="btn">Public Lecture</a>
-        </div>
-
-        <!-- Wrapper for slides -->
-        <div class="carousel-inner">
-          <div class="item active">
-            <img src="assets/img/img1.jpg" style="width:100%;">
-            <!-- <div id="grad3"></div> -->
-          </div>
-      </div>
-    </div>
-
-    <main id="content" class="main-content" role="main">
-      <h1 id="talks">Talks</h1>
+I"��<h1 id="talks">Talks</h1>
 
 <p><strong>NB:</strong> Click title to toggle abstract.</p>
 
-<p><sup>*</sup> These sessions will be recorded. We will upload the recorded talks to the LMS youtube channel after the end of this symposium.
+<p><sup>*</sup> These sessions will be recorded.
 <!-- Tab links --></p>
 <div class="tab">
   <!-- <button> </button> -->
@@ -95,7 +22,7 @@
       </tr>
       <tr>
         <td class="tg-lboi">8:50 - 9:00</td>
-          <td class="tg-talk"> Opening remarks by <a href="https://people.bath.ac.uk/jz203/" target="_blank">Johannes Zimmer</a> <a style="color:red" href="https://people.bath.ac.uk/jz203/ML-opening-JZ.mp4" target="_blank">Video</a> </td>
+          <td class="tg-talk">Opening remarks by Johannes Zimmer &lt;a href= https://people.bath.ac.uk/jz203/ML-opening-JZ.mp4&gt;Video&lt;/a&gt; </td>
       </tr>
       <tr>
         <td class="tg-lboi">9:00 - 9:45</td>
@@ -111,11 +38,11 @@
       </tr>
       <tr>
         <td class="tg-lboi">13:00 - 13:45</td>
-        <td class="tg-talk"> <details> <summary><a href="https://lchizat.github.io/" target="_blank">Lénaïc Chizat</a><sup>*</sup>: Analysis of Gradient Descent on Wide Two-Layer ReLU Neural Networks. <a style="color:red" href="slides/Chizat.pdf" target="_blank">Slides</a> <br /> <small>Chair: Schmidt-Hieber</small> </summary><b>Abstract:</b> 	In this talk, we propose an analysis of gradient descent on wide two-layer ReLU neural networks that leads to sharp characterizations of the learned predictor and strong generalization performances. The main idea is to study the dynamics when the width of the hidden layer goes to infinity, which is a Wasserstein gradient flow. While this dynamics evolves on a non-convex landscape, we show that its limit is a global minimizer if initialized properly. We also study the "implicit bias" of this algorithm when the objective is the unregularized logistic loss. We finally discuss what these results tell us about the generalization performance. This is based on joint work with Francis Bach.  </details> </td>
+        <td class="tg-talk"> <details> <summary><a href="https://lchizat.github.io/" target="_blank">Lénaïc Chizat</a><sup>*</sup>: Analysis of Gradient Descent on Wide Two-Layer ReLU Neural Networks.  <br /> <small>Chair: Schmidt-Hieber</small> </summary><b>Abstract:</b> 	In this talk, we propose an analysis of gradient descent on wide two-layer ReLU neural networks that leads to sharp characterizations of the learned predictor and strong generalization performances. The main idea is to study the dynamics when the width of the hidden layer goes to infinity, which is a Wasserstein gradient flow. While this dynamics evolves on a non-convex landscape, we show that its limit is a global minimizer if initialized properly. We also study the "implicit bias" of this algorithm when the objective is the unregularized logistic loss. We finally discuss what these results tell us about the generalization performance. This is based on joint work with Francis Bach.  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">13:45 - 14:30</td>
-        <td class="tg-talk"> <details> <summary><a href="http://www.cs.ox.ac.uk/people/varun.kanade/myindex.html" target="_blank">Varun Kanade</a>: Implicit Regularization Properties Early-Stopped Gradient-based Algorithms.  <a style="color:red" href="slides/Kanade.pdf" target="_blank">Slides</a> <br /> <small>Chair: Schmidt-Hieber</small>	  </summary><b>Abstract:</b> In this talk, we will discuss implicit regularization properties of gradient-based algorithms. First, we will discuss how gradient descent when applied to unpenalized least squares regression solves the problem of reconstructing a sparse signal from an underdetermined system of linear measurements under the restricted isometry assumption. We present a statitically and computationally optimal algorithm for this problem in this setting and compare the behaviour to the explicit l_1 penalized versions. Next, we will discuss statistical guarantees on excess risk of early-stopped unconstrained mirror descent when applied to the unregularized empirical risk with squared loss on linear models. We will discuss the connection to offset Rademacher complexities and use our method to derive short proofs for new and existing results in the recent literature. This is based on joint work with Patrick Rebeschini and Tomas Vaskevicius. </details> </td>
+        <td class="tg-talk"> <details> <summary><a href="http://www.cs.ox.ac.uk/people/varun.kanade/myindex.html" target="_blank">Varun Kanade</a>: Implicit Regularization Properties Early-Stopped Gradient-based Algorithms.  <br /> <small>Chair: Schmidt-Hieber</small>	  </summary><b>Abstract:</b> In this talk, we will discuss implicit regularization properties of gradient-based algorithms. First, we will discuss how gradient descent when applied to unpenalized least squares regression solves the problem of reconstructing a sparse signal from an underdetermined system of linear measurements under the restricted isometry assumption. We present a statitically and computationally optimal algorithm for this problem in this setting and compare the behaviour to the explicit l_1 penalized versions. Next, we will discuss statistical guarantees on excess risk of early-stopped unconstrained mirror descent when applied to the unregularized empirical risk with squared loss on linear models. We will discuss the connection to offset Rademacher complexities and use our method to derive short proofs for new and existing results in the recent literature. This is based on joint work with Patrick Rebeschini and Tomas Vaskevicius. </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi"></td>
@@ -246,7 +173,7 @@ the topic of this talk, furnished with examples for image classification under m
       </tr>
       <tr>
         <td class="tg-lboi">13:45 - 14:30</td>
-        <td class="tg-talk"> <details> <summary><a href="https://www.microsoft.com/en-us/research/people/awf/" target="_blank">Andrew Fitzgibbon</a><sup>*</sup>:   Counting linear regions in ReLU networks.	<br /> <small>Chair:  Tyukin</small> </summary><b>Abstract:</b> I will talk about recent results in understanding the complexity of deep neural networks.   In particular, it is well known that ReLU networks give rise to piecewise linear functions.  However, a naïve counting of the number of linear regions suggests that the number of regions in a typical deep network will vastly exceed any plausible number of training examples.  Better bounds are emerging, both theoretical and empirical, and I will try to give a summary of results in a way that stimulates further discussion and research.  	  </details></td>
+        <td class="tg-talk"> <details> <summary><a href="https://www.microsoft.com/en-us/research/people/awf/" target="_blank">Andrew Fitzgibbon</a>:   Counting linear regions in ReLU networks.	<br /> <small>Chair:  Tyukin</small> </summary><b>Abstract:</b> I will talk about recent results in understanding the complexity of deep neural networks.   In particular, it is well known that ReLU networks give rise to piecewise linear functions.  However, a naïve counting of the number of linear regions suggests that the number of regions in a typical deep network will vastly exceed any plausible number of training examples.  Better bounds are emerging, both theoretical and empirical, and I will try to give a summary of results in a way that stimulates further discussion and research.  	  </details></td>
       </tr>
       <tr>
         <td class="tg-lboi"></td>
@@ -478,31 +405,4 @@ the topic of this talk, furnished with examples for image classification under m
 <p>Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLScuiUa6xDKhjHA1pJcXj-FcC8VihqnHJIYm2UqorWlQ0MC88g/viewform">here</a>. 
 A Zoom link will be sent to registered participants on the day of the lecture.</p>
 
-
-    </main>
-
-    <!-- Java script for table -->
-    <script>
-      function openDate(evt, pmDate) {
-        var i, tabcontent, tablinks;
-        tabcontent = document.getElementsByClassName("tabcontent");
-        for (i = 0; i < tabcontent.length; i++) {
-          tabcontent[i].style.display = "none";
-        }
-        tablinks = document.getElementsByClassName("tablinks");
-        for (i = 0; i < tablinks.length; i++) {
-          tablinks[i].className = tablinks[i].className.replace(" active", "");
-        }
-        document.getElementById(pmDate).style.display = "block";
-        evt.currentTarget.className += " active";
-      }
-
-      // Get the element with id="defaultOpen" and click on it
-      document.getElementById("defaultOpen").click();
-    </script>
-
-
-  </body>
-
-
-</html>
+:ET

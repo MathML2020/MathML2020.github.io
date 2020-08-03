@@ -1,81 +1,8 @@
-<!DOCTYPE html>
-<html lang="en-US">
-
-
-  <head>
-    <meta charset="UTF-8">
-
-  <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Program | Mathematics of Machine Learning</title>
-<meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="Program" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="LMS-Bath Symposium, 3-7 August 2020, University of Bath" />
-<meta property="og:description" content="LMS-Bath Symposium, 3-7 August 2020, University of Bath" />
-<link rel="canonical" href="http://localhost:4000/program.html" />
-<meta property="og:url" content="http://localhost:4000/program.html" />
-<meta property="og:site_name" content="Mathematics of Machine Learning" />
-<script type="application/ld+json">
-{"headline":"Program","url":"http://localhost:4000/program.html","description":"LMS-Bath Symposium, 3-7 August 2020, University of Bath","@type":"WebPage","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-
-    <link rel="stylesheet" href="assets/bs/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/assets/css/style.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <!-- <script src="assets/bs/js/bootstrap.js"></script> -->
-
-    <style>
-      #grad3 {
-        height: 475px;
-        background-color: blue; /* For browsers that do not support gradients */
-        background-image: linear-gradient(to bottom right, green, blue); /* Standard syntax (must be last) */
-      }
-    </style>
-  </head>
-
-
-
-  <body>
-    <!-- <header class="page-header" role="banner">
-      <h1 class="project-name">Program</h1>
-      <h2 class="project-tagline">LMS-Bath Symposium, 3-7 August 2020, University of Bath</h2>
-      
-      
-    </header> -->
-
-    <div class="container">
-      <!-- <h2>Carousel Example</h2>   -->
-      <div id="myCarousel" class="carousel slide" data-ride="carousel">
-        <div class="carousel-caption">
-            <h3 class="carousel-title"> Program </h3>
-            <p class="carousel-body"> LMS-Bath Symposium, 3-7 August 2020, University of Bath </p>
-
-            <a href="index" class="btn">Back</a>
-            <a href="#talks" class="btn">Talks</a>
-            <a href="#posters" class="btn">Posters</a>
-            <a href="#public-lecture" class="btn">Public Lecture</a>
-        </div>
-
-        <!-- Wrapper for slides -->
-        <div class="carousel-inner">
-          <div class="item active">
-            <img src="assets/img/img1.jpg" style="width:100%;">
-            <!-- <div id="grad3"></div> -->
-          </div>
-      </div>
-    </div>
-
-    <main id="content" class="main-content" role="main">
-      <h1 id="talks">Talks</h1>
+I"��<h1 id="talks">Talks</h1>
 
 <p><strong>NB:</strong> Click title to toggle abstract.</p>
 
-<p><sup>*</sup> These sessions will be recorded. We will upload the recorded talks to the LMS youtube channel after the end of this symposium.
+<p><sup>*</sup> These sessions will be recorded.
 <!-- Tab links --></p>
 <div class="tab">
   <!-- <button> </button> -->
@@ -95,7 +22,7 @@
       </tr>
       <tr>
         <td class="tg-lboi">8:50 - 9:00</td>
-          <td class="tg-talk"> Opening remarks by <a href="https://people.bath.ac.uk/jz203/" target="_blank">Johannes Zimmer</a> <a style="color:red" href="https://people.bath.ac.uk/jz203/ML-opening-JZ.mp4" target="_blank">Video</a> </td>
+        <td class="tg-talk">Opening remarks</td>
       </tr>
       <tr>
         <td class="tg-lboi">9:00 - 9:45</td>
@@ -103,7 +30,7 @@
       </tr>
       <tr>
         <td class="tg-lboi">9:45 - 10:30</td>
-        <td class="tg-talk"> <details> <summary><a href="https://wwwhome.ewi.utwente.nl/~schmidtaj/" target="_blank">Johannes Schmidt-Hieber</a><sup>*</sup>: Overparametrization and the bias-variance dilemma. <a style="color:red" href="slides/SchmidtHieber.pdf" target="_blank">Slides</a> <br /> <small>Chair:  Poon</small> </summary><b>Abstract:</b> 	For several machine learning methods such as neural networks, good generalisation performance has been reported in the overparametrized regime. In view of the classical bias-variance trade-off, this behaviour is highly counterintuitive. The talk summarizes recent theoretical results on overparametrization and the bias-variance trade-off. This is joint work with Alexis Derumigny. </details> </td>
+        <td class="tg-talk"> <details> <summary><a href="https://wwwhome.ewi.utwente.nl/~schmidtaj/" target="_blank">Johannes Schmidt-Hieber</a><sup>*</sup>: Overparametrization and the bias-variance dilemma.<a style="color:red" href="slides/SchmidtHieber.pdf" target="_blank">Slides</a> <br /> <small>Chair:  Poon</small> </summary><b>Abstract:</b> 	For several machine learning methods such as neural networks, good generalisation performance has been reported in the overparametrized regime. In view of the classical bias-variance trade-off, this behaviour is highly counterintuitive. The talk summarizes recent theoretical results on overparametrization and the bias-variance trade-off. This is joint work with Alexis Derumigny. </details> </td>
       </tr>
        <tr>
         <td class="tg-lboi"></td>
@@ -111,11 +38,11 @@
       </tr>
       <tr>
         <td class="tg-lboi">13:00 - 13:45</td>
-        <td class="tg-talk"> <details> <summary><a href="https://lchizat.github.io/" target="_blank">Lénaïc Chizat</a><sup>*</sup>: Analysis of Gradient Descent on Wide Two-Layer ReLU Neural Networks. <a style="color:red" href="slides/Chizat.pdf" target="_blank">Slides</a> <br /> <small>Chair: Schmidt-Hieber</small> </summary><b>Abstract:</b> 	In this talk, we propose an analysis of gradient descent on wide two-layer ReLU neural networks that leads to sharp characterizations of the learned predictor and strong generalization performances. The main idea is to study the dynamics when the width of the hidden layer goes to infinity, which is a Wasserstein gradient flow. While this dynamics evolves on a non-convex landscape, we show that its limit is a global minimizer if initialized properly. We also study the "implicit bias" of this algorithm when the objective is the unregularized logistic loss. We finally discuss what these results tell us about the generalization performance. This is based on joint work with Francis Bach.  </details> </td>
+        <td class="tg-talk"> <details> <summary><a href="https://lchizat.github.io/" target="_blank">Lénaïc Chizat</a><sup>*</sup>: Analysis of Gradient Descent on Wide Two-Layer ReLU Neural Networks.  <br /> <small>Chair: Schmidt-Hieber</small> </summary><b>Abstract:</b> 	In this talk, we propose an analysis of gradient descent on wide two-layer ReLU neural networks that leads to sharp characterizations of the learned predictor and strong generalization performances. The main idea is to study the dynamics when the width of the hidden layer goes to infinity, which is a Wasserstein gradient flow. While this dynamics evolves on a non-convex landscape, we show that its limit is a global minimizer if initialized properly. We also study the "implicit bias" of this algorithm when the objective is the unregularized logistic loss. We finally discuss what these results tell us about the generalization performance. This is based on joint work with Francis Bach.  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">13:45 - 14:30</td>
-        <td class="tg-talk"> <details> <summary><a href="http://www.cs.ox.ac.uk/people/varun.kanade/myindex.html" target="_blank">Varun Kanade</a>: Implicit Regularization Properties Early-Stopped Gradient-based Algorithms.  <a style="color:red" href="slides/Kanade.pdf" target="_blank">Slides</a> <br /> <small>Chair: Schmidt-Hieber</small>	  </summary><b>Abstract:</b> In this talk, we will discuss implicit regularization properties of gradient-based algorithms. First, we will discuss how gradient descent when applied to unpenalized least squares regression solves the problem of reconstructing a sparse signal from an underdetermined system of linear measurements under the restricted isometry assumption. We present a statitically and computationally optimal algorithm for this problem in this setting and compare the behaviour to the explicit l_1 penalized versions. Next, we will discuss statistical guarantees on excess risk of early-stopped unconstrained mirror descent when applied to the unregularized empirical risk with squared loss on linear models. We will discuss the connection to offset Rademacher complexities and use our method to derive short proofs for new and existing results in the recent literature. This is based on joint work with Patrick Rebeschini and Tomas Vaskevicius. </details> </td>
+        <td class="tg-talk"> <details> <summary><a href="http://www.cs.ox.ac.uk/people/varun.kanade/myindex.html" target="_blank">Varun Kanade</a>: Implicit Regularization Properties Early-Stopped Gradient-based Algorithms.  <br /> <small>Chair: Schmidt-Hieber</small>	  </summary><b>Abstract:</b> In this talk, we will discuss implicit regularization properties of gradient-based algorithms. First, we will discuss how gradient descent when applied to unpenalized least squares regression solves the problem of reconstructing a sparse signal from an underdetermined system of linear measurements under the restricted isometry assumption. We present a statitically and computationally optimal algorithm for this problem in this setting and compare the behaviour to the explicit l_1 penalized versions. Next, we will discuss statistical guarantees on excess risk of early-stopped unconstrained mirror descent when applied to the unregularized empirical risk with squared loss on linear models. We will discuss the connection to offset Rademacher complexities and use our method to derive short proofs for new and existing results in the recent literature. This is based on joint work with Patrick Rebeschini and Tomas Vaskevicius. </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi"></td>
@@ -213,7 +140,7 @@ This is joint work with Sebastian Banert and Jevgenija Rudzusika. 	  </details> 
       </tr>
       <tr>
         <td class="tg-lboi">16:15 - 17:00</td>
-        <td class="tg-talk"> <details> <summary><a href="https://www.damtp.cam.ac.uk/user/cbs31/Home.html" target="_blank">Carola-Bibiane Schönlieb</a><sup>*</sup>: Hybrid mathematical and machine learning methods for solving inverse imaging problems - getting the best from both worlds. <br /> <small>Chair:  Adler</small> 
+        <td class="tg-talk"> <details> <summary><a href="https://www.damtp.cam.ac.uk/user/cbs31/Home.html" target="_blank">Carola-Bibiane Schönlieb</a>: Hybrid mathematical and machine learning methods for solving inverse imaging problems - getting the best from both worlds. <br /> <small>Chair:  Adler</small> 
   </summary><b>Abstract:</b> Inverse problems in imaging range from tomographic reconstruction (CT, MRI, etc) to image deconvolution, segmentation, and classification, just to name a few. In this talk I will discuss approaches to inverse imaging problems which have both a mathematical modelling and a machine learning (data-driven) component. Mathematical modelling is crucial in the presence of ill-posedness, making use of prior information about the imaging data, for narrowing down the search space. Such an approach results in highly generalizable reconstruction and analysis methods which come with desirable solutions guarantees. Machine learning on the other hand is a powerful tool for customising methods to individual data sets. Their combination, getting the best from both of these worlds, is
 the topic of this talk, furnished with examples for image classification under minimal supervision with an application to chest x-rays and task adapted tomographic reconstruction.
     </details> </td>
@@ -241,12 +168,12 @@ the topic of this talk, furnished with examples for image classification under m
       </tr>
       <tr>
         <td class="tg-lboi">13:00 - 13:45</td>
-        <td class="tg-talk"> <details> <summary><a href="http://www.damtp.cam.ac.uk/research/afha/anders/" target="_blank">Anders Hansen</a><sup>*</sup>:   On the foundations of computational mathematics, Smale’s 18th problem and the potential limits of AI. <br /> <small>Chair:  Tyukin</small>  </summary><b>Abstract:</b> There is a profound optimism on the impact of deep learning (DL) and AI in the sciences with Geoffrey Hinton concluding that 'They should stop educating radiologists now'. However, DL has an Achilles heel: it is universaly unstable so that small changes in the initial data can lead to large errors in the final result. This has been documented in a wide variety of applications. Paradoxically, the existence of stable neural networks for these applications is guaranteed by the celebrated Universal Approximation Theorem, however, the stable neural networks are not computed by the current training approaches. We will address this problem and the potential limitations of AI from a foundations point of view. Indeed, the current situation in AI is comparable to the situation in mathematics in the early 20th century, when David Hilbert’s optimism (typically reflected in his 10th problem) suggested no limitations to what mathematics could prove and no restrictions on what computers could compute. Hilbert’s optimism was turned upside down by Goedel and Turing, who established limitations on what mathematics can prove and which problems computers can solve (however, without limiting the impact of mathematics and computer science).
+        <td class="tg-talk"> <details> <summary><a href="http://www.damtp.cam.ac.uk/research/afha/anders/" target="_blank">Anders Hansen</a>:   On the foundations of computational mathematics, Smale’s 18th problem and the potential limits of AI. <br /> <small>Chair:  Tyukin</small>  </summary><b>Abstract:</b> There is a profound optimism on the impact of deep learning (DL) and AI in the sciences with Geoffrey Hinton concluding that 'They should stop educating radiologists now'. However, DL has an Achilles heel: it is universaly unstable so that small changes in the initial data can lead to large errors in the final result. This has been documented in a wide variety of applications. Paradoxically, the existence of stable neural networks for these applications is guaranteed by the celebrated Universal Approximation Theorem, however, the stable neural networks are not computed by the current training approaches. We will address this problem and the potential limitations of AI from a foundations point of view. Indeed, the current situation in AI is comparable to the situation in mathematics in the early 20th century, when David Hilbert’s optimism (typically reflected in his 10th problem) suggested no limitations to what mathematics could prove and no restrictions on what computers could compute. Hilbert’s optimism was turned upside down by Goedel and Turing, who established limitations on what mathematics can prove and which problems computers can solve (however, without limiting the impact of mathematics and computer science).
    We predict a similar outcome for modern AI and DL, where the limitations of AI (the main topic of Smale’s 18th problem) will be established through the foundations of computational mathematics. We sketch the beginning of such a program by demonstrating how there exist neural networks approximating classical mappings in scientific computing, however, no algorithm (even randomised) can compute such a network to even 1-digit accuracy with probability better than 1/2. We will also show how instability is inherit in the methodology of DL demonstrating that there is no easy remedy, given the current methodology. Finally, we will demonstrate basic examples in inverse problems where there exists (untrained) neural networks that can easily compute a solution to the problem, however, the current DL techniques will need 10^80 data points in the training set to get even 1 percent success rate. 	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">13:45 - 14:30</td>
-        <td class="tg-talk"> <details> <summary><a href="https://www.microsoft.com/en-us/research/people/awf/" target="_blank">Andrew Fitzgibbon</a><sup>*</sup>:   Counting linear regions in ReLU networks.	<br /> <small>Chair:  Tyukin</small> </summary><b>Abstract:</b> I will talk about recent results in understanding the complexity of deep neural networks.   In particular, it is well known that ReLU networks give rise to piecewise linear functions.  However, a naïve counting of the number of linear regions suggests that the number of regions in a typical deep network will vastly exceed any plausible number of training examples.  Better bounds are emerging, both theoretical and empirical, and I will try to give a summary of results in a way that stimulates further discussion and research.  	  </details></td>
+        <td class="tg-talk"> <details> <summary><a href="https://www.microsoft.com/en-us/research/people/awf/" target="_blank">Andrew Fitzgibbon</a>:   Counting linear regions in ReLU networks.	<br /> <small>Chair:  Tyukin</small> </summary><b>Abstract:</b> I will talk about recent results in understanding the complexity of deep neural networks.   In particular, it is well known that ReLU networks give rise to piecewise linear functions.  However, a naïve counting of the number of linear regions suggests that the number of regions in a typical deep network will vastly exceed any plausible number of training examples.  Better bounds are emerging, both theoretical and empirical, and I will try to give a summary of results in a way that stimulates further discussion and research.  	  </details></td>
       </tr>
       <tr>
         <td class="tg-lboi"></td>
@@ -266,7 +193,7 @@ the topic of this talk, furnished with examples for image classification under m
       </tr>
       <tr>
         <td class="tg-lboi">18:00 - 19:00</td>
-        <td class="tg-talk"> <details> <summary><a href="https://www.damtp.cam.ac.uk/user/cbs31/Home.html" target="_blank">Carola-Bibiane Schönlieb (Public lecture)<sup>*</sup></a>:  Looking into the black box: how mathematics can help to turn deep learning inside out. <br /> <small>Chair:  Ehrhardt</small>  </summary><b>Abstract:</b> Deep learning has had a transformative impact on a wide range of tasks related to Artificial Intelligence, ranging from computer vision and speech recognition to playing games. Still, the inner workings of deep neural networks are far from clear, and designing and training them is seen as almost a black art. In this talk we will try to open this black box a little bit by using mathematical structure of neural networks described by so-called differential equations and mathematical optimisation. The talk is furnished with several examples in image analysis and computer vision, ranging from biomedical imaging to remote sensing.  </details> </td>
+        <td class="tg-talk"> <details> <summary><a href="https://www.damtp.cam.ac.uk/user/cbs31/Home.html" target="_blank">Carola-Bibiane Schönlieb (Public lecture)</a>:  Looking into the black box: how mathematics can help to turn deep learning inside out. <br /> <small>Chair:  Ehrhardt</small>  </summary><b>Abstract:</b> Deep learning has had a transformative impact on a wide range of tasks related to Artificial Intelligence, ranging from computer vision and speech recognition to playing games. Still, the inner workings of deep neural networks are far from clear, and designing and training them is seen as almost a black art. In this talk we will try to open this black box a little bit by using mathematical structure of neural networks described by so-called differential equations and mathematical optimisation. The talk is furnished with several examples in image analysis and computer vision, ranging from biomedical imaging to remote sensing.  </details> </td>
       </tr>
     </table>
 </div>
@@ -291,11 +218,11 @@ the topic of this talk, furnished with examples for image classification under m
       </tr>
       <tr>
         <td class="tg-lboi">13:00 - 13:45</td>
-        <td class="tg-talk"> <details> <summary><a href="https://erikbekkers.bitbucket.io" target="_blank">Erik Bekkers</a><sup>*</sup>:   Group Equivariant CNNs beyond Roto-Translations: B-Spline CNNs on Lie Groups. <br /> <small>Chair:  Benning</small> 	 </summary><b>Abstract:</b> Group convolution neural networks (G-CNNs) can be used to improve classical CNNs by equipping them with the geometric structure of groups. Central in the success of G-CNNs is to lift feature maps to higher dimensional disentangled representations in which data characteristics are effectively learned, geometric data-augmentations are made obsolete, and predictable behavior under geometric transformations (equivariance) is guaranteed via group theory. Currently, however, the practical implementations of G-CNNs are limited to either discrete groups (that leave the grid intact) or continuous compact groups such as rotations (that enable the use of Fourier theory). In this talk I lift these limitations and propose a modular framework for the design and implementation of *G-CNNs for arbitrary Lie groups*. In this approach the differential structure of Lie groups is used to expand convolution kernels in a generic basis of B-splines that is defined on the Lie algebra. This leads to a flexible framework that enables *localized*, *atrous*, and *deformable convolutions* in G-CNNs by means of respectively *localized*, *sparse* and *non-uniform* B-spline expansions. The impact and potential of the approach is studied on two benchmark datasets: cancer detection in histopathology slides (PCAM dataset) in which rotation equivariance plays a key role and facial landmark localization (CelebA dataset) in which scale equivariance is important. In both cases, G-CNN architectures out-perform their classical 2D counterparts and the added value atrous and localized group convolutions is studied in detail. 	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a href="https://erikbekkers.bitbucket.io" target="_blank">Erik Bekkers</a>:   Group Equivariant CNNs beyond Roto-Translations: B-Spline CNNs on Lie Groups. <br /> <small>Chair:  Benning</small> 	 </summary><b>Abstract:</b> Group convolution neural networks (G-CNNs) can be used to improve classical CNNs by equipping them with the geometric structure of groups. Central in the success of G-CNNs is to lift feature maps to higher dimensional disentangled representations in which data characteristics are effectively learned, geometric data-augmentations are made obsolete, and predictable behavior under geometric transformations (equivariance) is guaranteed via group theory. Currently, however, the practical implementations of G-CNNs are limited to either discrete groups (that leave the grid intact) or continuous compact groups such as rotations (that enable the use of Fourier theory). In this talk I lift these limitations and propose a modular framework for the design and implementation of *G-CNNs for arbitrary Lie groups*. In this approach the differential structure of Lie groups is used to expand convolution kernels in a generic basis of B-splines that is defined on the Lie algebra. This leads to a flexible framework that enables *localized*, *atrous*, and *deformable convolutions* in G-CNNs by means of respectively *localized*, *sparse* and *non-uniform* B-spline expansions. The impact and potential of the approach is studied on two benchmark datasets: cancer detection in histopathology slides (PCAM dataset) in which rotation equivariance plays a key role and facial landmark localization (CelebA dataset) in which scale equivariance is important. In both cases, G-CNN architectures out-perform their classical 2D counterparts and the added value atrous and localized group convolutions is studied in detail. 	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi">13:45 - 14:30</td>
-        <td class="tg-talk"> <details> <summary><a href="https://people.epfl.ch/sofia.olhede?lang=en" target="_blank">Sofia Olhede</a><sup>*</sup>:   Modeling Networks and Network Populations via Graph Distances. <br /> <small>Chair:  Benning</small> 	 </summary><b>Abstract:</b> Networks have become a key form of data. Networks allow us to dependence between nodes or actors. Understanding the difference between two networks is also challenging unless they share nodes and are of the same size. We shall discuss how we may compare networks and also consider the regime where more than one network is observed. We shall also discuss how to parametrize a distribution on labelled graphs in terms of a Frechét mean graph (which depends on a user-specified choice of metric or graph distance) and a parameter that controls the concentration of this distribution about its mean. Entropy is the natural parameter for such control, varying from a point mass concentrated on the Frechét mean itself to a uniform distribution over all graphs on a given vertex set. Networks present many new statistical challenges. We shall discuss how to resolve these challenges respecting the fundamental non-Euclidean nature of network observations. This is joint work with Simon Lunagomez (Lancaster University) and Patrick Wolfe (Purdue University) 	  </details> </td>
+        <td class="tg-talk"> <details> <summary><a href="https://people.epfl.ch/sofia.olhede?lang=en" target="_blank">Sofia Olhede</a>:   Modeling Networks and Network Populations via Graph Distances. <br /> <small>Chair:  Benning</small> 	 </summary><b>Abstract:</b> Networks have become a key form of data. Networks allow us to dependence between nodes or actors. Understanding the difference between two networks is also challenging unless they share nodes and are of the same size. We shall discuss how we may compare networks and also consider the regime where more than one network is observed. We shall also discuss how to parametrize a distribution on labelled graphs in terms of a Frechét mean graph (which depends on a user-specified choice of metric or graph distance) and a parameter that controls the concentration of this distribution about its mean. Entropy is the natural parameter for such control, varying from a point mass concentrated on the Frechét mean itself to a uniform distribution over all graphs on a given vertex set. Networks present many new statistical challenges. We shall discuss how to resolve these challenges respecting the fundamental non-Euclidean nature of network observations. This is joint work with Simon Lunagomez (Lancaster University) and Patrick Wolfe (Purdue University) 	  </details> </td>
       </tr>
       <tr>
         <td class="tg-lboi"></td>
@@ -478,31 +405,4 @@ the topic of this talk, furnished with examples for image classification under m
 <p>Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLScuiUa6xDKhjHA1pJcXj-FcC8VihqnHJIYm2UqorWlQ0MC88g/viewform">here</a>. 
 A Zoom link will be sent to registered participants on the day of the lecture.</p>
 
-
-    </main>
-
-    <!-- Java script for table -->
-    <script>
-      function openDate(evt, pmDate) {
-        var i, tabcontent, tablinks;
-        tabcontent = document.getElementsByClassName("tabcontent");
-        for (i = 0; i < tabcontent.length; i++) {
-          tabcontent[i].style.display = "none";
-        }
-        tablinks = document.getElementsByClassName("tablinks");
-        for (i = 0; i < tablinks.length; i++) {
-          tablinks[i].className = tablinks[i].className.replace(" active", "");
-        }
-        document.getElementById(pmDate).style.display = "block";
-        evt.currentTarget.className += " active";
-      }
-
-      // Get the element with id="defaultOpen" and click on it
-      document.getElementById("defaultOpen").click();
-    </script>
-
-
-  </body>
-
-
-</html>
+:ET

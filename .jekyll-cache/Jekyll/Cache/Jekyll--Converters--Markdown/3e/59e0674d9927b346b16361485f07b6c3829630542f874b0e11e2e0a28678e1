@@ -1,4 +1,4 @@
-I"!<p><span style="color:white"> </span></p>
+I"“#<p><span style="color:white"> </span></p>
 
 <p><span style="color:red"> Update (8 June 2020):</span> Due to the Covid-19 situation, this symposium will now run online.</p>
 
@@ -66,16 +66,22 @@ Notification of acceptance: 10 April 2020-->
 <h1 id="contact">Contact</h1>
 <p>Contact the organisers: <a href="MathML2020@bath.ac.uk">MathML2020@bath.ac.uk</a></p>
 
+<h1 id="code-of-conduct">Code of conduct</h1>
+<p>We invite you to this event in a spirit of curiosity, friendliness, open-mindedness and respect. We value your participation and want to ensure a welcoming and safe environment for all. For more information on the code of conduct please refer to <a href="assets/pdf/code_of_conduct.pdf">link</a>.</p>
+
 <h1 id="sponsors">Sponsors</h1>
 <ul>
   <li><a href="https://www.bath.ac.uk/research-institutes/institute-for-mathematical-innovation/">Institute for Mathematical Innovation (IMI)</a></li>
   <li><a href="https://www.lms.ac.uk/">London Mathematical Society (LMS)</a></li>
+  <li><a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/">Microsoft Research</a></li>
   <li><a href="http://www.bath.ac.uk/centres-for-doctoral-training/epsrc-centre-for-doctoral-training-in-statistical-applied-mathematics-samba/">Statistical Applied Mathematics at Bath (SAMBa)</a></li>
   <li><a href="https://www.bath.ac.uk/">University of Bath</a></li>
 </ul>
 
-<p><img src="assets/logo/logo_imi.png" alt="IMI" height="90px" />
-<img src="assets/logo/logo_lms.jpg" alt="LMS" height="90px" />
-<img src="assets/logo/logo_samba.png" alt="SAMBa" height="90px" />
-<img src="assets/logo/logo_bath.png" alt="Bath" height="90px" /></p>
+<p><img src="assets/logo/logo_imi.png" alt="IMI" height="80px" />
+<img src="assets/logo/logo_lms.jpg" alt="LMS" height="80px" />
+<img src="assets/logo/logo_ms.png" alt="MS" height="80px" />
+<img src="assets/logo/logo_samba.png" alt="SAMBa" height="80px" />
+<img src="assets/logo/logo_bath.png" alt="Bath" height="80px" /></p>
+
 :ET
