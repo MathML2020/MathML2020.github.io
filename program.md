@@ -260,6 +260,13 @@ Tips for the poster session:
 - Please mute yourself if you are not speaking.
 
 
+**Poster Prizes**
+We are pleased to announce the following winners of the poster prize:
+- First place to  **Allard Hendriksen** for <em>Noise2Inverse: Deep tomographic denoising without high-quality target data</em>
+- Second place to  **Salvatore Danilo Riccio**	for	<em>Robustness of Runge-Kutta networks against adversarial attacks</em>
+- Third place to **Eliot Ayache and Tanmoy Laskar** for <em>Machine learning applications in High-Energy Time-Domain Astrophysics</em>
+
+
 | ID | Presenter | Title |
 |:---:|:---|:---|
 | 001 |  Eliot Ayache / Tanmoy Laskar (University of Bath) |	Machine learning applications in High-Energy Time-Domain Astrophysics  [**Poster**](Posters/Ayache_Eliot.png){:target="_blank"} 	[**Video**](https://drive.google.com/file/d/1Q32LzsS2ct9SmHPQyks4y9QiZgVD-qrD/view?usp=sharing){:target="_blank"} |
